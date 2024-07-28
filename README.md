@@ -1,5 +1,7 @@
 # grant-application-simulator
 
+![Interface](media/demo.png)
+
 ## Features
 
 Three main features:
