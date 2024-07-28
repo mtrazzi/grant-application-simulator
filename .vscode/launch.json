@@ -14,7 +14,7 @@
 				"${workspaceFolder}/examples/jacques_demo.txt",
 				"${workspaceFolder}/examples/michael_demo.txt",
 				"${workspaceFolder}/examples/esben_demo.txt",
-				"${workspaceFolder}/examples/jesse_demo.txt",
+				"${workspaceFolder}/examples/apart_demo.txt",
 			],
 			"outFiles": [
 				"${workspaceFolder}/out/**/*.js"

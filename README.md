@@ -15,6 +15,57 @@ Three main features:
 
 Requires an Anthropic API key (get one [here]([url](https://docs.anthropic.com/en/api/getting-started))).
 
+## Installation and Debug Guide
+
+Follow these steps to set up and debug the extension:
+
+1. **Clone the repository:**
+
+```bash
+git clone [your-repository-url]
+cd [repository-name]
+```
+
+2. **Install Node.js:**
+
+If not already installed, download and install Node.js from https://nodejs.org/
+
+3. **Install dependencies:**
+
+```bash
+npm install
+```
+
+4. **Compile the extension:**
+```bash
+npm run compile
+```
+
+5. **Open the project in VS Code:**
+```bash
+code . # or open . -a Visual\ Studio\ Code
+```
+
+6. **Start debugging:**
+
+- Press F5 or go to Run > Start Debugging
+- This will compile the extension and open a new VS Code window with your extension running
+
+7. **Test the extension:**
+
+In the new VS Code window, do Cmd+P then look for "> Grant Application Simulator: Focus on Main View"
+
+8. **Select text:**
+
+Select some text that you see on screen. You can select all text from Jacques proposal for the demo, or paste any text you want and select this instead.
+
+
+
+8. **Troubleshooting:**
+
+If you encounter "command not found" errors, verify that the command names in your code match those in package.json.
+For issues with the Anthropic API key, use the "Reset API Key" command to set a new key.
+
 ## Known Issues
 
 Answers are sometimes truncated.
@@ -23,4 +74,4 @@ Response time are long (more than 10 seconds), and the request timeouts are not 
 
 ## Release Notes
 
-Jul 29: releasing v0.1 for the [Research Augmentation Hackathon: Supercharging AI Alignment](https://www.apartresearch.com/event/research-augmentation-hackathon-supercharging-ai-alignment) 
+Jul 29: releasing v0.1 for the [Research Augmentation Hackathon: Supercharging AI Alignment](https://www.apartresearch.com/event/research-augmentation-hackathon-supercharging-ai-alignment)
