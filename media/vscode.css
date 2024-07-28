@@ -1,0 +1,13 @@
+/* Styles to match VS Code's theme */
+body {
+    font-family: var(--vscode-font-family);
+    color: var(--vscode-foreground);
+    background-color: var(--vscode-editor-background);
+  }
+  button {
+    background-color: var(--vscode-button-background);
+    color: var(--vscode-button-foreground);
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }

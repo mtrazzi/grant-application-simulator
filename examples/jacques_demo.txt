@@ -1,0 +1,114 @@
+Jacques Thibodeau - Independent AI Safety Research
+----------------------------------------------------
+
+### Project goals (TLDR)
+
+-   Publish post entitled, "Revisiting[ AGI Ruin](https://www.lesswrong.com/posts/uMQ3cqWDPHhjtiesc/agi-ruin-a-list-of-lethalities)."
+
+-   Complete the first version of "The Alignment Mosaic," an interconnected set of questions for making progress on alignment.
+
+-   Make progress on the[ Supervising AIs Improving AIs agenda](https://www.lesswrong.com/posts/7e5tyFnpzGCdfT4mR/research-agenda-supervising-ais-improving-ais).
+
+    -   Break down the work in the agenda to delegate work to those who want to contribute.
+
+-   Give an AI Safety talk at MILA that provides an overview of the main technical problems in AI alignment and an overview of what everyone in the field is working on.
+
+### Project summary
+
+I want to spend time deconfusing the problems we face in AI alignment, continue to work on one of my research agendas, and engage with the community. Grant would serve as funding while I wait for other longer-term grants.
+
+Deconfusion Work
+
+Publish post entitled, "Revisiting[ AGI Ruin](https://www.lesswrong.com/posts/uMQ3cqWDPHhjtiesc/agi-ruin-a-list-of-lethalities)."
+
+-   The purpose is to write a post going over all of the AGI Ruin-like arguments, all the criticisms of those arguments, and what it all means for the current situation and going forward. It may evolve into more than one post.
+
+-   I want to highlight and provide critiques of underlying assumptions to some of the AI risk arguments (e.g. instrumental convergence, orthogonality thesis, sharp left turn, etc.) so that the current difficulties are clearer.
+
+Complete the first version of "The Alignment Mosaic."
+
+-   The Alignment Mosaic is a collaborative project aimed at identifying all the necessary questions and sub-questions we need to answer to ensure confidence in our AI alignment solutions. An example of this collaboration can be seen in my question on LW about[ unsolved problems in AI alignment](https://www.lesswrong.com/posts/EPAofvLzsCwqYnekj/what-s-in-your-list-of-unsolved-problems-in-ai-alignment) and[ here](https://www.lesswrong.com/posts/GzykqeAg3tuKtg8aD/what-in-your-opinion-is-the-biggest-open-problem-in-ai). The Alignment Mosaic is a component of the broader[ Accelerating](https://docs.google.com/document/d/1mWOh2Qbh-mAbetS6Et5DgIyyikox7uP9MzuvVfXzlVE/edit?usp=sharing)[ Alignment](https://www.lesswrong.com/posts/jXjeYYPXipAtA2zmj/jacquesthibs-s-shortform?commentId=TGQkcFy6hqrt2zGDg) project. By having questions, we can point an Alignment Research Assistant toward insights that help us gain a better and more up-to-date understanding of alignment. "If you had hundreds of alignment interns (AIs), what questions would you have them try to answer?"
+
+Technical Prosaic Alignment Work
+
+[Supervising AIs Improving AIs agenda](https://www.lesswrong.com/posts/7e5tyFnpzGCdfT4mR/research-agenda-supervising-ais-improving-ais).
+
+This research agenda focuses on ensuring stable alignment when AIs self-train or train new AIs and studies how AIs may drift through iterative training. We aim to develop methods to ensure automated science processes remain safe and controllable. We intend to eventually write a paper about this work.
+
+I will particularly work on the[ Unsupervised Behavioral Evaluation](https://www.lesswrong.com/posts/7e5tyFnpzGCdfT4mR/research-agenda-supervising-ais-improving-ais#Unsupervised_behavioral_evaluation) project.
+
+-   This project focuses on scalable ways to compare the behavioral tendencies of different LMs, without necessarily knowing what you're looking for beforehand. The project's current approach is to query the two LMs to generate a wide variety of responses, then use a combination of unsupervised clustering and supervisor models to compare the response patterns of the two LMs, and automatically highlight any differences that seem surprising or relevant from an alignment perspective.
+
+-   The ultimate goal of this project is to greatly accelerate the part of LM alignment research where we evaluate how a given finetuning / alignment approach impacts an LM's behaviors, so that LM alignment researchers can more quickly experiment with different finetuning approaches.
+
+We are concerned that future AI systems may gain a big portion of their superintelligent capabilities through some form of online learning. I give some of the reasoning for this[ here](https://www.lesswrong.com/posts/CfpAXccrBvWpQw9xj/algorithmic-improvement-is-probably-faster-than-scaling-now?commentId=LnyB6PDhazjSXQbAY).
+
+This work could be used for both behavioral and [understanding-based safety evaluations](https://www.lesswrong.com/posts/uqAdqrvxqGqeBHjTP/towards-understanding-based-safety-evaluations).
+
+Community Building
+
+Give an AI Safety talk at MILA that provides an overview of the main technical problems in AI alignment and an overview of what everyone in the field is working on. An initial collection of projects/plans is found[ here](https://docs.google.com/spreadsheets/d/1u2XtVhpYqNHcUyuZJvWsfPNYgIUA5TL7j15vPuv9gIM/edit?usp=sharing). The purpose would be to provide academics (and others) who want to contribute to alignment with an overview of the field, what they can contribute, and the open problems. Of course, I will leverage[ other](https://www.lesswrong.com/posts/amBsmfFK4NFDtkHiT/seven-strategies-for-tackling-the-hard-part-of-the-alignment)[ alignment](https://www.lesswrong.com/posts/EjgfreeibTXRx9Ham/ten-levels-of-ai-alignment-difficulty)[ researchers](https://www.lesswrong.com/posts/3pinFH3jerMzAvmza/on-how-various-plans-miss-the-hard-bits-of-the-alignment)'[ work](https://www.lesswrong.com/posts/vMM6HmSQaKmKadvBi/the-core-of-the-alignment-problem-is-1)[ to](https://www.lesswrong.com/posts/EPAofvLzsCwqYnekj/what-s-in-your-list-of-unsolved-problems-in-ai-alignment)[ do](https://www.lesswrong.com/posts/GzykqeAg3tuKtg8aD/what-in-your-opinion-is-the-biggest-open-problem-in-ai)[ this](https://www.alignmentforum.org/posts/LbrPTJ4fmABEdEnLf/200-concrete-open-problems-in-mechanistic-interpretability).
+
+Note: I've recently spoken to Yoshua Bengio (and a few others) about AI safety and governance. He said it would be great if I could go give a talk like this at MILA.
+
+### How will this funding be used?
+
+Minimum case
+
+Taxes: 8.4k (35%)
+
+Salary: 14.4k (60%)
+
+Buffer: 1.2k (5%) (could hire someone for something small, tutoring, etc.)
+
+Total: 20k
+
+Median case (closer to typical alignment researcher salary)
+
+Taxes: 8.4k (35%)
+
+Salary: 14.4k (60%)
+
+Buffer: 1.2k (5%) (could hire someone for something small, tutoring, etc.)
+
+Total: 24k
+
+Maximum case
+
+Additional funding (up to 25k) would go toward paying a software engineer to work on my Accelerating Alignment agenda ([detailed in my other grant proposal](https://docs.google.com/document/d/1mWOh2Qbh-mAbetS6Et5DgIyyikox7uP9MzuvVfXzlVE/edit?usp=sharing)). I could direct the project at a more vision, product-design level, and they could focus on coding.
+
+### What is your (team's) track record on similar projects?
+
+-   I worked with Quintin et al. to publish the[ ](https://www.lesswrong.com/posts/7e5tyFnpzGCdfT4mR/research-agenda-supervising-ais-improving-ais)[Supervising AIs Improving AIs agenda](https://www.lesswrong.com/posts/7e5tyFnpzGCdfT4mR/research-agenda-supervising-ais-improving-ais).
+
+-   [SERI MATS 2.0/2.1](https://www.serimats.org/): I worked on interpretability ([ROME](https://www.lesswrong.com/posts/QL7J9wmS6W2fWpofd/but-is-it-really-in-rome-an-investigation-of-the-rome-model) and[ Causal Scrubbing](https://www.lesswrong.com/posts/DFarDnQjMnjsKvW8s/practical-pitfalls-of-causal-scrubbing)), looking into the core of alignment (questioning things like the Sharp Left Turn), and started to flesh out my Accelerating Alignment agenda (described[ here](https://docs.google.com/document/d/1mWOh2Qbh-mAbetS6Et5DgIyyikox7uP9MzuvVfXzlVE/edit?usp=sharing)).
+
+    -   The ROME post led to some interesting insights into the nature of how knowledge is stored in transformers, which the original authors and others have found quite useful.
+
+    -   (Never published)[ Model Editing and Causal Interpretability Methods for Alignment](https://docs.google.com/document/d/1-xrEuOLHpnrXR0NUrPNW2w8l03U-1yP8ogwncAtvqVM/edit?usp=sharing) is a follow-up to my post on the ROME method. My intention for this kind of work was to make it possible to retarget the search / steer AI models like it was wonderfully shown in a[ recent post](https://www.lesswrong.com/posts/5spBue2z2tw4JuDCx/steering-gpt-2-xl-by-adding-an-activation-vector) by Turner et al.
+
+    -   (Never published)[ Guiding Externalized Monologues (GEM)](https://docs.google.com/document/d/1VCOiLbIDpfL8Aww2UaLJtahDzs0R9ODXN4ccDGlXFwk/edit?usp=sharing) is a method for applying process-level feedback to pre-trained language models that aims to efficiently steer their reasoning processes in a way that is robust and human-interpretable.
+
+-   I gave a talk going over the field of alignment and how different people are approaching the problem. Google sheet of what I went over can be found[ here](https://docs.google.com/spreadsheets/d/1u2XtVhpYqNHcUyuZJvWsfPNYgIUA5TL7j15vPuv9gIM/edit?usp=sharing).
+
+-   [AI Safety Camp](https://aisafety.camp/):[ A descriptive, not prescriptive, overview of current AI Alignment Research](https://www.lesswrong.com/posts/FgjcHiWvADgsocE34/a-descriptive-not-prescriptive-overview-of-current-ai). I created and wrote most of the code for the Alignment Text Dataset (which included an[ ](https://arxiv.org/abs/2206.02841)[arXiv paper](https://arxiv.org/abs/2206.02841)). It now has been used at Anthropic (they said they used it for evals), OpenAI (use it to accelerate alignment work), and various alignment researchers are using it (including the[ AlignmentSearch tool](https://www.lesswrong.com/posts/bGn9ZjeuJCg7HkKBj/introducing-alignmentsearch-an-ai-alignment-informed) and the[ ](http://stampy.ai/)[Stampy.ai](http://stampy.ai/) team).
+
+-   I've acted as a facilitator for AGISF 201 reading groups twice.
+
+-   I've been a mentor in the AI Safety Mentors and Mentees program ([mentorship example](https://www.lesswrong.com/posts/nJHXQWCSByS4SxfQz/if-wentworth-is-right-about-natural-abstractions-it-would-be#comments)).
+
+-   I used to work as a data scientist, where I trained all kinds of ML models and ran experiments.
+
+Note [July 13th]: I've just started reaching out to more senior researchers who might like to provide mentorship while I work on my independent research. If *you* are a senior research and would like to mentor me for one or more of my projects, I'd be really grateful!
+
+### How could this project be actively harmful?
+
+1.  The deconfusion work could be incorrect in pointing to the fundamental questions we need to answer for AI alignment, guiding researchers on the wrong path. I hope to have a lot of open and private discussions to mitigate this.
+
+2.  For the Supervising AIs Improving AIs agenda, we have a section on dual-use concerns[ here](https://www.lesswrong.com/posts/7e5tyFnpzGCdfT4mR/research-agenda-supervising-ais-improving-ais#Dual_use_concerns).
+
+3.  For community building, I could give a bad seminar on alignment work, thereby turning off researchers at MILA. I could also inadvertently push them to work on something that seems good for alignment but ends up progressing capabilities more.
+
+### What other funding is this person or project getting?
+
+I'm not currently receiving any funding as I am waiting for year-long funding from LTFF, Lightspeed Grants or Nonlinear Network. The year-long grant proposal can be found[ here](https://docs.google.com/document/d/1mWOh2Qbh-mAbetS6Et5DgIyyikox7uP9MzuvVfXzlVE/edit?usp=sharing). This Manifund grant would be used to act as a bridge for continuing my alignment work. It also serves as funds for work that I think is important for reorienting the field of alignment towards more important work and sharpening our intuitions about the current problem. I want to spend 3 months doing this work, given that I wouldn't have time to do it for the year-long grant, and right now, I'm in-between grants.

@@ -1,0 +1,307 @@
+# Grants evaluated by Adam Gleave (September 2020)
+
+Adam Gleave
+Joe Collman ($25,000)
+Developing algorithms, environments and tests for AI safety via debate.
+
+Joe was previously awarded $10,000 for independent research into extensions to AI safety via debate. We have received positive feedback regarding his work and are pleased to see he has formed a collaboration with Beth Barnes at OpenAI. In this round, we have awarded $25,000 to support Joe's continued work and collaboration in this area.
+
+Joe intends to continue collaborating with Beth to facilitate her work in testing debate in human subject studies. He also intends to develop simplified environments for debate, and to develop and evaluate ML algorithms in this environment.
+
+In general, I apply a fairly high bar to funding independent research, as I believe most people are more productive working for a research organization. In this case, however, Joe has demonstrated an ability to make progress independently and forge collaborations with established researchers. I hope this grant will enable Joe to further develop his skills in the area, and to produce research output that can demonstrate his abilities to potential employers and/or funders.
+
+AI Impacts ($75,000)
+Answering decision-relevant questions about the future of artificial intelligence.
+
+AI Impacts is a nonprofit organization (fiscally sponsored by MIRI) investigating decision-relevant questions about the future of artificial intelligence. Their work has and continues to influence my outlook on how and when advanced AI will develop, and I often see researchers I collaborate with cite their work in conversations. Notable recent output includes an interview series around reasons why beneficial AI may be developed "by default" and continued work on examples of discontinuous progress.
+
+I would characterize much of AI Impacts' research as things that are fairly obvious to look into but which, surprisingly, no one else has. In part this is because their research is often secondary, summarizing relevant existing sources, and interdisciplinary -- both of which are under-incentivized in academia. Choosing the right questions to investigate also requires considerable skill and familiarity with AI research.
+
+Overall, I would be excited to see more research into better understanding how AI will develop in the future. This research can help funders to decide which projects to support (and when), and researchers to select an impactful research agenda. We are pleased to support AI Impacts' work in this space, and hope this research field will continue to grow.
+
+We awarded a grant of $75,000, approximately one fifth of the AI Impacts budget. We do not expect sharply diminishing returns, so it is likely that at the margin, additional funding to AI Impacts would continue to be valuable. When funding established organizations, we often try to contribute a "fair share" of organizations' budgets based on the Fund's overall share of the funding landscape. This aids coordination with other donors and encourages organizations to obtain funding from diverse sources (which reduces the risk of financial issues if one source becomes unavailable).
+
+(Recusal note: Due to working as a contractor for AI Impacts, Asya Bergal recused herself from the discussion and voting surrounding this grant.)
+
+# Grants evaluated by Adam Gleave (December 2021)
+
+-   Chad DeChant ($90,000): Funding to finish AI-safety related CS PhD on enabling AI asagents to accurately report their actions
+    -   [Chad DeChant](http://www.cs.columbia.edu/~dechant/) is a final-year CS PhD candidate at Columbia, working on enabling AI agents to report on and summarize their actions in natural language. He recently switched advisor to Daniel Bauer to pursue this topic, but unfortunately Daniel was unable to support him on a grant. This funding allows Chad to complete his CS PhD. 
+
+        Chad has previously taught a course on AI Safety, Ethics and Policy. He is interested in pursuing a career combining technical AI safety with policy and governance, which I think Chad is a good fit for. Completing a PhD is a prerequisite for many of these relevant positions, so it seems worth enabling Chad to complete the program. Additionally, I think it is plausible that his current research direction will help with long-term AI safety.
+
+-   The Center for Election Science ($50,000): General support for campaigns to adopt approval voting at local levels in the US *(Note: we had originally included an outdated version of this write-up in this post; we've now updated this.)*
+    -   Plurality voting, where electors vote for a single candidate from a list and the one with the most votes wins, is by far the most common voting system worldwide. Yet it is widely agreed by social choice theorists to be one of the worst voting systems, leading to random outcomes and often favoring extreme candidates. The Center for Election Science (CES) campaigns to adopt approval voting in the US, where voters can pick every candidate they "approve" of and the one with most approval wins.
+
+    -   I'm not sure whether approval voting is better than alternatives like ranked choice voting: my sense is approval voting has nicer theoretical properties and is backed by lab experiments. However, ranked choice voting has been battle-tested in more political situations. Both of them are, however, much better than plurality voting.
+
+    -   If implemented, approval voting could result in politicians being elected that more reliably reflect popular opinion and, in particular, favor candidates that appeal to a broad base. This seems likely to improve political stability and institutional decision-making, which seems robustly positive for the long-term. However, it's not without its pitfalls. For example, perhaps an extreme candidate winning occasionally helps "reset" government and keep it dynamic. Approval voting is likely to avoid those extreme candidates who don't have sufficient support.
+
+    -   CES has won ballot initiatives in Fargo, ND (population 125k) and St Louis, MI (population 300k), at an average cost of $10 per voter. They have also organised a nationwide chapter system, outreach campaigns and a small research department. I'm confident they can replicate this success in other cities in the US, and think it's plausible they can scale to get approval voting used in some state gubernatorial races.
+
+        However, from a longtermist perspective, most *local* governments are of limited importance -- what matters is mostly the decision of the US and other influential nation states, and some key international bodies.
+
+        CES may be able to have influence at the federal level by changing state-level voting rules on how senators and representatives are elected. This is not something they have accomplished yet, but would be a fairly natural extension of the work they have done so far. Additionally, they may be able to influence presidential primaries. Parties have significant leeway here, with substantial variation between states.
+
+        Influencing presidential elections would be significantly harder. Plurality and approval voting give effectively the same outcome in two-candidate races, which US presidential elections currently are *de facto*. If all states adopted approval voting, then presidential races could include a broader range of candidates. The best option is likely an interstate compact to adopt a national popular approval vote, which would require only a majority of states to adopt it.
+
+        I find the most plausible path to (long-term) impact being that CES continues to switch local jurisdictions to approval voting, and that this provides enough real-world demonstration of approval voting's value that new international institutions or nation states adopt it. Improving the composition of the Senate and House is also likely to provide some benefit, but I judge it to be smaller.
+
+-   Prof Nick Wilson ($27,000): Fund a research fellow to identify island societies likely to survive sun-blocking catastrophes and optimising that chance of survival
+    -   [Nick Wilson](https://www.otago.ac.nz/wellington/departments/publichealth/staff/otago024455.html) is a Professor in Public Health at the University of Otago. We funded him to hire a research assistant for a paper investigating possible island refuges for sun-blocking agricultural catastrophes. Such catastrophes are both plausible (e.g. from nuclear war or volcanic eruption) and reasonably neglected. The study has now been completed and the findings are covered in a [long post](https://funds.effectivealtruism.org/posts/7arEfmLBX2donjJyn/islands-nuclear-winter-and-trade-disruption-as-a-human) on the EA Forum. More detailed articles have been submitted to journals, but the preprints are now available (for [the main study](https://www.researchsquare.com/article/rs-1927222/v1), and another study of [food self-sufficiency](https://medrxiv.org/cgi/content/short/2022.05.13.22275065v1) in New Zealand). The key findings were that some locations could likely produce enough food in a nuclear winter to keep feeding their populations, but food supply alone does not guarantee flourishing of technological society if trade is seriously disrupted.
+-   Benedikt Hoeltgen ($19,020): 10-month salary for research on AI safety/alignment, focusing on scaling laws or interpretability.
+    -   We are funding Benedikt to work on technical AI safety research with [Sören Mindermann](https://oatml.cs.ox.ac.uk/members/soren_mindermann/) and [Jan Brauner](https://oatml.cs.ox.ac.uk/members/jan_brauner/) in Yarin Gal's group at Oxford. Benedikt published several papers in philosophy during his undergraduate degree, and switched to ML research during his Master's in Computer Science after speaking to 80,000 Hours. I think Benedikt has a promising career ahead of him, and that this research experience will help him get into top PhD programs or other research-focused positions.
+-   Anonymous (pseudonym Gurkenglas) ($14,125): 3-month salary to produce an interpretability tool that illustrates the function of a network's modules.
+    -   Understanding how neural networks work will help with AI safety by letting us audit networks prior to deployment, better understand the kind of representations they tend to learn, and potentially use them as part of a human-in-the-loop training process. The applicant has proposed a novel approach to interpretability based around computing the invariances of a neuron -- what other inputs produce the same activations-- and detecting modules in a neural network. While I consider this direction to be somewhat speculative, it seems interesting enough to be worth funding and to renew if the results show promise.
+-   Anonymous ($8,000): 5-month salary top-up to plug hole in finances while finishing PhD in AI governance.
+    -   The grantee is pursuing a PhD on a topic related to AI governance. They have a temporary hole in finances due to a low PhD stipend coupled with high living expenses in their current location. I have heard positive things about their work from experts in the field, so I think it is worth providing them with this relatively small supplement to ensure financial limitations do not hamper their productivity.
+-   Anson Ho ($4,800): 3-month funding for a project analysing AI takeoff speed
+    -   Anson is a recent Physics graduate from St Andrews. We are funding them to work with Vael Gates (Stanford post-doc) to study AI takeoff speed and continuity. While this topic has been studied shallowly in the past, I think there is still plenty of room for future work. Anson is new to AI strategy research but has a strong STEM background (first-class degree from a top university) and has done some self-studying on AI (e.g. attended EA Cambridge's AGI Safety course), and so seems to have a good chance of making progress on this important problem.
+
+# Grant reports by Adam Gleave (July, 2021)
+
+Dmitrii Krasheninnikov ($85,530)
+Financial support to improve Dmitrii’s research productivity during his PhD.
+
+We are providing financial support to Dmitrii, a PhD student at Cambridge advised by David Krueger, to improve his research productivity during his PhD. We have previously made several grants providing supplementary funding to graduate students. I've outlined my rationale for this kind of grant in the May 2021 report, so I will focus on what's unique about Dmitrii's case.
+
+Dmitrii's past research shows a clear interest in working on important topics in AI safety. Moreover, I'm particularly excited that he is being advised by David Krueger (who the LTFF has also previously supported). I generally expect PhDs to be more successful when there is strong overlap between the research interests of the student and advisor, which I expect to be the case here.
+
+Kai Sandbrink ($4,950)
+DPhil project in AI that addresses safety concerns in ML algorithms and positions Kai to work on China-West AI relations.
+
+We are funding Kai for his PhD in Experimental Psychology at the University of Oxford. Kai intends to focus on improving reinforcement learning algorithms with approaches inspired by cognitive science. Prior to starting his PhD, Kai completed an MS in Neural Systems and Computation at ETH Zurich and an MA in China Studies at Peking University.
+
+I expect most of the impact from this grant to come from the PhD program being good preparation for Kai's future career. Kai is interested in continuing to perform AI research, and this seems like a good pathway into it given his existing background in neuroscience. Additionally, it is possible his PhD research will increase the robustness of RL agents that could directly improve AI safety, although I find the case for this tenuous (and it is not the primary motivation for the research project).
+
+Additionally, Kai has a strong interest in China, and is hoping to spend some of his PhD at Peking University. I generally expect greater collaboration and understanding between Chinese and Western AI researchers to be positive for both sides. Many problems in AI safety are necessarily global: in the extreme case, one actor deploying a powerful but misaligned AI system could cause a global catastrophe. I expect increased communication between AI researchers in different countries to help prevent this, both by  enabling the sharing of relevant safety techniques and by helping to develop shared standards or regulation for this technology.
+
+Joe Collman ($35,000)
+Research on amplification approaches to AI alignment.
+
+We are funding Joe to continue his independent research into improved understanding of amplification approaches to AI alignment. We previously funded Joe in September 2020 and November 2019. I found his work over the past year to have produced several valuable insights. Most notably, he identified a novel problem in the popular AI safety via debate paradigm. While I think there are more pressing challenges for debate, I am glad this problem is now in the literature.
+
+Joe has also developed a new conceptual approach for debate, based on splitting the debater into separate agents with one behind a veil of ignorance, which he argues results in better equilibria. This approach seems promising to me, but I have been unable to conduct a full assessment, as at the time of evaluation there was no detailed write-up.
+
+After interviewing Joe, I think his proposal has significant potential, and so think his work merits continued funding. However, I do have some hesitation here due to the limited tangible research output produced so far. While Joe has made clear progress, I would usually like to see a clear track record of successful research projects after several years of funding. However, Joe has been focused on high-risk, high-reward research problems, which by their nature may not produce immediate positive results. Given this, I am inclined to give the benefit of the doubt here, but I intend to place greater weight on concrete output in evaluations of any future renewals.
+
+Brad Saad ($3,500)
+Investigating implications of the simulation hypothesis.
+
+We are funding Brad Saad, a philosophy post-doc at Rutgers University, to investigate connections between civilization-scale simulations and existential risk. In particular, the simulation hypothesis proposes that we might be living in a simulation. If true, the chance the simulation is shut off would (from our perspective) be a source of existential risk. While the simulation hypothesis is obviously highly speculative, it seems credible enough to be worth seriously considering the consequences of its being true. I expect this work to involve organizing the literature on this topic and outlining directions for further research, which seems valuable.
+
+# Grant reports by Adam Gleave (May 2021)
+
+Adam Shimi – $60,000
+Independent research in AI alignment for a year, to help transition from theoretical CS to AI research.
+
+Recusal note: Evan Hubinger did not participate in the voting or final discussion around this grant.
+
+Adam applied to perform independent research on AI safety for 1 year in collaboration with Evan Hubinger at MIRI, whom he has been working with since mid-2020. Adam completed a PhD from IRIT (publications) in 2020 focused on distributed computing theory. Since then, he has written a number of posts on the Alignment Forum.
+
+I particularly liked his Literature Review on Goal-Directedness, which I felt served as an excellent introduction to the area with a useful taxonomy of different motivations (or "intuitions") for the work. This seems like a good example of research distillation, a category of work that is generally under-incentivized both by academia and by the major corporate AI labs. I'm not sure AI safety needs much in the way of distillation at this point (it's still a fairly small field), but at the margin I think we'd likely benefit from more of it, and this need will only grow as the field scales. Given this, I'm generally excited to see good research distillation.
+
+In addition to continuing his research distillation, Adam plans to work on formalizing goal-directedness. He seems well-prepared for this given his CS theory background and grasp of the existing space, as evidenced by his literature review above. I find this direction promising: slippery and imprecise language is common in AI safety, which often leads to miscommunication and confusion. I doubt that Adam or anyone else will find a universally agreed-upon formalism for goal-directedness, but attempts in this area can help to surface implicit assumptions, and I expect will eventually lead to a more coherent and precise taxonomy of different kinds of goal-directedness.
+
+I tend to apply a fairly high bar to long-term independent research, since I think it is hard to be a productive researcher in isolation. There are several factors that make me more positive about this case:
+
+Adam already has significant research experience from his PhD, making him more likely to be able to make progress with limited oversight.
+Evan Hubinger is spending around 1 hour a week on informal mentorship, which I think helps to provide accountability and an independent perspective.
+Adam is interested in working at an organization long-term, but has found finding a position particularly challenging this year owing to the pandemic.
+Given this, it seems reasonable to support Adam for a year to continue his research while he searches for positions.
+
+The main concern I have regarding this grant is that Adam's previous work in distributed computing seems to have had a limited impact on the field, with only 6 citations as of the time of writing. While it's entirely possible that Adam has better personal fit in AI safety, his track record in that field is brief enough that I’m not yet confident about this. However, there are other positive signs: his previous publications were all in reasonable conferences, including one in PODC, which I understand to be one of the top-tier venues in distributed computing. Unfortunately, I am not familiar enough with this area of CS to render my own judgment on the papers, so have instead relied primarily on my impressions of his more recent AI-focused work.
+
+Amon Elders – $250,000
+Doing a PhD in computer science with a focus on AI safety.
+
+Amon applied for funding to support a PhD position in artificial intelligence working with Prof. Michael Osborne. Receiving funding was important to securing an offer, since there is limited PhD funding available for non-UK citizens in the UK after Brexit. Moreover, the funding sources that are available have application deadlines earlier in the year, and so waiting for these would have delayed the start of the PhD by a year.
+
+Amon graduated from UCL with an MS in CS & ML (with distinction). His research experience includes a year-long RA position at the Italian Institute of Technology in Genoa with his UCL supervisors, which resulted in a third-author publication in AIES, and an MS Thesis on learning to rank. Amon also has relevant professional experience, having worked as an ML engineer at Spark Wave, and as an undergraduate co-founded the EA society at the University of Amsterdam.
+
+Amon is particularly interested in working on robustness and distributional shift in his PhD, though he is also considering other topics. While his research direction is currently tentative, he is familiar with the key aspects of long-term AI safety and is interested in pursuing this direction further both during and after his PhD.
+
+Michael Osborne seems like a good advisor given Amon's interests. Michael has a deep background in Bayesian ML which is relevant for robustness and distributional shift, and Michael also has an interest in the social impact of machine learning. Additionally, Michael Osborne is also advising Michael Cohen, a PhD scholar at FHI. While Michael Cohen is pursuing a different concrete research agenda to Amon's current interests, they have a similar high-level focus, so I expect being in the same group will help lead to fruitful discussions.
+
+I generally think there's a strong case for funding talented people to pursue PhDs on relevant topics. For one, this is a great way of training relevant researchers: I think PhDs generally do a good job of teaching relevant research skills and are a valuable credential. In addition, there's often scope to produce directly valuable research during a PhD, although the opportunity here varies between labs.
+
+A big reason why I'm often hesitant to fund PhDs is adverse selection. There are many other funding sources for PhDs: government fellowships, university bursaries, private endowments, advisors’ research grants, etc. Most of the people who we would want to fund can easily get funding from elsewhere. So the applications we see will be disproportionately those whom other funders have chosen to reject. However, Amon was simply ineligible for the majority of those funding sources, so this consideration is much weaker in his case. He ended up getting 5 PhD offers including offers from Oxford, Cambridge, UCL, and Imperial.
+
+The main concern I have with this grant is that Amon may end up working on topics that I do not believe will have an impact on the long-term future. This could be fine if he later pivots to focus more on AI safety post-PhD, but research direction often can be "sticky" (see similar discussion in the write-up for
+
+Anonymous below). However, Amon does seem to currently be on a promising path, and he’s currently keeping up with AI safety research at other labs.
+
+David Krueger – $200,000, with an expected reimbursement of up to $120,000
+Computing resources and researcher salaries at a new deep learning + AI alignment research group at Cambridge.
+
+David, a newly appointed AI faculty member in Cambridge's CBL Lab, applied for funding to support PhD students and to purchase computational resources. David has a strong track record of working on AI safety research. He is a co-author on the ARCHES, Trustworthy AI Development, and Recursive Reward Modeling research agendas. He has also made several relevant technical contributions, including Hidden Incentives for Auto-Inducted Distributional Shift, Out-of-Distribution Generalization via REx, and Active Reinforcement Learning. David has also helped with field-building via co-organizing the AI Safety Unconference held concurrently with NeurIPS.
+
+I am generally excited about supporting academic labs that want to focus on AI safety research. Right now CHAI is the only academic lab with a critical mass of people working on technical AI safety. While there are a handful of other early-stage labs, I believe we still need many more if we are to seriously expand the field of AI safety in academia.
+
+The most direct path for impact I see for additional safety-focused academic labs is allowing PhD students with a pre-existing interest in safety to work on related research topics. Right now, many PhD students end up in labs focused on unrelated topics. Indeed, I've even recommended that prospective students "give more weight to program quality than the ability to pursue topics you consider important." While I stand by this advice, I hope that as safety-focused labs expand, students will no longer have to make this trade-off.
+
+I also expect that students graduating from a safety-focused academic lab will be better prepared to perform safety research than if they had worked in another lab. I’d estimate that they will save somewhere between 6 months and a year of time that would otherwise need to be spent on literature review and clarifying their thinking on safety after graduation.
+
+Perhaps the largest upside, though also one of the more uncertain ones, is an indirect field-building effect. Right now, a large fraction of people working on AI safety have been influenced by the philosophy of effective altruism (EA). While I am grateful for the support of the EA community on this topic, this also highlights a failure to tap into the much larger talent pool of (prospective) AI researchers who aren’t connected to that community. Academic labs can help with this by recruiting PhD students who are interested in, but have little prior exposure to, safety, and by shifting the thinking of other more senior researchers.
+
+Despite this positivity, we do not want to indiscriminately fund academic labs. In particular, most of the best academic AI research happens in the top 20 or so universities. Outside of those universities, I would expect a significant drop-off in the caliber of PhD applicants, as well as the lab being in a worse position to influence the field. On this criterion, Cambridge seems like a good place for a new lab: it is one of the best universities in the world for Bayesian ML, and benefits from the presence of strong mathematics and CS departments. While I would be even more excited by a lab at the likes of Stanford or MIT, which have amongst the strongest AI groups right now, Cambridge is clearly still a good place to do AI research.
+
+David intends to use our funding to support new PhD students and purchase computational resources. Both of these seem like reasonable uses of funding:
+
+PhD students: I reviewed a list of prospective PhD students and saw several applicants who seem strong, and I would be excited to see them join David's lab. While PhD students can often receive fellowships or scholarships from other sources, these opportunities are limited for international students in the UK. Furthermore, current applicants are not eligible for most of those funding sources this year, because David received his faculty offer after many funding deadlines had already passed.
+Computational resources: The CBL lab that Cambridge is joining has limited in-house computational resources, with a ratio of around 2 GPUs per student. Moreover, the existing resources are fragmented between many small servers and workstations. I spoke to a current student at the CBL who confirmed that there is a shortage of computational resources which both limits the scope of possible experiments and wastes time.
+The main risk I see with this grant is that, since the funding is unrestricted, we might be negatively surprised by what it is spent on. In particular, it is conceivable that it could be used to fund a PhD student the LTFF would not have chosen to fund directly. However, unrestricted funding is also more valuable to David, allowing him to make timely offers to students who are faced with short deadlines from competing institutions. Moreover, David has a strong incentive to recruit good students, so it isn’t clear that the LTFF has a comparative advantage in evaluating his prospective students. Overall, these considerations seem to weigh heavily in favour of unrestricted funding, although this does make the outcome harder to predict.
+
+It's also possible that mentorship will cease to be a major bottleneck on the growth of the AI safety field in the near future. Senior safety researchers are graduating in increasing numbers, and many of them are interested in faculty positions. Moreover, my (by no means rigorous) impression is that the growth in PhD candidates is beginning to slow (though is still expanding). If mentorship becomes more plentiful in the future, David’s lab may be significantly less influential than expected. However, I think this grant (barely) clears the bar for funding even on the basis of its expected short-term impact alone (before mentorship "catches up" with the influx of junior research talent).
+
+We thought the Survival and Flourishing Fund would also be likely to want to fund David, and we thought it would be fair to share the costs with them, so we arranged with them that the first $120,000 of any money they decide to give to David Krueger will be given back to us instead.
+
+Anonymous – $41,869
+Doing a 3rd and 4th year of a PhD in machine learning, with a focus on AI forecasting.
+
+We are providing financial support to Anonymous, a PhD student at Oxford advised by Yarin Gal, to improve his research productivity during his PhD. This is a renewal of our grant made in August 2019 at the start of his PhD. Anonymous anticipates spending money on items such as home office equipment, meal replacements (to spend less time cooking), a cleaning service, and other miscellaneous productivity-boosting costs.
+
+We have made several grants providing supplementary funding to graduate students, such as Vincent Luczkow and an anonymous PhD candidate, so it's worth taking a moment to reflect on our general approach to evaluating these grants. In general, I find the basic case for providing supplementary funding to graduate students fairly strong. The stipend provided to graduate students is often very low, especially outside the US. In Anonymous's case, his stipend pays £15,000/year ($21,000/year equivalent). I therefore expect him, and other students in similar positions. to be able to productively use additional funding. Concretely, I would anticipate a grant of $20,000/year to be able to "buy" an extra 2 to 8 hours of additional productive work per week, giving a cost of around $50 to $200/hour.
+
+As a rule of thumb, I'd be very excited to buy an additional hour of the median junior AI safety researcher’s time for $50. At $100, I'd still weakly favor this purchase; at $200, I would lean against but feel uncertain. This is very sensitive to personal fit and track record — I could easily go 4x higher or lower than this depending on the candidate.
+
+In the case of existing researchers, I think we should actually be willing to pay slightly more than this. In other words, I would prefer to have 10 researchers who each produce "1.1 units" of research than 11 researchers who each produce "1 unit". My rationale for this is that growing the number of people in a field imposes additional communication costs. Additionally, the reputation of a field depends to some extent on the average reputation of each researcher, and this in turn affects who joins the field in the future. This makes it preferable to have a smaller field of unusually productive researchers than a larger field of less productive researchers.
+
+In addition to increasing direct research output, I anticipate these grants also having positive indirect effects. In particular, the track record someone has in a PhD heavily influences their future job opportunities, and this can be very sticky, especially in faculty positions.
+
+One countervailing consideration is that people already in PhD programs applying for funding are highly likely to continue in the field. The impact on someone's career trajectory might be greater providing funding pre-PhD, especially if that allows them to secure a position they otherwise wouldn't. For this reason, all else being equal I think we should be more excited about funding people for a PhD than topping up funding of someone already in a PhD. However, in practice it's quite rare for us to be able to truly counterfactually change someone's career trajectory in this way. Most talented researchers secure PhD funding from other sources, such as their advisor's grants. When we have made a grant to support someone in a PhD, I expect it has most often merely accelerated their entry into a PhD program, rather than altering their long-run trajectory.
+
+While I do not believe this applies in Anonymous's case, I also think having a norm that additional funding is available may encourage people to pursue PhDs who would otherwise have been reluctant to do so due to the financial sacrifices required. This is particularly relevant for people later in their careers, who might have to take a significant pay cut to pursue a PhD, and are more likely to have dependents and other costs.
+
+Turning back to the specifics of this grant, Anonymous's work to date has focused on causal inference. His publications include a more theoretical paper in NeurIPS (a top-tier ML conference), and a joint first-author paper in Science evaluating different government interventions against COVID-19. This seems on par with or exceeding the publication track record of other PhD students in similar programs and seniority. Having a Science paper in particular is very unusual (and impressive) in ML, however I do think this was facilitated by working on such a topical issue, and so may be a difficult feat to repeat.
+
+My biggest concern is that none of the work to date has focused on directly improving the long-term future. There's a tentative case for the COVID-19 work helping to improve governments’ response to future pandemics or generally improve methodology in epidemiology, but I'm unconvinced (although I do think the work looks good from a short-term perspective). Similarly, while Anonymous's work on causal inference is in a relevant area, and will be useful for skill-building, I don't see a clear pathway for this to directly improve technical AI safety.
+
+However, I think that it can be a reasonable choice to focus more on skill-building during your PhD. In particular, it is often useful to start by imitating the research direction of those around you, since that will be the area for which you can get the most detailed and valuable feedback. While this may limit your short-term impact, it can set you up for an outsized future impact. The catch is that you must eventually pivot to working on things that are directly important.
+
+In Anonymous's case, I'm reasonably confident such a pivot will happen. Anonymous is already considering working on scaling laws, which have a clear connection to AI forecasting, for the remainder of his PhD. Additionally, we have clear evidence from his past work (e.g. internships CHAI and FHI) that he has an interest in working on safety-related topics.
+
+Nonetheless, I think research directions can end up surprisingly sticky. For example, you tend to get hired by teams who are working on similar things to the work you've already done. So I do think there's around a 25% chance that Anonymous doesn't pivot within the next 3 years, in which case I'd regret making this grant, but I think the risk is worth taking.
+
+# Adam Gleave comments on Manifund
+
+Travel funding for International Conference on Learning Representations
+AdamGleave avatar
+Adam Gleave
+
+3 months ago
+
+Main points in favor of this grant
+Good paper that would be exciting to disseminate. This is a very cheap way of supporting that.
+
+Donor's main reservations
+The paper is very theoretical in nature and may not end up improving AI safety in practice.
+
+Process for deciding amount
+I asked Joar for an estimate of the travel costs, checked they were reasonable, and then added my own estimate for costs for food/sundries in Vienna.
+
+Conflicts of interest
+Please disclose e.g. any romantic, professional, financial, housemate, or familial relationships you have with the grant recipient(s).
+
+I previously supervised Joar Skalse on a related project. Joar is currently a contractor working on a separate project for my organization, FAR AI.
+
+Automatic circuit discovery on sparse autoencoded features
+AdamGleave avatar
+Adam Gleave
+
+7 months ago
+
+Main points in favor of this grant
+Promising research idea; "obvious next step" but not one that anyone else seems to be working on.
+
+Can Rager has relevant research experience.
+
+David Bau's lab is a recognized name in the field and a competent collaborator.
+
+Donor's main reservations
+Limited track record from Can.
+
+Research project is high-risk, high-reward.
+
+Process for deciding amount
+$6000-$9000/month seems to be around the going rate for junior independent research based on previous LTFF grants. I went on the higher end as: (a) stipend may need to pay for office expenses not just living expenses; (b) Can intends to be based in the Bay Area for some of this time, a high cost-of-living location.
+
+Conflicts of interest
+Can may spend some of his stipend on a desk & membership in FAR Labs, an AI safety co-working space administered by the non-profit FAR AI that I am the founder and CEO of. This is not a condition of this grant, and I have encouraged Can to explore other office options as well. I do not directly benefit financially from additional members at FAR Labs, nor would one member materially change FAR AI's financial position. No other conflicts of interest.
+
+
+
+Show less
+Introductory resources for Singular Learning Theory
+AdamGleave avatar
+Adam Gleave
+
+about 1 year ago
+
+Typo: salary is $91,260 annualized not $92,260.
+
+Introductory resources for Singular Learning Theory
+AdamGleave avatar
+Adam Gleave
+
+about 1 year ago
+
+Main points in favor of this grant
+There's been an explosion of interest in Singular Learning Theory lately in the alignment community, and good introductory resources could save people a lot of time. A scholarly literature review also has the benefit of making this area more accessible to the ML research community more broadly. Matthew seems well placed to conduct this, having already familiarized himself with the field during his MS thesis and collected a database of papers. He also has extensive teaching experience and experience writing publications aimed at the ML research community.
+
+Donor's main reservations
+I'm unsure how useful Singular Learning Theory is going to be for alignment. I'm most unsure whether it'll actually deliver on the promise of better understanding deep networks. The positive case is that traditional statistical learning theory has some serious limitations, making predictions that contradict empirical results on deep networks, so we need some replacement. But grandiose theories pop up now and again (the neural tangent kernel was hot last year, for example) yet rarely pan out. Singular learning theory has been around for several decades, so that it only recently gained popularity in ML should also give some pause for thought. It seems plausible enough and enough people are excited by it what I'm willing to give it a shot for a relatively small grant like this, but this grant is definitely not me endorsing singular learning theory -- I'd need to understand it a lot better to really give an inside-view evaluation.
+
+Conditional on singular learning theory actually enabling deeper understanding of neural networks, there's still a question of it that's actually useful for alignment. I feel reasonably confident that it would be a positive development: generally having theoretical frameworks to engage with (even if approximate) seems a key component of engineering systems with strong guarantees. Whereas just making something that works well most of the time is much more tractable via a trial-and-error approach. So, understanding seems to differentially help building reliable systems than just systems that mostly work. But, understanding does accelerate both -- so there is a non-trivial backfire risk.
+
+Process for deciding amount
+Fully funded Matthew's ask, which amounts to $92,260/year annualized. The salary seems reasonable given his experience level. It's higher than US PhD stipends (~50k/year), but below that of most alignment research non-profits in the SF Bay Area (LCA filings from Redwood show at least $140k/year for an ML Researcher; FAR AI's pay scale is $80k-$175k/year for Research Engineers) and significantly below for-profit tech jobs. Matthew will be working from Australia where tech salaries are lower; Levels.fyi gives a median of $54k/year USD total comp, but short-term contractor positions are often up to 2x that of salaried employees, so I still consider the ask to be in a reasonable range.
+
+Not directly relevant in this grant, but I generally would advocate for independently conducted research to receive lower compensation than at alignment organizations, as I usually expect people to be significantly more productive in an organization where they can receive mentorship (and many of these organizations are at least partially funding constrained).
+
+Conflicts of interest
+Please disclose e.g. any romantic, professional, financial, housemate, or familial relationships you have with the grant recipient(s).
+
+I supervised Matthew for an internship in 2021 at CHAI; I have continued collaborating with him (although relatively light-touch) to see that project through to publication.
+
+# Grant reports by Adam Gleave (November 2020)
+
+Anonymous: up to $40,000
+Supporting a PhD student's career in technical AI safety.
+
+We are supporting a PhD student's career in technical AI safety with up to $40,000. The applicant's salary provided by their university was sufficiently low to interfere with their research, both directly (e.g. being unable to afford a new laptop) and indirectly (via increasing the risk of burnout). We feel that the grantee has a strong track record in technical AI research and has demonstrated a clear interest in pursuing safety research long-term. The grantee is also applying for funding from other sources, and will return some of this grant if their other applications are successful.
+
+The grantee expressed a strong personal preference against a personalized public report about this grant. With their permission, we've decided to fund it and report it anonymously, because we think the grant is valuable, and we'd like to signal this possibility to other potential grantseekers. The grant was made with unanimous assent from all fund managers, none of whom had a conflict of interest, but we realize that anonymous grants make accountability to donors harder. To combat this, we asked Rohin Shah, a well-known AI safety researcher who is unaffiliated with the fund, to review this grant. He felt the grant was clearly above the bar for funding. His main concern was that the grantee might not work on safety after graduating, but he felt this was a relatively minor risk.
+
+This is our first time making an anonymous grant, and we would appreciate feedback. Should we make anonymous grants in the future? In this case, we asked someone unaffiliated with the fund (Rohin Shah) to review the grant; are there additional measures we should take to maintain accountability?
+
+# Grant report by Adam Gleave (April 2020)
+
+Dan Hendrycks ($55,000)
+A human value modeling benchmark
+
+Dan Hendrycks is a second-year AI PhD student at UC Berkeley, advised by Dawn Song and Jacob Steinhardt. This is a restricted grant to support creation of a benchmark for NLP model's predictive power for human models. In particular, it supports paying contractors via platforms such as Mechanical Turk to generate and validate question-answer pairs.
+
+I am generally excited about benchmarks as a route for progress on AI safety, especially for focusing the attention of the AI research community. Their impact is heavy-tailed, with many benchmarks seeing little adoption while others being extremely influential, so this is definitely a "hits-based" grant. However, Dan does have a strong track record of creating several benchmarks in the field of robust machine learning which makes me optimistic.
+
+The topic, testing whether NLP models implicitly capture notions of human morality, is very novel. Language is a natural channel by which to express preferences, especially over more abstract concepts, so it seems important that NLP models can represent preferences. It is common in the field to train unsupervised language models on large corpora and then fine-tune for specific applications. So testing whether preexisting models have already learned some information about preferences is a natural starting point.
+
+A key concern regarding this project is that being able to predict human moral judgements in text does not directly translate to better aligned AI systems. We expect most of the project's impact to come from gaining a better qualitative understanding of language models deficiencies, and from increased attention on human values in general in the NLP community. However, there is some risk that the limitations of the benchmark are not sufficiently recognized, and the NLP community wrongly believes that value learning is "solved".
+
+Vincent Luczkow ($10,000)
+Counterfactual impact minimization
+
+Vincent Luczkow is an MSc student at Mila, soon to start a PhD in AI, interested in conducting research on AI safety. This grant is for a research project on  counterfactual impact minimization. We anticipate Vincent spending it in part on attending conferences, and in part on freeing up time for this research project (for example, by not needing to TA supplement his income).
+
+My experience interacting with US PhD students suggests many students are less productive due to financial constraints, especially those without savings or other income sources. Mila seems to have below-average stipends, of between 25,000 and 30,000 CAD (~18,000 to 21,500 USD). By contrast, US universities typically offer a package of at least 40,000 USD/year. While Montreal has lower costs of living, overall we find it likely that a student at MILA would benefit from supplemental funding.
+
+Since Vincent is an early-stage researcher, he has a limited track record to evaluate, making this a slightly risky grant. However, getting into MILA (one of the leading AI labs) is a strong signal, and referees spoke positively about his motivation. Since we view there being little downside risk (beyond the opportunity cost of the donation) and a significant chance of a larger upside at little cost, we decided to make the grant.
+
+Michael Dickens ($33,000)
+Conducting independent research on cause prioritization
+
+This is a grant to Michael Dickens to conduct independent research on cause prioritization, focusing on investment strategies for effective altruists and long-termists. Specifically, he intends to refine his work on how altruistic investors may want to invest differently than self-interested market participants. Additionally, he intends to focus more on giving now vs later: that is, whether to donate in the short term, or save and donate later.
+
+We were impressed by his prior essays analysing investment strategies. I previously worked as a quantitative trader, and I saw Michael’s essays as describing straightforward but useful applications of asset pricing models and providing a good literature review of investment advice. While I disagreed with some of the claims he made, he had explicitly acknowledged in the essay that those claims were controversial.
+
+Whether to give now or later is an important question for long-termists that has received limited attention. Based on his track record, we expect Michael will both be able to make research progress and communicate these results clearly.

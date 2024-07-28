@@ -1,0 +1,9 @@
+$> Select below and press Cmd+P then 'Ask Claude (AI Alignment)
+
+>>>
+What if we could talk to Alignment researchers like Paul Christiano through a VSCode Extension?
+
+Could the workflow of AI Alignment researchers become two times faster?
+
+I think I would be done with this project in only 2 days because Claude is basically superhuman at coding.
+<<<

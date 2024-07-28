@@ -1,0 +1,418 @@
+# FAQ: ADVICE FOR AI ALIGNMENT RESEARCHERS (January 3, 2021, by Rohin Shah)
+
+[Rohin Shah](https://rohinshah.com/author/rohinmshah/) January 3, 2021[No comments](https://rohinshah.com/faq-career-advice-for-ai-alignment-researchers/#respond)
+
+*Consider reading [How to pursue a career in technical AI alignment](https://forum.effectivealtruism.org/posts/7WXPkpqKGKewAymJf/how-to-pursue-a-career-in-technical-ai-alignment). It covers more topics and has more details, and I endorse most if not all of the advice.*
+
+To quote Andrew Critch:
+
+> I get a lot of emails from folks with strong math backgrounds (mostly, PhD students in math at top schools) who are looking to transition to working on AI alignment / AI x-risk. There are now too many people "considering" transitioning into this field, and not enough people actually working in it, for me, or most of my colleagues at Stuart Russell's [Center for Human Compatible AI (CHAI)](http://humancompatible.ai/), to offer personalized mentorship to everyone who contacts us with these qualifications.
+>
+> *[From math grad school to AI alignment](http://acritch.com/from-math-grad-school-to-ai-alignment/), Andrew Critch*
+
+I'm pretty sure he wrote that around 2016 or earlier. The field has grown enormously since then, but so has the number of people considering it as a research area. So far, I've tried to give at least 10 minutes of my time to anyone who emails me with questions; that probably won't be sustainable for much longer. So now I'm answering the questions I get most frequently. I hope to keep this up to date, but no promises.
+
+Usually, I write a blog post when I think I have something important and novel to say, that I am relatively confident in. That's not the case for this post. This time, I'm taking all the questions that I frequently get and writing down what I'd say in response. Often, this is (a) not that different from what other people would say, and/or (b) not something I'm very confident in. Take this with more grains of salt than usual.
+
+Thanks to Neel Nanda, Nandi Schoots, and others who wish to remain anonymous for contributing summaries of conversations I had with them.
+
+*Last time I reviewed all of the content: *Nov 28, 2022
+
+*Last updated:* Jun 23, 2024
+
+Career
+------
+
+#### Entering the field
+
+Q. What sorts of roles are available in AI alignment?
+
+A. For direct technical alignment research aimed at solving the problem (i.e. ignoring meta work, field building, AI governance, etc), there are a few paths:
+
+1.  Research Lead (conceptual): These roles come in a variety of types (industry, nonprofit, academic, or even independent). You are expected to propose and lead research projects; typically ones that can be answered with a lot of thinking and writing in Google Docs, and maybe a little bit of programming. A PhD is not required but is helpful. Relevant skills: *extremely* strong epistemics and research taste, strong knowledge of AI alignment; these are particularly important due to the lack of feedback loops from reality.
+2.  Research Helper (conceptual): These roles are pretty rare; as far as I know they are only available at [ARC](https://alignment.org/). You should probably just read their [hiring post](https://www.alignmentforum.org/posts/dLoK6KGcHAoudtwdo/arc-is-hiring). There are many programs that provide mentorship in the hopes of skilling people up to become conceptual Research Leads; do not mistake those for Research Helper career paths.
+3.  Research Lead (empirical): Besides academia, these roles are usually available in industry orgs and similar nonprofits, such as DeepMind, OpenAI, Anthropic, and Redwood Research. You are expected to propose and lead research projects; typically ones that involve achieving or understanding something new with current ML systems. A PhD is not required but many Research Leads have one. Relevant skills: strong research taste, strong knowledge of AI alignment and ML, moderate skill at programming and ML engineering.
+4.  Research Helper (empirical): These roles are usually available at industry orgs or similar nonprofits, such as DeepMind, OpenAI, Anthropic, and Redwood Research. You are expected to work on a team to execute on research projects proposed by others. A PhD is not required and most people in this career path don't have one. Relevant skills: strong skill at programming, moderate research taste, moderate knowledge of AI alignment, strong skill at ML engineering (though jobs vary on this last skill).
+5.  Research Lead (theory): Like conceptual research, theory research can be done in a variety of places (industry, nonprofit, academic, or even independent). You are expected to propose and lead projects, where the projects typically involve constructing a simple formalism to model some alignment-relevant situation, and to prove theorems about what can and cannot be done within that formalism. A PhD is not required but is helpful. Relevant skills: strong research taste (especially in connecting formalisms to realistic settings), strong mathematical ability.
+6.  Professor: This is a specific route for either of the "Research Lead" career paths, but with additional requirements: as an academic, you are not only expected to propose and lead a research agenda, but also to take on and mentor grad students in pursuit of that research agenda, to teach classes, etc. A PhD is required; that's the clear first step on this career path. Relevant skills: strong research taste, strong AI knowledge, moderate technical communication. Programming ability and ML ability is typically *not* tested or required, though they are usually needed to be successful during the PhD.
+7.  Software Engineer: Many organizations can also [benefit from strong software engineers](https://www.lesswrong.com/posts/YDF7XhMThhNfHfim9/ai-safety-needs-great-engineers) --- for example, by creating frameworks for working with large neural nets that don't fit on a GPU, or by reorganizing codebases to make them cleaner and more modular to enable faster experimentation. However, I expect you should only aim for this if you already have these skills (or can gain them quickly), or if for some reason you think you could become an expert in these areas but not in any of the other paths.
+
+The main difference between research leads and research helpers is that the research leads are expected to add value primarily by choosing and leading good research projects, while the research helpers are expected to add value primarily by executing projects quickly. However, it isn't feasible to fully separate these two activities, and so leads still need to have some skill in executing projects, and helpers still need to have some skill in choosing how to move forward on a project. Some orgs like DeepMind make the difference explicit ("Research Scientist" and "Research Engineer" titles), while others like OpenAI do not ("Member of Technical Staff" title).
+
+The main reason I carve up roles as "lead" vs "helper" is that as far as I can tell, "lead" roles tend to be filled by people with PhDs. DeepMind explicitly requires "PhD or equivalent experience" for the Research Scientist role, but *not* for the Research Engineer role. (Both roles are allowed to lead projects, if they can convince their manager and collaborators that it is worth pursuing, but it's only an explicit expectation for Research Scientists.) Other orgs don't have a PhD as an explicit requirement, but nonetheless it seems like most people who end up choosing and leading research projects have PhDs anyway. I think this is because PhDs are teaching research skills that are hard to learn by other routes (see "What skills will I learn from a PhD?" below).
+
+I don't want to emphasize this too much --- it is still possible to lead projects without a PhD. In April 2022, I could name 10 people without PhDs whose work was best categorized as "Research Lead", who seemed clearly worth funding. (Note that "clearly worth funding without a PhD" doesn't necessarily mean the PhD is a bad choice: for several of these people, it's plausible to me that they would do much better work in 5 years time if they got a PhD instead of doing the things they are currently doing.)
+
+A different breakdown I also like is [Connectors, Iterators, and Amplifiers](https://www.lesswrong.com/posts/QzQQvGJYDeaDE4Cfg/talent-needs-of-technical-ai-safety-teams).
+
+Q. How do I pursue a Professor / Research Lead path?
+
+You should probably get a PhD. This is required for the Professor path and is pretty common for people who succeed at the Research Lead path. (One alternative could be to be mentored by top experts in the field, but that is usually not an option.) While it is technically possible to start out as a Research Helper and then become a Research Lead, I don't know of many examples of this working out (maybe about 3-5?).
+
+Another option is to just try to be a Research Lead: actually build a research agenda (see "testing fit" below) and see if it's any good. I'm hesitant to recommend this because I think it will very likely fail, but the upside is high (you don't have to do the PhD, saving you several years of opportunity cost), so it's a reasonable option to try.
+
+For advice on getting into a PhD program, I recommend [Beneficial AI Research Career Advice](https://docs.google.com/document/d/1RFo7_9JVmt0z8RPwUjB-mUMgCMoUQmsaj2CM5aHvxCw/edit#). Note that it is *ridiculously hard* to get into the AI PhD program of a top-10 university these days. I got in to Berkeley for the Programming Languages program of Fall 2014, but I'm not confident I'd have gotten in if I'd been applying to the AI program of Fall 2021. (Perhaps more likely than not, but not e.g. 90% likely.) This doesn't mean that you shouldn't try to do a PhD --- that depends on your situation --- but you should be aware of it.
+
+Q. How do I pursue the Research Helper path?
+
+A. For the empirical role (often called "Research Engineer"), take a look at the [80,000 Hours Podcast with Daniel Ziegler and Catherine Olsson](https://80000hours.org/podcast/episodes/olsson-and-ziegler-ml-engineering-and-safety/) and its [companion piece](https://80000hours.org/articles/ml-engineering-career-transition-guide/); I don't have much to add. There are sometimes programs that can help with this such as [MLAB](https://www.alignmentforum.org/posts/3ouxBRRzjxarTukMW/apply-to-the-second-iteration-of-the-ml-for-alignment), [ARENA](https://www.arena.education/), and [MLSS](https://forum.effectivealtruism.org/posts/9RYvJu2iNJMXgWCBn/introducing-the-ml-safety-scholars-program).
+
+For the conceptual Research Helper role, given that the only such roles I know of are at ARC, I'd look into their [hiring post](https://www.alignmentforum.org/posts/dLoK6KGcHAoudtwdo/arc-is-hiring) and trying to gain the skills they say they want there.
+
+(If you're wondering why [AGI Safety Fundamentals](https://www.agisafetyfundamentals.com/) (AGISF) is not on this list: AGISF is good if you want to gain alignment knowledge, but the Research Helper roles I know of care a lot more about skills like ML engineering, mathematical ability, and so on. AGISF doesn't try to teach these.)
+
+Q. How can I test fit for these roles?
+
+A. I don't really know; I didn't have to test fit for myself. I often hear that the best way to test fit is to try out the work for a few months; that seems like a reasonable approach to me. Some ways to test out the work:
+
+1.  Research Lead or Helper (conceptual): Spend ~50 hours reading up on a specific topic in AI alignment that interests you and ~50 hours trying to say something new and interesting about that topic. (For example, [try producing a proposal for ELK](https://www.alignmentforum.org/posts/QEYWkRoCn4fZxXQAY/prizes-for-elk-proposals).) Don't update too much if you don't have much to say (I don't think I would have, if I had done this when I was starting out); the point is more to see whether or not you enjoy the work and whether it feels productive.
+2.  Research Helper (empirical): Learn about current machine learning, and then try to replicate a recent paper. Run at least one ablation or other experiment that wasn't mentioned in the paper. (Unfortunately the amount of time this takes varies substantially by paper.)
+3.  Research Lead (empirical): Same as above, but then propose, implement and test a new idea that is meant to improve upon the results of the paper. Again, don't update too much if it doesn't result in an improvement, the point is to see whether you enjoy the work and whether it feels productive.
+4.  Professor: Same thing as with Research Leads.
+
+Q. All of your advice here is for people who already know how to program. What would you say to me, given that I'm (say) a chemical engineer?
+
+A. Have you considered working on something other than technical AI alignment? There are a lot of other problems in the world, many of which might be more suited to your skills.
+
+Q. No, I've definitely considered all my other options, and I'm set on AI alignment. What should I do now?
+
+A. If you don't know what it looks like for you to get into AI alignment, I am pretty skeptical that you've actually made a well-considered decision to focus on technical AI alignment. But okay, let's say that it is in fact correct for you to switch into technical AI alignment. In that case, I'd recommend learning software engineering, possibly through a coding bootcamp. (Knowing how to analyze data in R does *not* count as knowing software engineering; you want to understand how to write *clean* and *efficient* code that could reasonably scale up to a codebase of millions of lines of code; this is a different skill.)
+
+You can probably get some info on how good you are by testing yourself on [Project Euler](https://projecteuler.net/), though unfortunately I don't know Project Euler well enough to say what counts as "good enough", and it may also be too slanted towards clever algorithms and programming speed rather than elegance and cleanliness of code.
+
+Once you've learned programming, I'd learn some basic machine learning (e.g. through this [Coursera course](https://www.coursera.org/learn/machine-learning), which I've heard is good but haven't checked myself), and then following the advice above for the various paths.
+
+#### PhDs
+
+Q. Should I get a PhD?
+
+A. The most relevant factor is personal fit, so you're going to have to figure this out yourself. However, I can list the pros and cons of getting a PhD.
+
+Pros:
+
+1.  You'll learn valuable research skills, that will make you more effective in future research, that seem to be hard to acquire elsewhere. (See also the question below on what skills you learn in a PhD.)
+2.  You'll gain an impressive credential, that will open up a lot of doors. (For example, without a PhD, it's hard to become a Research Scientist at DeepMind.)
+3.  You'll be considered an expert, which significantly increases your "soft power", that is, your ability to influence important decisions without the use of formal institutions.
+4.  You'll have the opportunity to build a strong network within your field of expertise (through your advisor and by networking at conferences), which can increase both your soft power and your ability to do good work (through collaborations).
+5.  Depending on where you do your PhD, the work you do could be valuable. I expect this is usually less strong of an effect than the previous points.
+
+This [80,000 Hours post](https://80000hours.org/2017/11/consider-applying-for-a-phd-program-now/) does a good job of going through the cons, though PhDs in AI / ML are usually a bit better than the post indicates, at least at Berkeley. For example, I think a typical Berkeley CS PhD takes around 6 years --- still long, but not as long as the 8 years quoted in the post.
+
+One additional con is that if dangerous powerful AI systems come soon, you may not finish your PhD in time to help significantly. I think this is a real con that you should take into account, but that it isn't a decisive factor.
+
+Note that European PhDs are quite different and I know less about them. They are typically much shorter (around 3-4 years), and as a result I am unsure whether they give you the pros I listed above. I know even less about PhDs in the rest of the world.
+
+I also recommend Andrej Karpathy's [guide](http://karpathy.github.io/2016/09/07/phd/) for more on the topic.
+
+Q. Why isn't the opportunity cost given short timelines a decisive factor?
+
+1.  I don't think it is that likely that timelines are extremely short. My median for [transformative AI](https://www.openphilanthropy.org/research/some-background-on-our-views-regarding-advanced-artificial-intelligence/) is ~2040, and I'd assign maybe 25% probability by 2030.
+2.  I think work becomes more useful the closer you get to "human-level AI systems", because you learn more about what such AI systems will look like and can do work more closely targeted at them. So even on e.g. 8-year timelines it looks more attractive to skill up for 5 years and do good work for 3 years, rather than doing okay work for 8 years.
+
+Q. What skills will I learn from a PhD?
+
+A. Primarily, research taste:
+
+> When it comes to choosing problems you'll hear academics talk about a mystical sense of "taste". It's a real thing. When you pitch a potential problem to your adviser you'll either see their face contort, their eyes rolling, and their attention drift, or you'll sense the excitement in their eyes as they contemplate the uncharted territory ripe for exploration. In that split second a lot happens: an evaluation of the problem's importance, difficulty, its sexiness, its historical context (and possibly also its fit to their active grants). In other words, your adviser is likely to be a master of the outer loop and will have a highly developed sense of taste for problems. During your PhD you'll get to acquire this sense yourself.
+>
+> *[Andrej Karpathy](http://karpathy.github.io/2016/09/07/phd/)*
+
+I find it pretty hard to really pin down what exactly research taste *is*. My best definition so far is that it is the ability to judge whether a research question is worth pursuing. This is an evaluation of whether it will produce interesting new knowledge (and a publication), not whether it will improve the world; you'll have to learn the latter elsewhere, as academia is pretty terrible at it. In Effective Altruism (EA) terms, it's an evaluation of tractability, neglectedness, and "interestingness" (a property similar to "importance", but relative to academia's goals instead of EA's goals).
+
+It seems to me that there is a clear and obvious gap between 1st/2nd year PhD students, and 4th/5th year PhD students (at Berkeley). The latter group is much better at understanding research proposals quickly, at making good critiques of research proposals, at suggesting research projects that would lead to a publication, at writing compelling research agendas, etc. Certainly some of this is learning more about the field, but I'd attribute most of the effect to improved research taste.
+
+You also see a sharp difference between senior PhD students and professors, though that could be due to selection effects. In one memorable example, it took me 30-60 minutes to explain a proposal to a group of CHAI grad students, whereas Anca and Pieter (two of my advisors) each independently understood it after 10 minutes of conversation.
+
+I don't know how a PhD teaches this skill, or why you can't get it elsewhere, but as an empirical observation it seems to me that despite non-trivial efforts to teach this skill without a PhD, it tends to be primarily people with PhDs who have this skill. My best guess is that you acquire this skill through a combination of (a) learning by osmosis from watching your advisor or other mentors think about research with you and (b) trying to do research and learning from the failures. See [this post](https://jsteinhardt.stat.berkeley.edu/blog/film-study) for other techniques that sound like they should work.
+
+Q. How important is it that I find an advisor who is interested in AI safety?
+
+A. Not that important. Notice that in the list of pros above, "doing useful work" was the last, least important point. Your goal should be to become better at research, in order to have more impact in the future; the main things you are doing are (a) learning how to do good research and (b) building a broad base of knowledge. My best guess is that (a) generalizes reasonably well across different areas of CS (in fact, I think that I personally learned most of these skills while working in Programming Languages), so you can do any CS PhD for that, and while (b) doesn't generalize as well, you still get a lot of the needed knowledge from an ML PhD, and you can supplement that by spending an hour each week reading up on AI alignment (which you should have the flexibility to do).
+
+Now I think it is plausible that this won't work for many people who start an ML PhD, for a few reasons:
+
+1.  The pressure to publish and other incentives mean that they don't in practice spend the necessary hour a week to keep up with AI alignment, and then when they graduate they can't find good AI alignment roles because they don't have the necessary knowledge.
+2.  They find it hard to keep themselves motivated to work on projects that aren't directly tackling AI alignment. As a result, they quit their PhD, or [rationalize their project as relevant to AI alignment](https://www.lesswrong.com/posts/7uJnA3XDpTgemRH2c/critch-on-career-advice-for-junior-ai-x-risk-concerned).
+
+If it seems like any of these would be true of you, then it's more important that you find an advisor interested in AI alignment.
+
+Q. I'm about to start / currently in a PhD in AI / ML. Any advice for me?
+
+A. There's lots of good generic advice already out there, such as [this](https://forum.effectivealtruism.org/posts/jfHPBbYFzCrbdEXXd/how-to-succeed-as-an-early-stage-researcher-the-lean-startup), [this](https://dorsaamir.medium.com/modest-advice-for-new-graduate-students-b0be6b8dbc22) (ignore Section 7) and [this](https://www.chronicle.com/article/10-tips-to-help-you-win-at-graduate-school/), though my favorite is [this guide](http://karpathy.github.io/2016/09/07/phd/). Some advice I'd highlight, that isn't often given:
+
+1.  The two most important factors for PhD success (once you've gotten in) are your motivation and your relationship with your advisor. If either of these is bad, make it a priority to fix it (or drop out).
+2.  Relatedly, your primary job during visit days is talking to potential advisors' grad students, to learn what it's like to work with that potential advisor. That alone is probably 90% of the value of visit days.
+3.  Your advisor will feel like a boss, whom you have to say yes to. Learn how to say no. On matters like how much effort it is to implement some experiment, you know more than they do.
+4.  I expect some of my readers will be perfectly happy saying no; if you're in this camp you should reverse the previous advice and learn how and when to say yes to your advisor. While they aren't a boss in the traditional sense, there is still an implicit contract between the two of you, and sometimes that contract requires you to do things you wouldn't choose to do yourself. See also point 1 on the value of your relationship with your advisor.
+5.  Don't expect much out of your first couple of years. Those are primarily for learning, trying things, and failing.
+6.  Relatedly, don't specialize until at least your third year (for a US PhD). You probably won't know what you're doing until then, so you don't want to lock in your choice. I'd guess that 80-90% of grad students at Berkeley would have benefited from more exploration in their earlier years.
+7.  When selecting research projects, when you're junior you should generally defer to your advisor. As time passes you should have more conviction. I very rarely see a first year's research intuitions beat a professor's; I have seen this happen more often for fourth years and above.
+8.  Figure out what you're optimizing for, and plan accordingly. See [this post](https://forum.effectivealtruism.org/posts/B7AQF7HNiLRbKMKJt/how-to-phd) (while the author is in biosecurity, I think it applies as-is to AI / ML as well).
+
+#### After the PhD
+
+Q. What should I do during the PhD to optimize for getting a postdoc or faculty job?
+
+A. Note that I did not pursue this path myself, so this is even more speculative than other answers on this page. But anyway, some thoughts:
+
+1.  Become good at networking, publicity, and "selling" your research.
+2.  Optimize for a few excellent papers (by academia's standards), rather than a large quantity of papers. In slogan form: "quality trumps quantity". Your job talk and interviews will likely matter more than your CV, and having a couple of big hits for the job talk will be really helpful.
+3.  Remember how you had to optimize for recommendation letters to get into the PhD? Yeah, that continues to be important. Make sure your advisor will vouch for you. It may also be useful to collaborate with a different professor to get additional good letters.
+4.  Actually spend the time polishing your job talk. I've heard that it's pretty typical to spend 100 hours on this (while other talks take 5-30 hours each).
+
+What is a job talk, you ask? It's a talk you give to the department to which you're applying for faculty positions, where you summarize your research so far. Professors considering you for a postdoc position will often ask you to present a job talk to their research group. A common structure will be to present a unifying theme, describe in detail the best 2-3 projects you've done within that theme, gesture vaguely at other projects you've done, and suggest future work along the same lines that you'd love to work on. The point is to say "look, I'm a great researcher, and if you hire me I will bring acclaim to your lab / department".
+
+It's not actually that important for your research to have a coherent theme --- this can help your job talk, but basically doesn't matter for anything else as far as I can tell. (And it isn't *that* crucial to the job talk --- you can usually shoehorn your projects into an acceptable-but-not-great theme.)
+
+#### General
+
+Q. You mentioned soft power above. Should I be optimizing for that?
+
+A. *Someone* needs to be optimizing for it, though it need not be you.
+
+It doesn't matter if you figure out how to build safe and powerful AI, unless that approach is actually implemented by whoever builds powerful AI. You could imagine three routes by which this could be accomplished:
+
+1) You could personally build powerful AI using your approach,
+
+2) You could write about your approach in detail, and the people who are building powerful AI would read it, realize its worth, and implement it,
+
+3) You convince someone else that your approach should be used, and that someone else convinces a third person, and so on, until eventually the people building powerful AI use your approach.
+
+The first method seems very unlikely to me. I'm also fairly skeptical of the second method, because I generally expect that there will be a lot of tacit alignment knowledge which is hard to explain in detail (e.g. heuristics for reviewing feedback from human labelers when vetting their quality, how much effort should be put into red teaming relative to RLHF, etc).
+
+For the last method, it seems like someone in the chain needs to have soft power. It does not need to be the case that you personally optimize for soft power, if you feel confident that you could influence someone else who does have enough soft power to influence outcomes.
+
+I generally expect that you should choose *either* soft power *or* technical work, and then optimize for that particular goal, rather than [trying to do both and accomplishing neither](https://www.lesswrong.com/posts/FMkQtPvzsriQAow5q/the-correct-response-to-uncertainty-is-not-half-speed). (Though it's reasonable to keep both options open early on in your career while you're still figuring out what your career should look like.) I have personally chosen soft power, which means that (a) I work at an AGI org (DeepMind) rather than an AI alignment nonprofit, (b) I spend a lot of time advising others and providing feedback, (c) I'm managing a team rather than contributing individually, and (d) I do a lot of communication (talks, podcasts, Alignment Newsletter). All of these usually come at the expense of my own research: I think I would probably be 5-10x faster at my own research if I optimized primarily for that. On the other hand, [MIRI](https://intelligence.org/) and [ARC](https://alignment.org/) have chosen to optimize for technical work. (Note that this is specific to me, and doesn't apply to all of the technical safety researchers at DeepMind.)
+
+If you do choose to optimize for soft power, *it is even more important to be knowledgeable about alignment*. Your impact is determined by how good your advice is relative to the advice that would otherwise have been given. Individual researchers can reasonably ignore lots of alignment work that isn't relevant to the specific problem that they're working on, but your job is to know about the entire space of alignment so that you can have good takes on what the people building powerful AI should do.
+
+Q. How do I get soft power?
+
+A. Some ideas:
+
+1.  Get good credentials. A PhD is particularly useful for this; it automatically makes your opinions much more legitimate, allowing them to influence media and government decisions, for example.
+2.  Have visible expertise in the domain you want to have soft power in. Again, a PhD would be the typical approach here, but it doesn't have to be. For example, most of my "visible expertise" in AI alignment comes from writing the [Alignment Newsletter](https://rohinshah.com/alignment-newsletter); I would guess that my PhD is relatively less important.
+3.  Build a strong network. A lot of soft power comes from simply knowing the right people; decision-makers tend to rely most on information that comes from trusted connections. Note that traditional advice on networking assumes you are trying to build contacts whom you can ask for favors, whereas for AI alignment you probably want contacts who will come to you when they need to think about safety. This means your networking strategies should be different --- in particular, it is more important that you come off as competent and knowledgeable.
+
+Q. What does a day in your job look like?
+
+A day in *my* job is not the thing you're looking for. My job is some hybrid of [research distiller](https://distill.pub/2017/research-debt/) (writing the [Alignment Newsletter](https://rohinshah.com/alignment-newsletter)), people manager (leading the Alignment team at DeepMind), field builder (giving talks, chatting with people getting into the field), and researcher. Your days will look pretty different from mine.
+
+I'm guessing that a typical workday for an empirical alignment researcher focused on research (i.e. no management, research distillation, etc) involves maybe 3-5 hours of writing code, launching experiments, analyzing and plotting data, and writing up the results (initially in quick Google Docs, eventually more thoroughly in a paper or blog post). The remaining 2-4 hours goes towards reading papers and blog posts, meetings, email, etc.
+
+Learning
+--------
+
+Q. What should I learn if I don't know much about AI yet?
+
+Canonical advice is to learn a bunch of stuff (ML, deep learning, deep RL, game theory, logic, etc) and try to get into a PhD program or the various internships. Ways in which I would differ from the canonical advice:
+
+1.  I think we overemphasize breadth of learning. I still don't know much about GANs, Gaussian processes, Bayesian neural nets, and convex optimization (though to be clear, I'm not clueless about them either). I don't intend to learn these things well until I need them or a good opportunity arises.
+2.  Relatedly, I think we underemphasize depth of learning. If your goal is to do alignment research very soon I think a good way to do that is to read some paper that sets an agenda, choose a particular topic that they mention that you find interesting, read a bunch of papers on the topic, build a [model](https://forum.effectivealtruism.org/posts/ckj6Moau9qpYArHWc/want-to-be-an-expert-build-deep-models) of the importance of the topic to AI alignment, and then try to see how you might improve upon the state of the art.
+3.  One thing I think canonical advice gets right but people don't follow enough is to do any AI research at all, not necessarily on alignment. I used to do research in programming languages, and the generic research skills I developed helped me get up to speed in AI alignment way faster.
+
+Q. What should I learn if I don't know much about AI alignment yet?
+
+A. This one's significantly harder, because it depends on what you already know, and also because I have lots of opinions on it. I quite like the advice in [AI safety starter pack](https://forum.effectivealtruism.org/posts/pbiGHk6AjRxdBPoD8/ai-safety-starter-pack). Before that post was written, I had the following not-as-good baseline:
+
+1.  [Human Compatible: Artificial Intelligence and the Problem of Control](https://www.amazon.com/Human-Compatible-Artificial-Intelligence-Problem-ebook/dp/B07N5J5FTS) ([summary](https://mailchi.mp/59ddebcb3b9a/an-69-stuart-russells-new-book-on-why-we-need-to-replace-the-standard-model-of-ai))
+2.  Sequences on the Alignment Forum with foundational concepts, probably in the order [AGI Safety from First Principles](https://www.alignmentforum.org/s/mzgtmmTKKn5MuCzFJ) → [Value Learning](https://www.alignmentforum.org/s/4dHMdK5TLN6xcqtyc) → [Embedded Agency](https://www.alignmentforum.org/s/Rm6oQRJJmhGCcLvxh) → [Iterated Amplification](https://www.alignmentforum.org/s/EmDuGeRw749sD3GKd).
+3.  Overviews of the field. For my overview, you can see this [talk](https://www.youtube.com/watch?v=u2rzKQuzIuw), or read through this [review](https://www.alignmentforum.org/posts/dKxX76SCfCvceJXHv/ai-alignment-2018-19-review); I also have older overviews on my [Research](https://rohinshah.com/research/) page.
+4.  Dive deeper into areas that interest you, perhaps by perusing [AI safety resources](https://vkrakovna.wordpress.com/ai-safety-resources/) or the [Alignment Newsletter Database](https://docs.google.com/spreadsheets/d/1PwWbWZ6FPqAgZWOoOcXM8N_tUCuxpEyMbN1NYYC02aM/edit#gid=0).
+
+If you're used to academia, this will be a disconcerting experience. You can't just follow citations in order to find the important concepts for the field. The concepts are spread across hundreds or thousands of blog posts, that aren't organized much (though the [tagging system](https://www.alignmentforum.org/tag/ai) on the Alignment Forum does help). They are primarily walls of text, with only the occasional figure. Some ideas haven't even been written down in a blog post, and have only passed around by word of mouth or in long comment chains under blog posts. People don't agree about the relative importance of ideas, and so there are actually lots of subparadigms, but this isn't explicit or clearly laid out, and you have to infer which subparadigm a particular article is working with. This overall structure is useful for the field to make fast progress (especially relative to academia), but is pretty painful when you're entering the field and trying to learn about it.
+
+I have been told that regularly reading the [Alignment Newsletter](https://rohinshah.com/alignment-newsletter/) is also good for people who are new to the field. This confuses me, since the newsletter explains *new* content for a *knowledgeable* audience, whereas someone new would presumably benefit from something like a textbook that explains the best content without assuming prior knowledge. But perhaps it is still useful for learning by osmosis; I could imagine that by repeatedly reading thoughts and opinions at the forefront of the field, you could build an implicit mental model of what things are important that would be harder to do otherwise.
+
+Q. How should I read things efficiently?
+
+A. Unfortunately, I find it hard to introspect on how I read things. Nonetheless, one thing I would say is that if you're going to bother reading an article carefully, you should probably summarize it.
+
+To elaborate, consider three kinds of reading I might do:
+
+1.  Skimming (~10 min for an AI paper)
+2.  Reading carefully (~30-60 min)
+3.  Reading carefully and summarizing (~60-120 min)
+
+To make up numbers out of thin air, I think that the gap between 2 and 3 is 5-10x the size of the gap between 1 and 2. So if you're ever thinking "I should read this carefully instead of skimming", you should probably also be thinking "I should read this carefully and then summarize it".
+
+I wouldn't be surprised if this was specific to me and didn't generalize to other people. (Though see [Honesty about reading](https://www.cold-takes.com/honesty-about-reading/) and [Reading books vs. engaging with them](https://www.cold-takes.com/reading-books-vs-engaging-with-them/) for a similar take.)
+
+Research
+--------
+
+Q. How can I do good AI alignment research?
+
+A. [Build](https://www.alignmentforum.org/posts/LbSWMfbAHQnFpApQ7/concrete-advice-for-forming-inside-views-on-ai-safety) a [gearsy](https://www.lesswrong.com/posts/nEBbw2Bc2CnN2RMxy/gears-level-models-are-capital-investments), [inside-view](https://www.lesswrong.com/posts/GrtbTAPfkJa4D6jjH/confidence-levels-inside-and-outside-an-argument) [model](https://forum.effectivealtruism.org/posts/ckj6Moau9qpYArHWc/want-to-be-an-expert-build-deep-models) of AI risk, and think about that model to find solutions.
+
+([This post](https://forum.effectivealtruism.org/posts/ckj6Moau9qpYArHWc/want-to-be-an-expert-build-deep-models) goes into a lot more detail about models and why you want them for research; I strongly recommend it.)
+
+There's a [longstanding](https://equilibriabook.com/) [debate](https://forum.effectivealtruism.org/posts/WKPd79PESRGZHQ5GY/in-defence-of-epistemic-modesty) about whether one should defer to some aggregation of experts (an "outside view"), or try to understand the arguments and come to your own conclusion (an "inside view"). This debate mostly focuses on which method tends to arrive at *correct conclusions*. I am *not* taking a stance on this debate; I think it's mostly irrelevant to the problem of doing good research. Research is typically meant to advance the frontiers of human knowledge; this is not the same goal as arriving at correct conclusions. If you want to advance human knowledge, you're going to need a detailed inside view.
+
+Let's say that Alice is an expert in AI alignment, and Bob wants to get into the field, and trusts Alice's judgment. Bob asks Alice what she thinks is most valuable to work on, and she replies, "probably robustness of neural networks". What might have happened in Alice's head?
+
+Alice (hopefully) has a detailed internal model of risks from failures of AI alignment, and a sketch of potential solutions that could help avert those risks. Perhaps one cluster of solutions seems particularly valuable to work on. Then, when Bob asks her what work would be valuable, she has to condense all of the information about her solution sketch into a single word or phrase. While "robustness" might be the closest match, it's certainly not going to convey all of Alice's information.
+
+What happens if Bob dives straight into a concrete project to improve robustness? I'd expect the project will improve robustness along some axis that is different from what Alice meant, ultimately rendering the improvement useless for alignment. There are just too many constraints and considerations that Alice is using in rendering her final judgment, that Bob is not aware of.
+
+I think Bob should instead spend some time thinking about *how* a solution to robustness would mean that AI risk has been meaningfully reduced. Once he has a satisfying answer to that, it makes more sense to start a concrete project on improving robustness. In other words, when doing research, use senior researchers as a tool for deciding what to think about, rather than what to believe.
+
+It's possible that after all this reflection, Bob concludes that impact regularization is more valuable than robustness. The outside view suggests that Alice is more likely to be correct than Bob, given that she has more experience. If Bob had to bet which of them was correct, he should probably bet on Alice. But that's not the decision he faces: he has to decide what to work on. His options probably look like:
+
+1.  Work on a concrete project in robustness, which has perhaps a 1% chance of making valuable progress on robustness. The probability of valuable work is low since he does not share Alice's models about how robustness can help with AI alignment.
+2.  Work on a concrete project in impact regularization, which has perhaps a 50% chance of making valuable progress on impact regularization.
+
+It's probably not the case that progress in robustness is 50x more valuable than progress in impact regularization, and so Bob should go with (2). Hence the advice: build a [gearsy](https://www.lesswrong.com/posts/nEBbw2Bc2CnN2RMxy/gears-level-models-are-capital-investments), [inside-view](https://www.lesswrong.com/posts/GrtbTAPfkJa4D6jjH/confidence-levels-inside-and-outside-an-argument) [model](https://forum.effectivealtruism.org/posts/ckj6Moau9qpYArHWc/want-to-be-an-expert-build-deep-models) of AI risk, and think about that model to find solutions.
+
+(Note that Bob could plausibly have more direct impact with the option "work on a robustness project that Alice supervises, where Alice can ensure that Bob works on the important parts of the problem". But perhaps Alice doesn't have the time to supervise Bob, or perhaps Bob thinks he should practice coming up with and leading his own projects.)
+
+(See also [Deferring](https://forum.effectivealtruism.org/posts/LKdhv9a478o9ngbcY/deferring), particularly the section "When & how to defer: Epistemic deferring".)
+
+Q: So I should mostly ignore other people's work, and think about AI alignment myself?
+
+A: No! Definitely not! Talking to other people is a great way for you to build your own inside-view models of AI risk, and to come up with potential solutions whose relevance you can make a case for. I suspect most people do this much less than would be optimal.
+
+After joining the field in September 2017, I spent ~50% of my time reading and understanding other people's work for the first 6 months. I think I was actually too conservative, and it would have been better to spend 70-80% of my time on this.
+
+I had meetings with other at-the-time junior researchers where we would pick a prominent researcher and try to state their beliefs and why they held them. Looking back, we were horribly wrong most of the time, and yet I think that was quite valuable for me to have done, since it really helped in building my inside-view models about AI alignment.
+
+Q. To what extent should I be optimizing for things that academia cares about?
+
+A. If you want to become a professor, you should probably optimize for it quite a lot. Otherwise, only to the extent necessary to actually get the PhD. (Of course, you should be optimizing for useful research, which is correlated with but not the same as "what academia cares about".)
+
+Q. So what does academia care about, and how is it different from useful research?
+
+A. I should start with a disclaimer that I don't really know; this is just what I've noticed for my specific area of academia; I expect that there will be differences in other areas.
+
+With that disclaimer, a particular piece of research is more impressive in academia to the extent that it is:
+
+1.  Non-obvious: It isn't something people already knew, or would easily have figured out themselves.
+2.  Conceptually simple: Once pointed out, the key insight is obvious; ideally you can state this key insight in a single paragraph and it could be understood by a well-educated layman.
+3.  Technically complex: While the core idea may be simple, it should be challenging to actually implement the core idea in an algorithm. (Note that in personal correspondence, [Sam Bowman](https://cims.nyu.edu/~sbowman/) says "There's some truth here, but I think ML students and postdocs believe this to a far greater degree than is warranted".)
+4.  Interesting: The idea is directly relevant to a problem that academia has already deemed important or interesting.
+
+This is correlated with research that is useful: clearly non-obvious insights are going to be more counterfactually impactful, and one benefit of conceptual simplicity is that it's a decent proxy for whether or not the idea or technique will be broadly useful. However, my guess is that technical complexity is actually anti-correlated with usefulness, and academia's notions of what is important or interesting are often quite different from my own.
+
+Q. What topics do you think are best to pursue for long-term AI safety?
+
+A. I don't really like this question. At the beginning of this section, I talked about why your goal should be to develop gearsy, inside-view models, and why giving a list of "good" topics tends to work against this goal. Nonetheless, such a list can be useful for deciding what things to build inside-view models of, so here's my list:
+
+1.  Conceptual research clarifying AI risk
+2.  Learning from human feedback (and in particular, [training superhuman agents using such methods](https://www.alignmentforum.org/posts/PZtsoaoSLpKjjbMqM/the-case-for-aligning-narrowly-superhuman-models))
+3.  Detecting novel situations in which AI systems would do the wrong thing (adversarial training is an example)
+4.  Interpretability
+5.  Figuring out empirical puzzles about deep learning (e.g. what's up with deep double descent?)
+
+Note that, if you don't have any experience, and you choose something off this list, and try to make progress on it independently, I predict quite confidently that I won't be very excited by it. Please instead do things like "spend a lot of time learning" or "work with a mentor who has more developed research taste".
+
+Q. I would like to work with a research mentor in alignment. How should I do that?
+
+This can be quite challenging, as there isn't much mentorship available. The main methods I know of are: (1) participating in [MATS](https://www.matsprogram.org/), (2) joining an academic lab focused on alignment, and (3) joining an industry lab as a research engineer.
+
+Note that not all mentorship is equal: see [Picking Mentors for Research Programmes](https://www.lesswrong.com/posts/HzojQFXNoXjnfQvGm/picking-mentors-for-research-programmes) (most applicable to MATS, but also relevant for other kinds of mentorship). When selecting a mentor, you should ask some of their past mentees for reviews of their mentorship.
+
+Q. I enjoy math a lot more than programming. What useful work can I do?
+
+A. If you like math because there are crisply stated problems which you can then treat as fun puzzles to solve... sorry, I don't think there's much like that in AI alignment.
+
+There are lots of things that require skills that I associate with math. In particular, we often have pretheoretic intuitions and concepts where it would be hugely valuable if we could actually formalize that concept correctly, e.g. "goal-directedness", "wanting", "knowledge", "agency", etc. Here, most of the work is in coming up with the right formalization in the first place; I expect that once that is done it will be (relatively) easy to use that formalization.
+
+While this sort of formalization work is not one of my top priorities (primarily because I think it is very hard to make progress on), the benefits of success are large enough that I am still enthusiastic about people trying to make progress.
+
+Q. Huh. Why didn't you talk about approaches where we prove that our AI systems are safe?
+
+A. I don't know of any viable approach where we get a "proof" of safety (and [neither does Eliezer Yudkowsky](https://www.lesswrong.com/posts/34Gkqus9vusXRevR8/late-2021-miri-conversations-ama-discussion?commentId=4AYdvRFLchxDFN9yk)).
+
+There is more work that involves proofs more broadly, including Stuart Russell's approach to "provably beneficial" AI (see [this comment](https://www.lesswrong.com/posts/nd692YfFGfZDh9Mwz/an-69-stuart-russell-s-new-book-on-why-we-need-to-replace?commentId=4LhBaSuYPyFvTnDrQ)), much of the work on [Embedded Agency](https://www.lesswrong.com/tag/embedded-agency), and much of the work in the AIXI paradigm (e.g. [this](https://www.lesswrong.com/posts/fSC98Cy3zR9GsEPnT/curiosity-killed-the-cat-and-the-asymptotically-optimal)). I'd guess that even for these pieces of work, the proofs are secondary to the conceptual idea and/or formalization.
+
+Funding
+-------
+
+Q. I'd love to work on this, but I don't have any way to get paid. What should I do?
+
+A. If you've been trying to get funding for a while and haven't had much success, consider revising your plan. For example, if you were trying to get a job at an AI alignment organization and haven't succeeded for a year, perhaps you should instead try to get an internship, or have a job outside of AI alignment and spend some time on the side learning about AI alignment.
+
+If you're just getting started in AI alignment, you may want to first spend some time to learn about AI alignment and write posts with ideas or research directions (perhaps posting them on [LessWrong](https://www.lesswrong.com/)), so there's some evidence to show to funders about your dedication and competence.
+
+Then, there are the actual funding sources:
+
+1.  [Long-Term Future Fund](https://funds.effectivealtruism.org/funds/far-future).
+2.  [Survival and Flourishing](https://survivalandflourishing.org/) (closely related to the [Survival and Flourishing Fund](https://survivalandflourishing.fund/)).
+3.  [The Open Phil AI Fellowship](https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/the-open-phil-ai-fellowship). Meant for PhD students in technical AI safety, and is fairly competitive.
+4.  [Early career funding](https://www.openphilanthropy.org/focus/other-areas/early-career-funding-individuals-interested-improving-long-term-future) (Open Philanthropy). Closed at the time of writing, but there may be another iteration in the future.
+5.  [Funding for Study and Training Related to AI Policy Careers](https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/funding-AI-policy-careers) (Open Philanthropy). Closed at the time of writing, but there may be another iteration in the future.
+6.  If you've actively worked with me on a project, I might be open to funding you (email me). I don't expect to consider funding requests from people I've only met at conferences or emailed with.
+
+Of course, you can also try to get hired by a relevant organization, such as DeepMind, OpenAI, Anthropic, Redwood Research, ARC, CHAI, Ought, FHI, MIRI, Conjecture, Open Philanthropy, etc.
+
+Alignment Newsletter
+--------------------
+
+For most newsletter-related questions, you'll probably find my first [retrospective](https://www.alignmentforum.org/posts/3onCb5ph3ywLQZMX2/alignment-newsletter-one-year-retrospective) helpful. (There is [another one](https://www.alignmentforum.org/posts/L7yHdqRiHKd3FhQ7B/alignment-newsletter-three-year-retrospective), but that one is less interesting.)
+
+MIRI
+----
+
+I frequently get questions of the form "What do you think about MIRI's belief in X? What are the intuitions behind it? Perhaps they think this because of Y?"
+
+(A central example would be X = fast takeoff and Y = you can use the training compute for a large model to then run millions of copies of that model.)
+
+I am more open to answering these questions than I used to be now that the [Late 2021 MIRI conversations](https://www.alignmentforum.org/s/n945eovrA3oDueqtq) have happened, but I'm still not a huge fan of these questions for a few reasons:
+
+1.  As I've said earlier, useful research is done by people with strong inside-view models of risks. While learning about the causes of other people's beliefs can help you build such models, I don't expect that the information I can give to you about MIRI will meaningfully transfer their inside-view model to you.
+2.  I am reasonably often wrong about MIRI's beliefs. For example, even after I already believed that I am often wrong about MIRI's beliefs, I confidently predicted that Eliezer wouldn't like the directions proposed [here](https://www.alignmentforum.org/posts/PZtsoaoSLpKjjbMqM/the-case-for-aligning-narrowly-superhuman-models), and I was [wrong](https://www.alignmentforum.org/posts/AyfDnnAdjG7HHeD3d/miri-comments-on-cotra-s-case-for-aligning-narrowly).
+
+If you're interested in why I disagree with MIRI, you can read the [Late 2021 MIRI conversations](https://www.alignmentforum.org/s/n945eovrA3oDueqtq), or these other posts that argue against the MIRI worldview:
+
+-   [Takeoff speeds](https://sideways-view.com/2018/02/24/takeoff-speeds/)
+-   [Likelihood of discontinuous progress around the development of AGI](https://aiimpacts.org/likelihood-of-discontinuous-progress-around-the-development-of-agi/)
+-   [AN #80: Why AI risk might be solved without additional intervention from longtermists](https://mailchi.mp/b3dc916ac7e2/an-80-why-ai-risk-might-be-solved-without-additional-intervention-from-longtermists) (and all the posts summarized there)
+-   [Coherence arguments do not entail goal-directed behavior](https://www.alignmentforum.org/posts/NxF5G6CJiof6cemTw/coherence-arguments-do-not-imply-goal-directed-behavior) and a [followup post](http://coherent%20behaviour%20in%20the%20real%20world%20is%20an%20incoherent%20concept/) (note that these are responding to a hypothetical argument that MIRI probably doesn't believe)
+-   [Ben Garfinkel](https://forum.effectivealtruism.org/users/ben-garfinkel) has written a bunch of object-level criticism, but hasn't published it (to my knowledge). You could try asking him for access to those docs.
+
+Resources
+---------
+
+(Alphabetically ordered)
+
+[80,000 Hours Podcast with Daniel Ziegler and Catherine Olsson](https://80000hours.org/podcast/episodes/olsson-and-ziegler-ml-engineering-and-safety/) (and [companion piece](https://80000hours.org/articles/ml-engineering-career-transition-guide/)). Lays out a path by which one can quickly gain the relevant skills and be hired as a research engineer at an industry lab.
+
+[A Survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/), Andrej Karpathy. Excellent advice on everything PhD-related. Especially recommended because I expect my readers will not have heard this sort of advice before.
+
+[AI safety starter pack](https://forum.effectivealtruism.org/posts/pbiGHk6AjRxdBPoD8/ai-safety-starter-pack), Marius Hobbhahn. Advice on how to start learning about AI safety, if you've already decided that you want to learn.
+
+[Beneficial AI Research Career Advice](https://docs.google.com/document/d/1RFo7_9JVmt0z8RPwUjB-mUMgCMoUQmsaj2CM5aHvxCw/edit#), Adam Gleave. Advice on the stages from "Huh, I hear this AI safety thing is important, I wonder if I should work in it" to getting a job or a PhD in AI safety.
+
+[Concrete Advice for Forming Inside Views on AI Safety](https://www.alignmentforum.org/posts/LbSWMfbAHQnFpApQ7/concrete-advice-for-forming-inside-views-on-ai-safety), Neel Nanda. Besides the concrete advice, there's also some discussion of why you should care about forming inside views. I disagree with some parts of the post; if you want my take, it's currently the top comment on the post ([direct link](https://www.alignmentforum.org/posts/LbSWMfbAHQnFpApQ7/concrete-advice-for-forming-inside-views-on-ai-safety?commentId=HfR6cKxskabxmHMCa)).
+
+[Deliberate Grad School](https://acritch.com/deliberate-grad-school/), Andrew Critch. Advice about what to do once you're in a PhD. It is also somewhat relevant to choosing which university to do a PhD at.
+
+[Film Study for Research](https://jsteinhardt.stat.berkeley.edu/blog/film-study), Jacob Steinhardt. Techniques for building research ability beyond "try it" and "work with a mentor".
+
+[How to become an AI safety researcher](https://forum.effectivealtruism.org/posts/PH2pqsqgXQkfCdmkv/how-to-become-an-ai-safety-researcher), Peter Barnett. A collection of advice, based on interviews with eleven AI safety researchers. Most of the advice is in a category where I expect it will be useful to some people but not others, so I'd recommend treating it more as a set of plausible ideas to consider implementing rather than advice you should definitely follow.
+
+[How to PhD](https://forum.effectivealtruism.org/posts/B7AQF7HNiLRbKMKJt/how-to-phd), eca. An analysis of the various benefits you can get out of a PhD, and some advice on how to figure out which ones you care about and how to optimize for those benefits in particular.
+
+[How to pursue a career in technical AI alignment](https://forum.effectivealtruism.org/posts/7WXPkpqKGKewAymJf/how-to-pursue-a-career-in-technical-ai-alignment), Charlie Rogers-Smith. Similar to this post, except more detailed and with more advice.
+
+[How to succeed as an early-stage researcher: the "lean startup" approach](https://forum.effectivealtruism.org/posts/jfHPBbYFzCrbdEXXd/how-to-succeed-as-an-early-stage-researcher-the-lean-startup), Toby Shevlane. Argues that you should be lean and nimble when early in your research career, being willing to pivot to a new direction based on feedback from more senior people.
+
+[Leveraging academia](http://acritch.com/leveraging-academia/), Andrew Critch. The core piece of advice here is to learn generic research skills from other areas of academia (which are not as mentorship-bottlenecked), since those form ~90% of the important skills for you to develop. I strongly agree with this piece of advice; I personally learned most of my research skills from three years of a PhD in programming languages. I got very little mentorship from anyone working on existential risk. Related: [this post](https://www.lesswrong.com/posts/7uJnA3XDpTgemRH2c/critch-on-career-advice-for-junior-ai-x-risk-concerned) (meant more for people giving advice).
+
+[Picking Mentors for Research Programmes](https://www.lesswrong.com/posts/HzojQFXNoXjnfQvGm/picking-mentors-for-research-programmes), Raymond Douglas. Names a variety of axes along which mentors can differ, that are important to assess when choosing a mentor. This is informed by the author's experience at SERI MATS 4.0, and so is especially relevant for AI alignment mentorship.
+
+[Potential employees have a unique lever to influence the behaviors of AI labs](https://forum.effectivealtruism.org/posts/PMFoxr62AeLEwPAH9/potential-employees-have-a-unique-lever-to-influence-the), oxalis. Argues that people who have offers from AI labs have a significant negotiating power, and can use that to influence the lab to implement practices that would help with safety and alignment.
+
+[Reflections on a PhD](https://vaelsblog.wordpress.com/2021/03/17/reflections-on-a-phd/), Vael Gates. Long (~15K words) reflections on the 5 years of the author's PhD, focusing on all aspects of their life (not just academia / career). This is not at all optimized for career advice, but I think it's good for getting the gestalt of what a PhD is like. The PhD parts of their story are somewhat atypical, but not that much --- maybe 80th percentile.
+
+[Research as a Stochastic Decision Process](https://docs.google.com/document/d/1KCSXYmInnBrOnFw5y3kQdNluLTYKt-jF1psyviNAeag/edit#), Jacob Steinhardt. Advice on how to prioritize amongst different subtasks when executing on an uncertain project; core idea is to aim to fail fast.
+
+[Research Taste Exercises](http://colah.github.io/notes/taste/), Chris Olah. Ideas on how to build research taste.
+
+[Talent Needs of Technical AI Safety Teams](https://www.lesswrong.com/posts/QzQQvGJYDeaDE4Cfg/talent-needs-of-technical-ai-safety-teams), MATS. Introduces a trichotomy of roles: connectors (deep and original conceptual thinkers who can connect their thinking to experiments), iterators (empiricists that excel at creating tight, efficient feedback loops), and amplifiers (communicators, people managers, project managers, and leaders with enough technical background to amplify other people they work with). Based on 31 expert interviews, they discuss talent needs for connectors, iterators and amplifiers at various orgs, and how people can develop their skills in each of the three roles.
+
+[The 5 Year Update on Skipping Grad School (and Whether I'd Recommend It)](https://www.alexirpan.com/2021/04/07/grad-school-5years.html), Alex Irpan. Evaluation of the author's choice to go to an industry research lab instead of grad school. The industry lab comes out slightly ahead, though I suspect it is quite hard to get the sort of industry job he got.
+
+[The PhD Grind](https://pdf4pro.com/view/the-ph-d-grind-philip-guo-1a9c08.html), Philip Guo. ~100 pages about the author's PhD experience. The early years sounded to me like one of the worse experiences of a PhD; probably 80% of PhD students have better experiences? Also note that the author worked in a field with different expectations for papers than in AI / ML; in particular most papers in his field are significantly more work than a typical ML paper. Still, the general patterns all rang true to me.
+
+[Want To Be An Expert? Build Deep Models](https://forum.effectivealtruism.org/posts/ckj6Moau9qpYArHWc/want-to-be-an-expert-build-deep-models), Lynette Bye. Argues that in order to have an extraordinary impact, you should spend a significant fraction of your time building a "deep model" of your field. I strongly endorse it (I helped in the creation of this post, and it quotes me in some places).

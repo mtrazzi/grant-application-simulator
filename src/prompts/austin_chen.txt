@@ -1,0 +1,1520 @@
+===
+Title: Research platform for training human neurons! (5 days ago)
+
+Austin Chen's comment:
+"""
+(responding here to a Discord DM, to provide public feedback)
+
+Congrats on the selection! I'm not very familiar with this area, and this writeup, the Axoniverse website and pitch video don't do a great job of explaining what your overall plans are or why you'd be well qualified to execute on them. For those reasons I'm declining to fund this at this time, but do let us know how the 5x5 pitch goes and if you end up winning the grant, I'd be curious to learn more!
+"""
+===
+Title: AI-Driven Market Alternatives for a post-AGI world (17 days ago)
+
+Austin Chen's comment:
+"""
+@Klingefjord awesome to hear that you're already thinking about this; agreed on tradeoffs you mentioned. Let me know if/when you're looking for investment too -- Manifund allows our regrantors to make for-profit investments in addition to grants!
+"""
+===
+Title: AI-Driven Market Alternatives for a post-AGI world (18 days ago)
+
+Austin Chen's comment:
+"""
+I'm funding this project as it features a strong team, endorsements from many folks I respect (including Liv Boeree, Tim Urban, CIP and OpenAI), and investigates an angle that I'm personally interested in. I'm kind of a sucker for anything flavored "AI x Markets" (see also: AI Objectives Institute), and think that there's a large shortcoming in current social technology for understanding and fulfilling human preferences.
+
+My biggest hesitation is: I'm baseline skeptical of a primary goal of producing research papers, aka I'm biased towards startups over research orgs. So for instance, I'd be more excited than I already am if the goal was more like "build an LLM coordinator that 200 people find useful and are willing to pay for" -- so produce a tool that people use and are excited to keep using. On a very quick read it seems like MAI's work on this project, if successful, could be extended in that direction? Like, if I was personally convinced an LLM coordinator could help me spend money better than I would normally, I should be willing to pay money for that service.
+"""
+===
+Title: The AI Arena - ludi.life (19 days ago)
+
+Austin Chen's comment:
+"""
+@c1sc0 Yup, you're fine to keep editing the proposal! Consider adding a changelog at the end to briefly document what and when things changed.
+"""
+===
+Title: The AI Arena - ludi.life (20 days ago)
+
+Austin Chen's comment:
+"""
+Hey Francis, thanks for proposing this project. I appreciate your background with software and Chalk Rebels, as well as the work-in-public ethos you have with your Obsidian notes -- eg it was cool to read more on your thoughts on AI Arena here. You also seem to be moving quickly, though it's only been a few days since you started on this project.
+
+Since it's so early, I'm going to hold off on personally offering funding for a couple of weeks, but will be excited to read about any updates you have to share, especially if you find that people are starting to participate in the challenges!
+"""
+===
+Title: Design budget for rebuilding the dating site we all want back. (25 days ago)
+
+Austin Chen's comment:
+"""
+@JJ Haha, I think it was a joke (see below), but in the interest of not confusing people I've removed those tags, leaving just "EA community".
+"""
+===
+Title: Update Big List of Cause Candidates (25 days ago)
+
+Austin Chen's comment:
+"""
+@davidfriva Thanks for the update; I'm sorry to hear that you weren't able to finish your stated goals given the budget. Do you happen to have anything publicly shareable based on your work on this project? Even work-in-progress/drafts could be helpful for others who want to try something similar!
+"""
+===
+Title: Lightcone Infrastructure (25 days ago)
+
+Austin Chen's comment:
+"""
+@SteveByrnes Thanks for the excellent comment and the donation!
+
+I absolutely agree that LW and EAF nurture communities that don't exist anywhere on Substack or elsewhere; it's what keeps me coming back to both of them. My point re: Substack is that many of the writers who I follow (eg Scott Alexander, Nate Silver, Zvi) write for their own Substacks first; sometimes pieces get mirrored/linkposted to LW/EAF, but usually not. So both the top level posts, and many valuable comments, happen off of LW now.
+
+One thing that might be cheap to try and very powerful would be for Lightcone to automatically mirror certain Substacks into LW, or easily allow authors to do so themselves. I believe eg Jeff Kaufman has something like this set up for his personal blogging. Mirroring comments (as Jeff does) would be a harder ask but possibly very valuable too.
+"""
+===
+Title: Project Leverage (26 days ago)
+
+Austin Chen's comment:
+"""
+Hi there, your project writeup for this is very sparse, and I'd encourage writing more if you're trying to crowdfund support for this.
+
+Also, insofar as you're trying to raise funding for this anonymously, it might not be a good fit for the Manifund platform. In general, we have a strong preference for public instead of anonymous grants, and currently support anonymous grants only in special circumstances.
+
+
+"""
+===
+Title: Preventing Worst Case Pandemics Symposium @ Cambridge (26 days ago)
+
+Austin Chen's comment:
+"""
+Administrative note: I've just transferred ownership of this project from @calebp to @Grace-Braithwaite, per Caleb's request.
+"""
+===
+Title: Graduate School Application Fee for Students from Third World Country (30 days ago)
+
+Austin Chen's comment:
+"""
+Approving this project (apologies for the delay!)
+
+
+"""
+===
+Title: Evaluating the Effectiveness of Unlearning Techniques (30 days ago)
+
+Austin Chen's comment:
+"""
+Approving this project as in line with our mission of funding AI safety research.
+
+For the record: 10 months ago, Fazl sought funding for a different project on Manifund, "Build an AI Safety Lab at Oxford University". At the time, there was a small kerfuffle, where @evhub ended up withdrawing his grant recommendation due to lack of time to further investigate. Since Evan is now recommending this $20k grant, it appears that Fazl and Evan have been able to sync up, and we (Manifund) are happy to proceed. In general, our policy is to extend significant trust to our regrantors in their areas of expertise.
+"""
+===
+Title: Understanding SAE features using Sparse Feature Circuits (30 days ago)
+
+Austin Chen's comment:
+"""
+Approving this as in line with our mission of advancing AI safety research. Thanks to Lovis and Neel for their public writeups on this!
+
+
+"""
+===
+Title: AI, Animals, and Digital Minds Conference and Retreat (about 1 month ago)
+
+Austin Chen's comment:
+"""
+I asked Constance to post this project to Manifund after seeing her initial report on AIADM on the EA Forum. As someone who has organized a conference very recently, I liked her transparent reporting on the behind-the-scenes execution of this event, and recommend that to anyone who is interested in running events.
+
+It also seems like a shame that this event did not receive any external funding, so that Constance had to pay for the whole thing out of her pocket. I'm impressed that she went ahead and organized this despite lack of funding; it speaks to her conviction in the importance of her work. Though I'm very new to and fairly agnostic about this particular field (AI x Animal Welfare), I'd like to help defray her costs and reward this kind of resourcefulness by retroactively supporting the event.
+
+
+"""
+===
+Title: Garrett Baker salary to study the development of values of RL agents over time (about 1 month ago)
+
+Austin Chen's comment:
+"""
+Thanks for this proposal, Garrett! While AI safety is not my area of expertise, I've appreciated your presence and discourse across LessWrong and Manifold, and thus am making a small initial donation as a sign of support. I saw that you're also planning on releasing a LW post with more information on your work soon -- looking forward to that.
+"""
+===Title: Effective Giving in New Zealand (about 1 month ago)
+
+I've lowered the minimum funding to $25k as requested (since this project has received further funding off of Manifund), and Austin Chen's comment:
+"""
+am approving this proposal as compatible with our goal of nurturing the EA community!
+"""
+===Title: Design budget for rebuilding the dating site we all want back. (about 1 month ago)
+
+Approving this! I think bringing together people and making new relationships happen provides massive social value, and am Austin Chen's comment:
+"""
+glad that these other donors agree. Best of luck with development of this dating platform!
+
+
+"""
+===
+Title: Design budget for rebuilding the dating site we all want back. (about 1 month ago)
+
+Austin Chen's comment:
+"""
+Thanks for the proposal! I've been impressed with Shreeda's writing at Meridian, as well as choice of coverage of on Byrne Hobart, Emmett Shear, and Dwarkesh Patel. I didn't know she was working on this dating site and think it's an important problem to tackle.
+
+I agree that design is critical for a consumer-facing site like this; it's good that you also recognize this. Right now, as a user I would immediately bounce seeing this front page:
+
+
+as the general UX design and the animal avatars don't inspire confidence, and communicates that this is very much in beta. I would go so far to posit that design is actually a key part of product here, and I'm a bit skeptical that hiring somebody external to help a bit would work (as opposed to having someone with design chops in the core team).
+
+As a funder, I'd be a lot more excited to fund this if you had lined up a specific designer who wanted to work with y'all on this. $1k-$5k is a very small ask, so my main question is on whether you have the ability to identify someone with good taste, and can actually convince them to sign on.
+
+Another major thing that's hard about dating apps is distribution (this is partly what we found with Manifold.love). If you had any kind of proof that you would be able to get distribution, that would bolster this proposal a lot. Even just like, running in person dating events before your website even works would be promising.
+
+Finally, I think you need a clearer story about what tiny audience you can bring on as a beachhead. Famously, startup lore has it stated that it's better to have a thing that a few people like a lot, than a thing that a lot of people want a little. I think that Manifold Love's early targeting of rationalist/EAs was quite good, and that one thing that tanked it was trying to expand too fast with things like online ads -- it just diluted the applicant pool. A focus on serving a few users very very well is a lot more important.
+
+
+🔥
+"""
+===
+Title: Preventing Worst Case Pandemics Symposium @ Cambridge (about 2 months ago)
+
+Austin Chen's comment:
+"""
+Cool, thanks for submitting this project, Caleb! Approving as being part of our mission of reducing biological GCRs.
+
+Curious, did this originate as a submission to the LTFF?
+"""
+===Title: Travel funding for International Conference on Learning Representations (2 months ago)
+
+Approving this grant; apologies for the delay! (I was waiting for Joar to create an account and then missed when he actually Austin Chen's comment:
+"""
+did.)
+"""
+===Title: Lightcone Infrastructure (3 months ago)
+
+@Chris-Lakin will keep this in mind next time! Though, this distinction might be less useful than you think; my account Austin Chen's comment:
+"""
+balance is a combination of a $50k regrantor budget and personal mana donations from my time working at Manifold, but the "regrantor budget" is pretty interchangeable with "Manifund funds"
+"""
+===Title: Independent research to improve SAEs (4-6 months) (3 months ago)
+
+Approving this grant -- thanks to @NeelNanda for the very in-depth writeup!
+Austin Chen's comment:
+"""
+
+$9K/month seems not crazy salary for someone living in SF, but I'd happily follow default rates for independent researchers if anyone has compiled them
+
+Yeah - I do think ~$100k/y is the going rate for junior independent AIS research. I also think this is kind of low; I expect most people in this category eg to be easily able to get entry-level L3 at Google, at ~$190k/y total compensation.
+
+I would also love a levels.fyi, or failing that at least an EA Forum post surveying what researcher salaries have been based on varying amounts of expertise.
+
+
+"""
+===
+Title: MATS Funding (3 months ago)
+
+Austin Chen's comment:
+"""
+@phgubbins That's awesome -- thanks to all the participants of the survey, and to you for facilitating this!
+"""
+===Title: Train great open-source sparse autoencoders (3 months ago)
+
+Approving this grant! I'm happy to see that Joseph and Johnny (past Manifund grantees) are involved with this.
+Austin Chen's comment:
+"""
+
+I'm a bit surprised that Tom is not receiving funding/salary for his work on this as well -- I expect Tom doesn't mind here, but broadly encourage researchers to ask for reasonable amounts of salary from funders.
+"""
+===Title: Lightcone Infrastructure (3 months ago)
+
+@Austin I also feel a bit obliged to list my concerns with Lightcone. These are very, very minor compared to all the good Austin Chen's comment:
+"""
+stuff above, and it's very easy to armchair quarterback and hard to actually do the right thing. But in the spirit of constructive feedback:
+
+The split in attention between Lesswrong, Lighthaven, and other endeavors across the team feels a bit suboptimal. I do think that individual initiatives are promising, and that there's much value of information in what Lightcone tries out, but the mark of a good startup is discipline and focus. (Me making this remark is very much the pot calling the kettle black, haha). Tentatively I feel like Lighthaven could be spun out as a separate org, as the skills to do a good website and a good event space feel fairly disjoint.
+
+I feel a bit weird about the opulence of Lighthaven. I have something of an aesthetic preference for scrappy/"ramen profitable", and it seems suspicious that work on this venue means that the Lightcone team spends much of their day lounging in paradise, like, maybe it'll make them softer or sth. (OTOH, this opulence has been quite good for Manifest; and I do broadly think optically questionable things like EA Bahamas or Wytham Abbey are Good Actually).
+
+I do feel less excited nowadays about posts and comments on LW (and even more so for the EA Forum). I think Substack has eaten some of LW's lunch; and there is something of an eternal September effect from new commenters.
+
+I especially don't feel like Lesswrong is much of a "community", for me; aka not a place I hang out, more of a utility or place I get news. And I'm curious how true this is for others. Egoistically, I think Manifold does (did?) better on this angle; the flavor of Manifold is more fun, social, colorful. We're also just much younger and smaller, which help.
+
+FWIW, I don't consider myself a rationalist; I put myself closer to EA, startups, and on some days Catholicism. I think there are some serious shortcomings with the rationalist approach (overemphasis of individual vs group intelligence; analytic rather than iterative mindset; lack of warmth); the lack of successful rationalist startups is pretty damning. (Though, I do expect Lightcone to be robustly good even if you're skeptical of rationality specifically)
+
+"""
+===how less
+Title: Lightcone Infrastructure (3 months ago)
+
+Austin Chen's comment:
+"""
+I really appreciated this writeup of Lightcone's impact and future goals. I thought I knew a fair bit about Lightcone given our past collaborations (eg on Manifest and integrating Manifold's markets) and convos with Oli, but there was a lot that was new to me here: counterfactual impact and growth from LW2.0, years and years of support for ACX and other rationality meetups, the Icecone visiting fellowship, Lightcone's influence on Constellation and FAR.
+
+For now, I'm putting down $5000 in support of Lightcone broadly. I arrived at this amount by estimating the value of Lesswrong and Lighthaven to be ~$200/month to me personally; this seems quite reasonable given that I'm happy to pay ~$100/month for a membership at eg a climbing gym or The Commons. So with this $5000 donation, I'm retroactively covering my last ~2 years of usage -- approximately the length of time I'd consider myself to be highly engaged with EA/rationality. (I wonder if more broadly, something like a high-dollar patron model would help with Lightcone fiscal sustainability).
+
+On Lightcone's future plans, I think the overall approach of "we're not sure but here are our best guesses as to what's good to build" is both good and honest. My quick takes:
+
+Lighthaven: we've made great use of this for Manifest, both last year and this. Lighthaven was counterfactually responsible for Manifest existing at all; the origin story for Manifest is approximately "Austin walking around the campus during an SSC meetup and thinking, hey, we could do a conference here." The Lightcone team is great to work with, in a way that I do not expect other venues to provide.
+
+LW as "the world’s best online research platform": I find the vision of to be pretty compelling. As a software person myself, I feel a little bit qualified to remark on website/engineering quality, and I cannot think of many sites that are crafted as well as LW; certainly no discussion platforms. LW is one of the few sites I have blocked on my devices for being too distracting for work; EA Forum (using the same codebase) is another -- testaments to the quality of the writing on these platforms.
+
+I would be very excited to see Lightcone push harder on this vision. Some things that could be cool:
+
+Incorporating payments and funding for good research & writing (patron/substack-like subscriptions? impact certs for prize payouts on the yearly review?)
+
+Onboarding other scientific research fields and communities. There's still a long way to go before Lesswrong becomes as popular as Arxiv or top scientific journals. This would also put LW in the position of being able to make many of the long-complained fixes to science; one straw example would be replication prediction markets.
+
+FWIW, I feel like the "clone and host a separate instance" strategy for ForumMagnum makes scaling quite hard; EA Forum seems to be doing okay but I don't know that the others are doing that well, eg Progress Forum is a ghost town.
+
+Other experiments on better online discourse, similar to Discussions. (Also literally, just getting Discussions to work well.) Off the top of my head, there's no good podcast or video platform for this, which are plausible areas to expand into.
+
+"FHI of the West": This is probably where I'm least excited; though it's possible I just am not as impressed with FHI as everybody else, due to my own ignorance -- maybe "Parc" or "GMU" would be more compelling?
+
+Lightcone Chord: I'm excited for the thrust of this project; I think something in the space of AI-enabled coordination is going to be, like, bigger than (if not owned by) Facebook. Of course, execution is everything here, and on that it's a bit too early to tell.
+
+
+"""
+===
+Title: Build anti-mosquito drones (3 months ago)
+
+Austin Chen's comment:
+"""
+Okay, I have set up this prediction market; let's move the discussion on operationalization there. I'm open to a cash bet of that size once we've figured out terms.
+"""
+===Title: Build anti-mosquito drones (3 months ago)
+
+@vascoamaralgrilo shrug, once again, I think you're missing the point of Manifund (early stage interventions look very Austin Chen's comment:
+"""
+different than established ones; charity entrepreneurship charities might be a better comparison) and also missing the point of ACX Grants (which is mostly not to compete against GiveWell - see Scott's writeups and look at the other ACX Grants made).
+
+I'm unfortunately not sure how to orient this conversation to be more productive here. I'd be open to a bet or prediction market of some kind like "will Alex raise further funding from an EA funder" if that seems cruxy to you. Otherwise I encourage you to come to Manifest, where both Alex and I will be; perhaps talking it out in person would be helpful!
+"""
+===Title: Build anti-mosquito drones (3 months ago)
+
+@vascoamaralgrilo idk, I feel like we're drawing from pretty different worldviews here.
+Austin Chen's comment:
+"""
+
+I don't expect people like Alex to look at a complicated calculation that concludes "and therefore gene drives are 10x as effective as anti-mosquito drones" and think "okay, so I should drop what I'm doing and work on gene drives"
+
+Alex might just not believe the calculations -- for plausible reasons! He has a bunch more insight into what's good about drones than an outside observer. I do think anti-mosquito drones have a realistic chance (eg >1%) of being sufficiently cost effective to be part of the fight against malaria
+
+His current set of skills sets him up really well for doing this particular project; founder-market fit is super important in making projects go well
+
+I think you're underrating "because it sounds cool", I guess. To shore this up a bit more, sounding cool is an important factor in getting buzz, being able to raise further funding, get stakeholders to agree to participate, etc.
+
+I think the general approach of analyzing cost effectiveness just doesn't really make sense for projects at this stage, or is at best one of many different lens. Cost effectieness is a reasonable sanity check, maybe; other than that, I'd look to other signals like founder quality and project velocity
+"""
+===Title: Build anti-mosquito drones (3 months ago)
+
+I agree with @alextouss; @vascoamaralgrilo, while I appreciate critiques that are intended to help out projects, I think Austin Chen's comment:
+"""
+your stance is unnecessarily combative here, or at least shortsighted/missing the point of Manifund. Manifund is primarily a platform for early stage projects, where there is a lot of information value to be gained from people like Alex trying new and novel things and then telling the world about their results. We don't generally expect interventions at these stages to compare favorably to established interventions like bednets on a spreadsheet (though it's a nice benefit if they do!)
+
+I do also think that mosquito gene drives are extremely promising and I would be excited to see project proposals of that sort on Manifund -- if you are yourself interested in working on this or know of people are, encourage them to apply!
+"""
+===Title: Gov't Action Kit (3 months ago)
+
+Reposting @louispauseaiinfo's response from Discord:
+Austin Chen's comment:
+"""
+
+Matthew Taber, a PauseAI member who fostered the first in the nation AI safety bill (ELVIS; https://www.tn.gov/governor/news/2024/3/21/photos--gov--lee-signs-elvis-act-into-law.html) thinks it'd be OK to include some swag. We're only talking a cheap PauseAI-logo t-shirt, or possible a hat, for which the budget targets $10 or so. In either case, the plan included a formal legal review and signoff. If we can't include any swag that won't alter the offering much, but I'd prefer to include it if possible; basic marketing and all that. More generally, thanks for reviewing our proposal. If you have any further question, please feel free to ask. I can be most-conveniently reached at louis@pauseai.info.
+"""
+===Title: Holly Elmore organizing people for a frontier AI moratorium (4 months ago)
+
+@Holly_Elmore Hey Holly! Thanks for the update; sorry to be catching you a bit late, but have you found a fiscal sponsor yet?
+Austin Chen's comment:
+"""
+
+I'm not sure what degree of support you're looking for from a sponsor, but Manifund is generally happy to be a lightweight fiscal sponsor -- basically, accept donations via 501c3, then forwarding funds to the grantees. I believe we have the lowest sponsorship fees in the industry at 5%, though we also provide no additional services; you're on your own for payroll, taxes, etc. Unsure if we ourselves have the "credibility" you are looking for, though sometimes we get to borrow on the credibility of our AI Safety regrantors or partners like Scott Alexander. Let me know if you're interested, you can also reach me at austin@manifund.org!
+"""
+===Title: MATS Funding (4 months ago)
+
+@cfalls haha yeah, for cases like this we function as a DAF ourselves (albeit one that primarily supports EA and adjacent Austin Chen's comment:
+"""
+projects instead of "all other 501c3s"; provides fiscal sponsorship for individuals/orgs like MATS; and also hosts programs like ACX Grants).
+
+I wasn't aware that BERI would also facilitate this for MATS, good to know!
+"""
+===Title: MATS Funding (4 months ago)
+
+@cfalls Hi Craig! I'm not sure that MATS is a 501c3, but Manifund is, and we're able to accept DAF payments on their behalf Austin Chen's comment:
+"""
+and forward the funds to them. (We do ask for DAF payments to clear a $5k minimum donation, however, due to the operational cost of processing these.) If you're interested, see instructions here.
+"""
+===Title: Support a thriving and talented community of Filipino EAs (4 months ago)
+
+I'm matching the existing donations for another $350, to get this project across its minimum bar, and based on the Austin Chen's comment:
+"""
+testimonials from Lorenzo and Jeroen. (I also very much appreciate that Zian found time for a 30m user interview call to provide feedback on Manifund and teach us a bit about the needs of EA Philippines.)
+
+
+"""
+===
+Title: A Lumenator Company, or: A More Ambitious Life Trajectory (4 months ago)
+
+Austin Chen's comment:
+"""
+@Adrian-Regenfuss thank you for the update and for the intention to return the funds; I'll follow up with information on how to do that. And congrats on the new job!
+"""
+===Title: A Happier World (YouTube channel promoting EA ideas) (4 months ago)
+
+Hi Jeroen! I wanted to thank you for taking the time to post this application. I don't watch much in the way of videos, but Austin Chen's comment:
+"""
+I did play through a chunk of your lead poisoning video and found it well-produced and informative. Best of luck towards hitting your funding goal!
+"""
+===Title: Year one of AI Safety Tokyo (4 months ago)
+
+I'm funding this up to the minimum funding bar, based on:
+Austin Chen's comment:
+"""
+
+Having met @luiscostigan and hearing about the work of AI Safety Tokyo, while visiting earlier this January
+
+The prominence of the TAIS Conference in Tokyo -- the fact that two of Manifund's AI Safety regrantors ( @DanHendrycks and @RyanKidd ) are going, and that Scott reposted about it on his most recent open thread, are both strong signals of the conference's value.
+
+Holding regular weekly study sessions might seem like a small thing, but I really respect the dedication it shows!
+
+I'm happy to buy this as retroactive impact certificate; I don't know if the large retro funders in this round are excited to buy back first-year impact (I hope they will be!), but either way I want to support this work.
+
+
+🥳
+"""
+===
+Title: Start an online editorial journal focusing on paradigm development in psychiatry and psychology (4 months ago)
+
+Austin Chen's comment:
+"""
+Crossposting some notes on this project! First a tweet from @toby, explaining his decision to fund this project:
+
+Since we worked on a review of Optimism's RGPF design I am interested to see how the new Manifund social impact certs/bonds will work. I applied to be a regranter on this thing and spent all my funds on Jessica's project to start a journal focused on paradigm development in psychiatry. It's a very important project and totally tracks with my goals for Care Culture.
+
+I would encourage other regranters to also consider funding this. It's well outside of classic EA / rationalist thinking. It's not problem with a very clear in-out impact model, personnel and scenius development will be the decisive factor. It matters to have Jess working on this!
+
+And second an endorsement from @lily, also posted in our newsletter:
+
+Jessica’s project takes up the mantle of a favorite crusade of mine, which is “actually it was a total mistake to apply the scientific method to psychology, can we please do something better.” She’s written extensively on psychiatric crises and the mental health system, and I would personally be excited to read the work of people thinking seriously about an alternative paradigm. I’m not sure whether the journal structure will add anything on top of just blogging, but I’d be interested to see the results of even an informal collaboration in this direction.
+
+(Note that I probably wouldn’t expect the SFF or LTFF to fund this; ACX Grants 2025 maybe, and the EAIF I’m not sure. But I’d be happy to see something like it exist.)
+"""
+===Title: WhiteBox Research: Training Exclusively for Mechanistic Interpretability (4 months ago)
+
+@briantan appreciate the update, especially how in-depth it is; this looks like good progress and I'm excited for the rest Austin Chen's comment:
+"""
+of your program!
+"""
+===Title: Run a public online Turing Test with a variety of models and prompts (5 months ago)
+
+I really like that Cam has already built & shipped this project, and it appears to have gotten viral traction and had to be Austin Chen's comment:
+"""
+shut down due to costs; rare qualities for a grant proposal! The project takes a very simple premise and executes well on it; playing with the demo makes me want to poke at the boundaries of AI, and made me a bit sad that it was just an AI demo (no chance to test my discernment skills); I feel like I would have shared this with my friends, had this been live.
+
+Research on AI deception capabilities will be increasingly important, but also like that Cam created a fun game that interactively helps players think a bit about how for the state of the art has come, esp with the proposal to let user generate prompts too!
+"""
+===Title: Quantifying the costs of the Jones Act (5 months ago)
+
+I like this project because the folks involved are great. Zvi is famous enough to almost not need introduction, but in case Austin Chen's comment:
+"""
+you do: he's a widely read blogger whose coverage of AI is the best in the field; also a former Magic: the Gathering pro and Manifund regrantor. Meanwhile, Jenn has authored a blog post about non-EA charities that has significantly shaped how I think about nonprofit work, runs an awesome meetup in Waterloo, and on the side maintains this great database of ACX book reviews. (seriously, that alone is worth the price of admission)
+
+I only have a layman's understanding of policy, economics or academia (and am slightly bearish on the theory of change behind "publish in top journals") but I robustly trust Zvi and Jenn to figure out what the right way to move forward with this.
+"""
+===Title: Publish a book on Egan education for parents (5 months ago)
+
+Brandon walks the walk when it comes to education; his ACX Book Review contest entry on the subject was not only well Austin Chen's comment:
+"""
+written, but also well structured with helpful illustrations and different text formats to drill home a point. (And the fact that he won is extremely high praise, given the quality of the competition!) I'm not normally a fan of educational interventions as their path to impact feels very long and uncertain, but I'd be excited to see what Brandon specifically can cook up.
+
+(Disclamer: I, too, have some skin in the game, with a daughter coming out in ~July)
+"""
+===Title: Investigating the Effects of IF in the reversal of Type 2 Diabetes Mellitus. (5 months ago)
+
+@DrAmbreenDeol awesome, thanks for the response! I've now approved your project.
+Austin Chen's comment:
+"""
+"""
+===Title: Investigating the Effects of IF in the reversal of Type 2 Diabetes Mellitus. (5 months ago)
+
+Hi @DrAmbreenDeol! Thank you for submitting this proposal; it's notable that @Kunvar is excited for this and offering $8.5k Austin Chen's comment:
+"""
+for this study.
+
+We'll most likely be able to approve as within the bounds of our 501c3 mission, but there's two pieces of information that we're missing (questions that we ask as part of our standard grant proposal):
+1) Who is on your team and what's your track record on similar projects?
+
+2) What other funding are you or your project getting?
+"""
+===Title: Online videos of Fluidity Forum 2024 talks (5 months ago)
+
+This was one of the grants I had feedback on during the initial review process, reposting here:
+Austin Chen's comment:
+"""
+
+FWIW, I was pretty impressed with the quality of Fluidity Forum speakers & attendees (eg Jane Flowers, Milan Griffes, AKC). Unfortunate that it overlapped with Manifest 2023 :'(. I would be tentatively interested in seeing the videos, but this might be just aspirational - I haven't even made it through the backlog of Manifest videos.
+
+I gave this a grant a 3 on Scott's 0-4 scale: "Good, plausible grant: recommend if money available and further research is positive"
+"""
+===Title: Visa fee support for US researcher to take on a temporary role with the UK AISI (5 months ago)
+
+Approving this grant as in line with our work towards funding research on AI safety!
+Austin Chen's comment:
+"""
+
+The process for this grant was a bit unusual - instead of the grant being initiated by the grantee, Jueyan approached us asking if we would be willing to fiscally sponsor this. After looking into this researcher's background and work, we decided that it would be in line with our normal area of charitable work, and agreed to facilitate this (with a 5% fiscal sponsorship fee.)
+
+Jueyan expressed an interest in getting this grant out the door ASAP, which is why there's only the one-sentence description for now; he's offered to put in a longer writeup later.
+"""
+===Title: Investigate a Novel Hypothesis on the Root Cause of Type 1 Diabetes (5 months ago)
+
+I asked a friend with more bio expertise to take a look, here was the feedback:
+Austin Chen's comment:
+"""
+
+1. I need to see the other BLAST results, because the legionella one seems cherry picked. I'd need to see if there are other proteins that are closer matches that he ignored because he couldn't come up with a hypothesis for them.
+
+2. The BLAST result doesn't seem great even out of context. A short sequence with 2 mismatches and 2 gaps is not a great match. If he could show the 3D structure is similar that would be a good next step, but as is it's not great.
+
+3. He has good epidemiological data for T1D but relies on random news stories and an out of context journal article for his Legionella's prevalence. He would need to come up with some comparable maps of Legionella's prevalence and show they line up in some way.
+
+4. These graphs don't match up and he doesn't have a good explanation.
+
+"""
+===Title: Investigate a Novel Hypothesis on the Root Cause of Type 1 Diabetes (5 months ago)
+
+Hi Stephen, thanks for submitting this project! Bio funding is very much outside my personal area of expertise, but I'll ask Austin Chen's comment:
+"""
+around and see if anyone in the field might be willing to lend their eyes on reviewing this.
+
+To set expectations: we haven't issued regrantor budgets for 2024 yet, as we're still fundraising ourselves. It's a shame that this proposal missed the recent ACX Grants round, as it would have been a great fit - but with the upcoming ACX Grants Impact Certs side, there may be an influx of bio-curious investors/donors interested in this.
+
+Also, I really enjoyed the bits of humor in your proposal - as someone who's fallen backwards into reading lots of these things, it's so nice when a proposal is a delight to read on its own.
+"""
+===Title: SirCryptomind Moderation (5 months ago)
+
+@wasabipesto for some context, SirCryptomind was asking whether Manifold could hire him for his moderation work; while we Austin Chen's comment:
+"""
+didn't want to bring on an ongoing, fulltime paid position for this at the moment, I encouraged him to submit an entry for retroactive funding for his mod work as part of the Community Fund. The community fund hasn't paid out our third round yet and I expect SirCryptomind's work to fall within scope for this.
+"""
+===Title: EEG using a generalizable ML model + 32 channel PCB (5 months ago)
+
+Funded this with $2.5k and approving this! This falls within the category of "encourage interesting scientific experiments" Austin Chen's comment:
+"""
+and is low-budget, so it's a cheap bet to see what this team can accomplish. I'm glad they are releasing their work as open source too (though would love to see a link somewhere!)
+
+
+"""
+===
+Title: Making 52 AI Alignment Video Explainers and Podcasts (6 months ago)
+
+Austin Chen's comment:
+"""
+I'm donating a token amount for now to signal interest, and get this project across its minimum funding bar. I have not listened much to The Inside View, but the guests Michael have attracted are quite good (eg recently Manifund regrantor @evhub and grantee @Holly_Elmore). The production quality seems pretty good at a glance (with editing & transcripts available). I also really like that Michael has also been consistently doing these for a year; I could imagine wanting to fund this project a lot more, upon further research or testimonials.
+
+My primary misgivings are the low-ish view counts on Youtube, and uncertainty on whether Michael's videos have been helpful for others - this is where more testimonials like Cameron's are helpful!
+"""
+===Title: Developing materials on forecasting for governments (6 months ago)
+
+Reposting my notes on this while evaluating for ACX:
+Austin Chen's comment:
+"""
+
+Okay so Scott put "Ask Austin?" for this, but really I feel much more qualified to evaluate software/startup proposals rather than forecasting ones. Also despite founding a prediction market startup, I'm not, like, an inherent cheerleader for forecasting, and actually have some deep skepticisms about the viability of Tetlock-style "forecasting for government policy"; such approaches seem sexy but like, if corporations aren't effectively using forecasting internally, I'm skeptical that the govt will be able to do so too.
+
+So with those biases in mind: I'm not especially excited by the proposal, but if anyone seems like the right person to do this kind of thing, it seems like S has the right background for it. I would be extremely happy if they succeeded at convincing policymakers to take forecasts more seriously. The win condition would be similar to that from Dylan Matthew's talk at Manifest: legitimizing forecasts in the eyes of people who work on policy. My hesitancies are 1) I'm not sure if funding this would make such adoption likely to happen (it seems like a long shot), and 2) as above, I'm not even that sure that such adoption would be significantly beneficial to the world.
+"""
+===Title: Create a platform for assurance contracts that looks nice. (6 months ago)
+
+My comments as an ACX evaluator:
+Austin Chen's comment:
+"""
+
+I like Tetra a lot, based on their writing and Manifold usage; I strongly considered offering them a Manifund regrantor budget (and would have done this if our overall budget pool was like 20% larger). That said, I'm a bit skeptical that 1) assurance contracts are a huge unmet need, or 2) they'll be able to create a sufficiently-nice-looking platform. I think "platform that looks nice" is actually very tricky but also necessary for wide adoption.
+
+(I'd feel much better about point 2 if they would pair up with someone whose specialty is web design)
+
+Since then it looks like Tetra is working with Jordan of Spartacus, which seems like a great fit (I would have suggested this if Scott didn't)! I'm a little unsure if "jam two people with no prior experience of collaborating" will actually work well, but tbh this kind of describes me and James/Stephen prior to ACX Grants, so there's at least some precedent. Best of luck!
+"""
+===Title: 10th edition of AI Safety Camp (6 months ago)
+
+Approving this project as in line with our work on AI Safety! I think this is a pretty compelling writeup, and a few people Austin Chen's comment:
+"""
+who I trust are vouching for the organizers.
+
+Notably, Remmelt and Linda made an excellent fundraising appeal on EA Forum -- they were very successful at turning past successes into a concrete appeal for funding, drawing in donations from many members of the EA community, rather than a single large donations from established funders. I'm very happy that Manifund can help with this kind of diversified fundraising. (I also appreciate that Linda has written up recommendations for other projects she finds compelling, including some on our site!)
+"""
+===Title: Joseph Bloom - Independent AI Safety Research (6 months ago)
+
+@josephbloom Thanks for posting this update! Your grant was one of the very first grants made through Manifund's regranter Austin Chen's comment:
+"""
+program, and I'm quite happy to see your follow ups. I especially appreciate you staying in touch with Marcus and Dylan to give them a sense of how their grants are being used as well as your next research steps.
+
+re: compute funding, I imagine you've already seen Superalignment Fast Grants; it seems like a good fit for your ask and I'd highly encourage you to apply (Leopold, who I believe is running the program, is also a Manifund regrantor!)
+"""
+===Title: Exploring novel approaches to addressing Global Catastrophic Risk through policy (6 months ago)
+
+@NeoOdysseus I've lowered your minimum funding requirement to $2,500, as requested.
+Austin Chen's comment:
+"""
+"""
+===Title: Athena - New Program for Women in AI Alignment Research (6 months ago)
+
+Hi Claire! Just wanted to note that Athena looks super cool, and I'm glad Evan Hubinger seems to think so as well. Austin Chen's comment:
+"""
+Successfully building out a mentorship program and support network can be tricky, especially to establish something with lasting impact; I'm happy to see that you have many different kinds of relevant experience. Hoping to see you succeed here, and let us know if we can help!
+"""
+===Title: AI-Plans.com (6 months ago)
+
+Approving this project; echoing Greg, I think AI Plans has made good progress (eg with its site design) since I last saw Austin Chen's comment:
+"""
+them. I also like some of the judges they chose for their December critique-athon, such as Nate Soares and Tetraspace.
+"""
+===Title: AI Policy work @ IAPS (7 months ago)
+
+Approving this project as appropriate under our charitable mission in the cause area of AI Governance. It's good to see the Austin Chen's comment:
+"""
+endorsements from @ZachSteinPerlman and tentatively @MarcusAbramovitch, as two people who I think are very clued-in to this space!
+"""
+===Title: The Base Rate Times (7 months ago)
+
+Approving this project as fitting within our charitable mission in the forecasting cause area! I've previously spoken with Austin Chen's comment:
+"""
+Marcel van Diemen before, who struck me as very motivated and entrepreneurial. I think Base Rate Times started very strong right out the gate -- it got a lot of retweets and mentions on EA/rat twitter, which is rare for a forecasting project. My major area of concern is that I'm not yet sold on whether there is repeated demand for the BRT form factor, vs just a novelty thing that gets linked to once and then not checked in the future. In any case, best of luck with BRT!
+"""
+===Title: Write an e/acc FAQ (7 months ago)
+
+I also think "seeding a wiki" or "having a LW dialogue" might be an interesting addendum or alternative to "writing a FAQ". Austin Chen's comment:
+"""
+A wiki might allow more participation for people with different perspectives (though perhaps loses out on coherence of vision), while the LW dialogue format might be a good fit for getting to the heart of disagreements and nuanced takes.
+"""
+===Title: Write an e/acc FAQ (7 months ago)
+
+Hey Isaac! I think this is an interesting proposal, and am funding this partway to see if others agree that this kind of Austin Chen's comment:
+"""
+thing would be useful and good.
+
+I think e/acc is intellectually interesting (and am intrigued by some ideas eg silicon descendents would be no morally worse than biological descendents), and would like to have a clearer understanding of what the key principles of its proponents are. Collaborating with core e/accs and EAs to get a balanced perspective sounds like a good idea (otherwise I'd worry that the FAQ would come across as a bit of a caricature).
+"""
+===Title: Help Apart Expand Global AI Safety Research (7 months ago)
+
+@NunoSempere I also think that Apart is interesting; at the very least, I think they have an amount of "gets things done" Austin Chen's comment:
+"""
+and marketing power that otherwise can be missing from the EA ecosystem. And they have a really pretty website!
+
+I am similarly confused why they haven't received funding from the usual suspects (OpenPhil, LTFF). On one hand, this makes me concerned about adverse selection; on the other, "grants that OP/LTFF wouldn't make but are Actually Good" would be an area of interest for Manifund. I would be in favor of someone evaluating this in-depth; if you plan on doing this yourself, I'd offer to contribute $2k to your regrantor budget (or other charitable project of your choice eg ALERT) for a ~10h writeup.
+
+See also two previous Manifund projects from Apart's leadership:
+
+Esben: Run five international hackathons on AI safety research
+
+Fazl: Build an AI Safety Lab at Oxford University
+"""
+===Title: Curated Markets (7 months ago)
+
+Hi Mick, this seems like an interesting proposal; did you mean to submit to the Manifold Community Fund for consideration Austin Chen's comment:
+"""
+for prize funding? If not -- I'd encourage you to do so, as it seems a better fit for that than general charitable funding. (Note that this would require recreating the proposal as an entry, since we don't support migrating grants to impact certs at this time unfortunately)
+"""
+===Title: AI Safety Serbia Hub - Office Space for (Frugal) AI Safety Researchers (7 months ago)
+
+And approving this project, as furthering our cause of fostering the EA community!
+Austin Chen's comment:
+"""
+"""
+===Title: Wasabipesto's Umbrella Project (7 months ago)
+
+@wasabipesto note that the funding deadlines are somewhat loose - we can extend that for you if you want to give investors a Austin Chen's comment:
+"""
+few more weeks, esp since we've been late on the first round of evals (orz)
+"""
+===Title: Field building in universities for AI policy careers in the US (8 months ago)
+
+Approving this project! Kudos to the team at Rethink for incubating this, and to Coby and Aishwarya for getting this off the Austin Chen's comment:
+"""
+ground.
+"""
+===Title: Trading bot guide (8 months ago)
+
+I definitely think the Manifold API experience could be greatly improved and mentioned on Discord that a guide that gets Austin Chen's comment:
+"""
+users to create bots would be great! So I am offering $200 as a token of support towards that. I do think the financial numbers on this proposal may not make a lot of sense from the investor's perspective though; a $10k total valuation implies that 1/3 of all of the value of Manifold Community Fund's $10k pool will be awarded to this project, which doesn't seem super likely.
+
+
+@nikki, I might suggest lowering at least the minimum funding, and perhaps the valuation too. Right now, at $6000 that implies you would spend 150-300 hours at the minimum on these projects, at your quoted rate of $20-$40; I think it's better to plan to start small (eg 20-40 hours to start) and hold on to more equity, which you can continue to sell once you've started showing results!
+"""
+===Title: Manifold x College Admissions (8 months ago)
+
+This looks cool! @cc6 has been a fun person to interact with in Manifold, and I love to see people working on projects that Austin Chen's comment:
+"""
+solve their own pain points (where I imagine cc6 has lots of expertise). Hooking in to the Common App APIs (which I didn't know existed) seems smart, but I'm sure they can figure out other ways to accomplish "Manifold x College Admission" if that doesn't work out.
+
+I'm funding this most of the way, leaving room for others to express interest; if nobody does in a few days I expect to fill the rest too.
+"""
+===Title: AI Safety Serbia Hub - Office Space for (Frugal) AI Safety Researchers (8 months ago)
+
+Funding this to the minimum ask, as it seems like very good bang-for-the-buck and it seems like two people I respect (Gavin Austin Chen's comment:
+"""
+and Misha) have gotten value from this. I have lots of uncertainty about the value of starting new hubs vs consolidating in a few regions, but happy to put a bit of funding down towards a cheap experiment.
+"""
+===Title: Explainer and analysis of CNCERT/CC (国家互联网应急中心) (8 months ago)
+
+(I've also increased the max funding goal to 10k, as requested by Joel)
+Austin Chen's comment:
+"""
+"""
+===Title: Explainer and analysis of CNCERT/CC (国家互联网应急中心) (8 months ago)
+
+Approving! The Aurora Scholarship is exactly the kind of program that we're excited for regrantors to initiate; props to Austin Chen's comment:
+"""
+Joel and Renan for driving this.
+"""
+===Title: Mapping neuroscience and mechanistic interpretability (8 months ago)
+
+(I've also doubled the max funding goal from $4.8k to $9.6k, per Joel's request)
+Austin Chen's comment:
+"""
+"""
+===Title: Mapping neuroscience and mechanistic interpretability (8 months ago)
+
+Approving this project now that it's hit its minimum funding bar. I wasn't aware that Renan and Joel had previously Austin Chen's comment:
+"""
+solicited Zhonghao (or set up the Aurora Scholarship, for that matter); both are awesome to hear.
+"""
+===Title: Talos Network (8 months ago)
+
+Approving this project now as it has hit its minimum funding bar, and Talos is definitely in line with our charitable Austin Chen's comment:
+"""
+mission in the area of AI Governance. Best of luck with further fundraising!
+"""
+===Title: Conceptual Boundaries Workshop (already funded, but some additional things) (8 months ago)
+
+I watched Chris's lecture at Foresight Vision Weekend 2023 last week, and found it was an interesting and novel way to think Austin Chen's comment:
+"""
+about agents. Very early stage, but I could believe that there's a chance that it helps me and others better understand coordination across a variety of agents (AIs, humans, orgs, etc). I also met Evan Miyazono at the same conference, and was impressed by his track record and energy (Evan and I scheduled time to chat about one of his proposals later this week)
+
+Chris is also a friend of Rachel and I, which cuts both ways: I trust Chris as a person, but don't want to fund too much of this project myself to avoid conflicts of interest, thus the $1k donation for now.
+"""
+===Title: Mapping neuroscience and mechanistic interpretability (8 months ago)
+
+@NeelNanda Thanks for weighing in; agreed that the asking amount is very low. I've funded to half of the min funding bar Austin Chen's comment:
+"""
+based on your endorsement.
+"""
+===Title: Update Big List of Cause Candidates (8 months ago)
+
+Approving as a simple research project which could help projects go well.
+Austin Chen's comment:
+"""
+
+FWIW, I'm more skeptical than Nuno that work of the form "make large lists of project ideas" is useful, as execution (not ideas) are almost always the bottleneck. But as usual, happy to be proven wrong!
+"""
+===Title: Long-Term Future Fund (8 months ago)
+
+@MarcusAbramovitch Note that this was not true at the time that LTFF made the grant to Manifold (Feb 2022) -- we had Austin Chen's comment:
+"""
+launched just a couple months ago, had not yet incorporated, and the only funding we'd received were grants ($20k from Scott Alexander and $2k from Paul Christiano). The $200k from LTFF was a strong credible signal that the EA community cared about our work.
+
+You can see more about Linch's reasoning for Manifold here. I think it holds up quite well (very biased obv), and I would be extremely happy if Manifund or LTFF or others in EA could figure out how to send six figures to similarly good teams.
+
+One more recent point of comparison might be Apollo Research, which is also seeking similar amounts of grant funding while also thinking about the for-profit route down the line.
+"""
+===Title: Case's Manifold Contributions Umbrella Project (8 months ago)
+
+@case for now, I'd actually suggest changing this project to represent "umbrella for Case's Manifold contributions" and Austin Chen's comment:
+"""
+include the first week churn as an example of the work. Off the top of my head, the Bounty hackathon project an various open source contributions could also be eligible if you bundle them into this project
+"""
+===Title: Exploring feature interactions in transformer LLMs through sparse autoencoders (8 months ago)
+
+Approving as part of our technical AI safety portfolio!
+Austin Chen's comment:
+"""
+"""
+===Title: Make ALERT happen (8 months ago)
+
+Approving this project! I was excited by the original launch of ALERT (and applied as a reservist, I think). I think the Austin Chen's comment:
+"""
+idea is good, but as they say in startupland "execution is everything" - best wishes on the execution, and let us know if we can help
+"""
+===Title: Experiments to test EA / longtermist framings and branding (8 months ago)
+
+I would be very interested in reading the results of this survey, to better understand how to position EA and longtermism! I Austin Chen's comment:
+"""
+appreciate especially that there is an established team with a good track record planning to work on this, and that they would publish their findings openly.
+
+I'm funding half of the required ask atm, since I feel that other regrantors or funders in the EA space would be interested in participating too. (Also, my thanks to @Adrian and @PlasmaBallin for flagging that this proposal has been underrated!)
+"""
+===Title: Good Ancestors Policy expenses (8 months ago)
+
+Approving this as being in line with Manifund's charitable purpose! Happy to see that Joel and Gavriel like Greg's work in Austin Chen's comment:
+"""
+this space.
+"""
+===Title: Estimating annual burden of airborne disease (last mile to MVP) (8 months ago)
+
+Approving this project as falling within Manifund's charitable mission in fostering biosecurity research.
+Austin Chen's comment:
+"""
+"""
+===Title: Scaling Training Process Transparency (8 months ago)
+
+Approving this as it falls within our purview of technical AI safety research. Best of luck with your research, Robert!
+Austin Chen's comment:
+"""
+"""
+===Title: Exploring novel research directions in prosaic AI alignment (8 months ago)
+
+@NeelNanda thanks for weighing in! Manifund doesn't have a UK entity set up, unfortunately. One thing that might be possible Austin Chen's comment:
+"""
+would be to figure out a donation swap where eg you commit to donating $10k via Givewell UK and some US-based person who was planning on giving to Givewell instead donates $10k to this project, and you both take tax deductions for your respective countries.
+"""
+===Title: Personal development and better infrastructure for learning, "Anki V2" (8 months ago)
+
+@Brent It's not clear to me what successful examples are... which have been impactful for you? I think foreign language and Austin Chen's comment:
+"""
+MCATs are two domains where SRS have proven its worth, but outside of that those memorization-heavy domains, the flashcard approach hasn't become popular. It's also damning that most successful people don't rely on SRS, afaict.
+
+I think there's something definitely interesting about the core observation of SRS - "learning happens via repeated exposures to the subject, and we can program that to our benefit." But it also seems to me that "flashcards" are a dead end, UX-wise, given all the research that has gone into them for relatively little adoption. I think there's a lot of space for innovating on other interaction models -- eg in what ways are social feeds like Twitter a spaced repetition system? Or Gmail?
+
+One other random note - for a while, I've wanted a SRS/anki thing that helps me stay on top of my various personal contacts (friends, acquaintances, etc). "Making friends" is a domain which lines up neatly with exponential backoff, I think -- it's easiest to make a friend by spending a lot of time with them in the beginning, and then staying in touch gradually less and less over time.
+"""
+===Title: Personal development and better infrastructure for learning, "Anki V2" (8 months ago)
+
+This grant falls outside of our more established pathways, but I'm excited to approve it anyways, as a small bet on a Austin Chen's comment:
+"""
+people-first funding approach (where I think the regranting mechanism shines).
+
+I'm a bit baseline skeptical of SRS/anki, having seen tools-for-thought people push for it but fairly unsuccessfully -- eg I was very excited for Quantum Country but it doesn't seem to have gotten wider adoption, nor personally helped me very much. However, I would be excited to be wrong here, and it's possible that LLMs change the game enough for there to be a good angle of attack!
+"""
+===Title: Cadenza Labs: AI Safety research group working on own interpretability agenda (8 months ago)
+
+Approving this project as in line with our mission of advancing technical AI safety.
+Austin Chen's comment:
+"""
+
+Thanks to Vincent for getting this project past its initial funding bar!
+"""
+===Title: Exploring novel approaches to addressing Global Catastrophic Risk through policy (8 months ago)
+
+@NeoOdysseus Hi Giuseppe, I've pushed back your funding deadline by a month to Jan 21!
+Austin Chen's comment:
+"""
+"""
+===Title: Exploring novel research directions in prosaic AI alignment (8 months ago)
+
+Approving this project, as Lawrence's work falls squarely within Manifund's cause of advancing technical AI safety!
+Austin Chen's comment:
+"""
+"""
+===Title: Invest in the Conflux Manifold Media Empire(??) (9 months ago)
+
+Also investing a small amount as a show of support for Conflux, though I'd definitely love to see more details eventually :P
+Austin Chen's comment:
+"""
+
+Austin has stated that Manifold is willing to retroactively fund some of my past projects
+
+To clarify, the Manifold Community Fund payout criteria will be for impact realized between checkpoints, so exclusive of past "impact". The first payout will assess impact from Nov 15-Dec 15 -- so previous eg views of MMP would be excluded, but if an old MMP episode went viral on Dec 1st, then that would count for impact.
+"""
+===Title: Manifold: Live! (9 months ago)
+
+This looks like a cool idea and I'm excited to see what Joshua and N.C. Young have in store, as both are longtime active Austin Chen's comment:
+"""
+members of the Manifold community! I'm investing a small amount, mostly to leave space for other investors to join in as well.
+
+Note on using the funds for mana: I tentatively think Manifold will also be able to provide mana grants for the Manifold Community Fund projects for boosts/subsidy/prizes/etc, so long as it doesn't end up being distortive on the broader Manifold ecosystem. Still need to figure out the general guidance for mana grants, but don't hesitate to ask!
+"""
+===Title: Estimating annual burden of airborne disease (last mile to MVP) (9 months ago)
+
+Funding this to the minimum ask, mostly because 1) the ask is small, 2) I highly trust two of the people involved (Joel and Austin Chen's comment:
+"""
+Vivian), and 3) I want to encourage the existence of Qally's, as I could imagine Manifund itself being a client looking to buy retrospective analyses.
+
+I'm actually not sure how big of an issue Long Covid is -- my uniformed take is "not a big problem". But this mostly stems from my emotional reaction against covid safetyism, and isn't very grounded in factual analysis, so I'm excited to see what the research shows!
+"""
+===Title: Retroactive funding for Don't Dismiss Simple Alignment Approaches (9 months ago)
+
+Hi Chris! Thanks for posting this funding application. I generally am a fan of the concept of retroactive funding for Austin Chen's comment:
+"""
+impactful work (more so than almost anyone I know). However, TAIS isn't my area of specialty, and from where I'm standing it's hard for me to tell whether this specific essay might be worth eg $100 or $1000 or $10000. The strongest signals I see are the 1) relatively high karma counts and 2) engagement by @josephbloom on the article.
+
+I'm putting down $100 of my budget towards this for now, and would be open to more if someone provides medium-to-strong evidence for why I should do so.
+"""
+===Title: Interpretable Forecasting with Transformers (10 months ago)
+
+I'm fairly sure that Scott would be happy to allow you to hold on to your current shares, the caveat that if you don't Austin Chen's comment:
+"""
+accept this current offer, he may not make any other assessment or offer in the future.
+"""
+===Title: A Lumenator Company, or: A More Ambitious Life Trajectory (10 months ago)
+
+Hi Adrian! Thanks for submitting this proposal. I'm not actually sure why people are downvoting you -- I do think this kind Austin Chen's comment:
+"""
+of project idea is pretty cool, and I would love to see & fund examples of "good rationalist ideas actually making it into production".
+
+That said, in startups, the mantra is "ideas are cheap, execution is everything". To that end, I'd be unsure as a funder if you'd be able to spin up a business around this. A few things:
+
+It seems like you haven't built a lumenator before? I'd suggest trying this just as a proof point of "yes I actually can make & enjoy making hardware"
+
+Validate demand for lumenators! Just because a bunch of EA people have said nice things about them doesn't mean that they would actually buy them; or that the audience extends beyond EA. Before committing to this, see if you can eg pre-sell 10 lumenators to people willing to put down $100 today for a $200 discount on delivery.
+
+The "Tesla Roadster" strategy could make sense here -- even if your goal is to get them <$500 for mass market, to start with you might sell bespoke custom lumenators at $2k to the rich rationalist folks first.
+
+Stop worrying about legal issues, 99.9% of the time this project fails because you can't build lumenators cheaply enough or you fail to find demand.
+
+If you haven't run any kind of side project before, I might start with software -- much cheaper to try and release things, so you learn about the other sides of entrepreneurship (marketing, selling, customer support, biz processes) much faster
+
+Find a cofounder? I'm less sure about this one, but it's standard YC advice, and in my experience projects done in teams have a way of going much farther than projects done solo.
+
+If you actually succeed on 1 & 2, that would be a major update for me towards wanting to invest in your company -- I'd probably invest $10k, at least. Some resources for you:
+
+YC's How to start a startup
+
+Michael Lynch's blog, an ex-Google software eng who started a solo biz selling
+
+"""
+===how less
+Title: Support Riesgos Catastroficos Globales (10 months ago)
+
+Austin Chen's comment:
+"""
+Approving this! Nuno called this out as one of the projects he was most excited to fund in his regrantor app, and I'm happy to see him commit to this.
+"""
+===Title: Empowering AI Governance - Grad School Costs Support for Technical AIS Research (10 months ago)
+
+I'm funding half of the requested $10k ask based on my prior experience chatting with Gabe (see writeup here); Gabe didn't Austin Chen's comment:
+"""
+actually withdraw that money at the time, so I'm happy to follow through on that now.
+"""
+===Title: Build an AI Safety Lab at Oxford University (11 months ago)
+
+I've updated Jonas's comment above. Evan is also retracting his support for this grant, so we will be unwinding his $50k Austin Chen's comment:
+"""
+donation and restoring this project to be in the pending state.
+"""
+===Title: Build an AI Safety Lab at Oxford University (11 months ago)
+
+(for context: Jonas posted his reservations independent of my grant approval, and within the same minute)
+Austin Chen's comment:
+"""
+"""
+===Title: Build an AI Safety Lab at Oxford University (11 months ago)
+
+In light of Jonas's post and the fact that this grant doesn't seem to be especially urgent, I'm going to officially put a Austin Chen's comment:
+"""
+pause on processing this grant for now as we decide how to proceed. I hope to have a resolution to this before the end of next week.
+
+Some thoughts here:
+
+We would like to have a good mechanism for surfacing concerns with grants, and want to avoid eg adverse selection or the unilateralist's curse where possible
+
+At the same time, we want to make sure our regrantors are empowered to make funding decisions that may seem unpopular or even negative to others, and don't want to overly slow down grant processing time.
+
+We also want to balance our commitment to transparency with allowing people to surface concerns in a way that feels safe, and also in a way that doesn't punish the applicant for applying or somebody who has reservations for sharing those.
+
+We'll be musing on these tradeoffs and hopefully have clearer thoughts on these soon.
+"""
+===Title: WhiteBox Research: Training Exclusively for Mechanistic Interpretability (11 months ago)
+
+Approving this project! I also especially appreciated that Kriz set up a prediction market on whether they would get to Austin Chen's comment:
+"""
+their higher bar of $37k~
+"""
+===Title: Build an AI Safety Lab at Oxford University (11 months ago)
+
+Approving this project! It's nice to see a handful of small donations coming in from the EA public, as well as Evan's Austin Chen's comment:
+"""
+endorsement; thanks for all your contributions~
+"""
+===Title: ClimateFire AI: An AI-powered Early Wildfire Detection Service (11 months ago)
+
+@nmp Ah to be clear, we don't require that projects fit inside our areas of interest to stay listed on Manifund; as many Austin Chen's comment:
+"""
+promising projects don't exactly fit. You're welcome to leave up your application if you'd like!
+"""
+===Title: ClimateFire AI: An AI-powered Early Wildfire Detection Service (11 months ago)
+
+Hi Nigel, appreciate you submitting your proposal to Manifund! I think wildfire detection is somewhat outside the scope of Austin Chen's comment:
+"""
+projects that our regrantors are interested in, and as thus you're unlikely to hit your minimum funding bar here. (A precise statement of our interests is tricky but the Future Fund's Areas of Interest is a good starting point). Best of luck with your fundraise!
+"""
+===Title: Forecasting - AI Governance Policies (11 months ago)
+
+Approving this project as it fits our criteria of "charitable and few downsides". I think publishing a forecast on the Austin Chen's comment:
+"""
+effects of a AI treaty could be very helpful. I am more skeptical of "running an open letter urging governments to coordinate to make an AI safety treaty" -- I'd highly encourage working with other players in the AI governance space, as otherwise I expect the impact of an open letter to be ~nil. (Maybe that was already the plan, in which case, great!)
+"""
+===Title: Support for Deep Coverage of China and AI (11 months ago)
+
+@JordanSchneider Hi Jordan! Good to know about GiveDirectly's ads -- I think that might be a good form factor for Manifund Austin Chen's comment:
+"""
+too, as we're currently looking to fundraise. Would love to see the pitch deck (email austin@manifund.org)!
+
+I'm also interested in contributing $5k-$10k of my own regrantor budget; my tentative proposal is that we could send half of our total funding as an unrestricted grant, and the other half as a purchase of advertising time.
+"""
+===Title: iAnalyse Mentorship Program (11 months ago)
+
+Hi Damaris, my best guess is that your application isn't a good fit for Manifund; it's very unclear to me how big data Austin Chen's comment:
+"""
+analytics skills are useful for eg AI Safety, or why this skills gap is important to address. Best of luck!
+"""
+===Title: HI2T: An AI-Based Tool for Insightful Analysis and Meaningful Influence (11 months ago)
+
+Hi Eden! My best guess is that your project is not a great fit for the Manifund platform; it's very unclear why we should Austin Chen's comment:
+"""
+provide charitable funding for your team to acquire a patent (and the requirement for an NDA doesn't help. If you're interested in making your application stronger, I would suggest that you drop your focus on acquiring a patent and just directly move to creating your prototype, and come back when you have a prototype to demo. (That isn't to say that I could promise that the prototype would receive funding, but in any case it would be much more compelling -- see Neuronpedia for an example grant that shipped a prototype before applying)
+"""
+===Title: Support funding for Hardeep Gambhir's gap semester (11 months ago)
+
+Approving this grant! The Residency looks like an interesting project; this grant falls within our charitable mission of Austin Chen's comment:
+"""
+supporting overlooked opportunities, while not having any notable downside risks.
+"""
+===Title: Discovering latent goals (mechanistic interpretability PhD salary) (12 months ago)
+
+Hi Lucy! Approving this grant as it fits within our charitable mission and doesn't seem likely to cause any negative effects.
+Austin Chen's comment:
+"""
+
+It does look like you have a lot more room for funding; I'm not sure if any of our AI-safety focused regrantors have yet taken the time to evaluate your grant, but if you have a specific regrantor in mind, let me know and I will try to flag them!
+"""
+===Title: Scoping Developmental Interpretability (12 months ago)
+
+Approving this! Best of luck with your research~
+Austin Chen's comment:
+"""
+"""
+===Title: The Rethink Priorities Existential Security team: Founder in Residence hire (12 months ago)
+
+Hi Ben, appreciate the application and I'm personally interested in the XST approach here. I have a deep question about Austin Chen's comment:
+"""
+whether "founder in residence" as a strategy works at all. I have met a few such "FIR" individuals (usually attached to VC firms), but I'm not aware of any breakout startups in tech that have been incubated this way; they always seem to have been founder-initiated. Some more evidence is that the YC batch where founders applied without ideas seemed to go badly. From Sam Altman:
+
+YC once tried an experiment of funding seemingly good founders with no ideas. I think every company in this no-idea track failed. It turns out that good founders have lots of ideas about everything, so if you want to be a founder and can’t get an idea for a company, you should probably work on getting good at idea generation first.
+
+Of course it's plausible that longtermist startups thrive on different models of incubation than tech ones. Charity Entrepreneurship seems to do fine by finding the individuals first and then giving them ideas to work with?
+
+Also, do you have examples of individuals you'd be excited to bring on for the FIR role? (Ideally people who actually would actually accept if you made them the offer today, but failing that examples of good candidates would be helpful!)
+"""
+===Title: Revolutionizing Water Infrastructure: A Rational Approach (12 months ago)
+
+Hi Keith! As a heads up, I don't think your project looks like a good fit for any of the regrantors on our platform (we are Austin Chen's comment:
+"""
+primarily interested in AI safety or other longtermist causes), so I think it's fairly unlikely you'll receive funding at this time. Cheers~
+"""
+===Title: Holly Elmore organizing people for a frontier AI moratorium (12 months ago)
+
+(@joel_bkr I really appreciate your investigation into this, which my own thoughts echo, and am matching with $2500!)
+Austin Chen's comment:
+"""
+"""
+===Title: Support for Deep Coverage of China and AI (12 months ago)
+
+Hi Jordan, thanks for posting this application. I'm impressed with the traction ChinaTalk has garnered to date, and think Austin Chen's comment:
+"""
+better US-China media could be quite valuable. It seems like Joel has much more context on this proposal and I'm happy to defer to his assessments.
+
+I wanted to chime in with a slightly weird proposal: instead of a grant, could we structure this as a sponsorship or purchase of some kind? Eg:
+
+We could purchase ad slots, either to promote relevant EA ideas & opportunities, or to fundraise for Manifund itself
+
+We could buy a large fixed lot of Substack subscriptions to gift to others
+
+There's some precedent for this kind of funder-grantee interaction -- I believe CEA funded TypeIII Audio by buying up a certain amount of audio content generated for the EA Forum and LessWrong.
+"""
+===Title: [deleted] (12 months ago)
+
+Hi Alex! You seem like a smart and motivated individual, and I appreciate you taking the time to apply on Manifund. Despite Austin Chen's comment:
+"""
+this, I'm not super excited by this specific proposal; here are some key skepticisms to funding this out of my personal regrantor budget:
+
+I'm suspicious of funding more "research into the right thing to do". I would be more excited to directly fund "doing the right thing" -- in this case, directly convincing university admins to fund AI or bio safety efforts.
+
+As a cause area, I view IIDM a bit like crypto (bear with me): many promising ideas, but execution to date has been quite lackluster. Which is also to say, execution seems to be the bottleneck and I'm more excited to see people actually steering institutions well rather than coming up with more ideas on how to do so. As they say in startup-land, "execution is everything".
+
+My guess is that as a university student, your world has mostly consisted of university institutions, leading you to overvalue their impact at large (compared to other orgs like corporations/startups, governments, and nonprofits). I would be much more excited to see proposals from you to do things outside the university orbit.
+
+I would also guess that getting university admins on board will be quite difficult?
+
+Thanks again for your application!
+"""
+===Title: Optimizing clinical Metagenomics and Far-UVC implementation. (12 months ago)
+
+@MSaksena Thanks for the explanation! I understand that nonprofit funders have their hands tied in a variety of ways and Austin Chen's comment:
+"""
+appreciate you outlining why it's in Manifund's comparative advantage to fund this as an independent grant.
+
+Someday down the line, I'd love to chat with the Convergent Research team or related funders (like Schmidt Ventures?) about solving the problem of how to "flexibly commit money to adjacent projects". In the meantime, best of luck with your research and thank you for your service!
+"""
+===Title: Optimizing clinical Metagenomics and Far-UVC implementation. (12 months ago)
+
+Approving this! Excited for Manifund's role here in accelerating the concrete research towards mitigating global Austin Chen's comment:
+"""
+catastrophic biorisks.
+"""
+===Title: Optimizing clinical Metagenomics and Far-UVC implementation. (12 months ago)
+
+Hi Miti! In general I'm excited for biosecurity work on these topics and excited that Gavriel likes this grant, and expect Austin Chen's comment:
+"""
+to approve this. I just wanted to check in on a (maybe dumb) question: given that Convergent Research seems to be both well-funded and also the primary beneficiaries of Miti's work, why aren't they able to fund this themselves?
+
+From CR's website, they don't have a vast pool of funding themselves, and instead seek to incubate FROs that then get follow-on funding. This seems reasonable; I'd be happy to work out other financial arrangements that make sense here such as via a loan or equity.
+
+For example, Ales estimates this work to raise the chance of unlocking funding by 10%+. In that case, assuming a conservative $10m raise for the FRO, that would make Miti's project worth $1m; and assuming a funder's credit portion of 10% for this, that would indicate a $100k value of the grant made. So eg would Ales/CR/the resulting FRO be willing to commit $100k back to Gavriel's regrantor budget, conditional on the FRO successfully raising money?
+
+I apologize if this seems like a money-grubbing ask; I'm coming into this a bit from a "fairness between funders" perspective and a bit of "sanity checking that the work really is as valuable to CR as purported". Manifund just doesn't have that much money at the moment, so being able to extend our capital is important; and also, I'm excited about using good financial mechanisms to make charitable fundraising much much better (ask me about impact certs sometime!).
+"""
+===Title: AI-Plans.com Critique-a-Thon $500 Prize Fund Proposal (12 months ago)
+
+Approving as this project is within our scope and doesn't seem likely to cause harm. I appreciate Kabir's energy and will be Austin Chen's comment:
+"""
+curious to see what the retrospective on the event shows!
+"""
+===Title: Alignment Is Hard (12 months ago)
+
+I'm not familiar with Alexander or his work, but the votes of confidence from Anton, Quinn, and Greg are heartening.
+Austin Chen's comment:
+"""
+
+Approving as the project seems within scope for Manifund (on longtermist research) and not likely to cause harm.
+"""
+===Title: Neuronpedia - Open Interpretability Platform (about 1 year ago)
+
+Hi Johnny, thanks for submitting your project! I've decided to fund this project with $2500 of my own regrantor budget to Austin Chen's comment:
+"""
+start, as a retroactive grant. The reasons I am excited for this project:
+
+Foremost, Neuropedia is just a really well-developed website; web apps are one of the areas I'm most confident in my evaluation. Neuropedia is polished, with delightful animations and a pretty good UX for expressing a complicated idea.
+
+I like that Johnny went ahead and built a fully functional demo before asking about funding. My $2500 is intended to be a retroactive grant, though note this is still much less than the market cost of 3-4 weeks of software engineering at the quality of Neuropedia, which I'd ballpark at $10k-$20k.
+
+Johnny looks to be a fantastic technologist with a long track record of shipping useful apps; I'd love it if Johnny specifically and others like him worked on software projects with the goal of helping AI go well.
+
+The idea itself is intriguing. I don't have a strong sense of whether the game is fun enough to go viral on its own (my very rough guess is that there are some onboarding simplifications and virality improvements), and an even weaker sense of whether this will ultimately be useful for technical AI safety. (I'd love if one of our TAIS regrantors would like to chime in on this front!)
+"""
+===Title: Investment in BOAS to generate €5-10K monthly sales to secure full investment (about 1 year ago)
+
+Hi Vincent! Thanks for submitting this; I'm excited about the concept of loans in the EA grantmaking space, and appreciate Austin Chen's comment:
+"""
+that your finances are published transparently.
+
+I expect to have a list of follow-up questions soon; in the meantime, you might enjoy speaking with the folks at Give Industries, who employ a similar profit-for-good model!
+"""
+===Title: VaccinateCA (about 1 year ago)
+
+Process for awarding this grant
+Austin Chen's comment:
+"""
+As Manifund is a relatively new funder, I’d been thinking through examples of impactful work that we’d like to highlight, and VaccinateCA came to mind. I initially reached out and made the offer to Patrick, upon hearing that he had donated $100k of his own money into the nonprofit. Patrick nominated Karl to receive this grant instead, and introduced us; Karl and I met for a video call in early July.
+
+What’s special about this grant to Karl is that it’s retroactive — a payment for work already done. Typically, funders make grants prospectively to encourage new work in the future. I’m excited about paying out this retroactive grant for a few reasons:
+
+I want to highlight VaccinateCA as an example of an extremely effective project, and tell others that Manifund is interested in funding projects like it. Elements of VaccinateCA that endear me to it, especially in contrast to typical EA projects:
+
+They moved very, very quickly
+
+They operated an object level intervention, instead of doing research or education
+
+They used technology that could scale up to serve millions
+
+But were also happy to manually call up pharmacies, driven by what worked well
+
+Karl was counterfactually responsible for founding VaccinateCA, and dedicated hundreds of hours of his time and energy to the effort, yet received little to no compensation.
+
+I’d like to make retroactive grants more of a norm among charitable funders. It’s much easier to judge “what was successful” compared to “what will succeed”, especially for public goods; a robust ecosystem of retroactive grants could allow for impact certs to thrive.
+
+I offered $10k as it felt large enough to meaningfully recognize the impact of VaccinateCA, while not taking up too much of my regrantor budget. I do think the total impact of this was much larger; possibly valued in the hundreds of millions of dollars to the US government, if you accept the statistical value of a life at $1-10m. (It’s unclear to me how large retroactive grants ought to to incentivize good work, and I’d welcome further discussion on this point.) I've set the project to make room for up to $20k of total funding for this, in case others would like to donate as well.
+
+Other tidbits from my conversation with Karl
+Q: Are you familiar with the EA movement? If so, what are your thoughts?
+
+A: Yeah, I’ve heard a lot about it. To use the lingo, I’ve been “Lesswrong-adjacent for a while”. Taken to extremes, EA can get you to do crazy things — as all philosophies do. But I really like the approach; mosquito nets make sense to me.
+
+I’d observe that a lot of money is out there, looking for productive uses. Probably the constraining factor is productive uses. Maybe you [Manifund] are solving this on a meta level by encouraging productive uses of capital? Austin: we hope so!
+
+Q: What is Karl up to now?
+
+A: I left my last role at Rippling a few months ago, and am now working on my own startup.
+
+It’s still pretty early, and I’m not yet settled on an idea, but I’m thinking of things related to my work on global payrolls at Rippling. I expect more business will be done cross-border, and using instant payments. Today, putting in a wire is very stressful, and this will be true of more and more things.
+
+My idea is to reduce payment errors: money disappearing when payments go to a false account, or an account that is some other random person’s. This will hopefully reduce payments friction, making international business less scary. The goal is to decreases costs, make it easier to hire people, and cut down on fraud.
+
+Thanks to Lily J and Rachel W for feedback on this writeup.
+
+"""
+===how less
+Title: One semester living expenses for MIT/Harvard-based researcher (about 1 year ago)
+
+Austin Chen's comment:
+"""
+Hi Vikram, thanks for applying for a grant! The projects you're working on (especially LimbX) look super cool. I'm offering $500 for now to get this proposal past its minimum funding bar; some notes as we consider whether to fund it more:
+
+This kind of deep tech is a bit outside of our standard funding hypothesis (which tends to be more longtermist/EA), and also outside my personal area of expertise (software)
+
+I would be excited about Manifund supporting young, talented individuals (similar to Emergent Ventures); but it's possible this represents a dilution in our focus? My grant to Sophia was similar in size/thesis, but in that case I was personally familiar with Sophia.
+
+I'm also just curious: how did you find out about Manifund?
+"""
+===Title: Apollo Research: Scale up interpretability & behavioral model evals research (about 1 year ago)
+
+Thanks for posting this application! I've heard almost universal praise for Apollo, with multiple regrantors expressing Austin Chen's comment:
+"""
+strong enthusiasm. I think it's overdetermined that we'll end up funding this, and it's a bit of a question of "how much?"
+
+I'm going to play devil's advocate for a bit here, listing reasons I could imagine our regrantors deciding not to fund this to the full ask:
+
+I expect Apollo to have received a lot of funding already and to soon receive further funding from other sources, given widespread enthusiasm and competent fundraising operations. In particular, I would expect Lightspeed/SFF to fund them as well. (@apollo, I'd love to know if you could publicly list at least the total amount raised to date, and any donors who'd be open to being listed; we're big believers in financial transparency at Manifold/Manifund)
+
+The comparative advantage of Manifund regranting (among the wider EA funding ecosystem) might lie in smaller dollar grants, to individuals and newly funded orgs. Perhaps regrantors should aim to be the "first check in" or "pre-seed funding" for many projects?
+
+I don't know if Apollo can productively spend all that money; it can be hard to find good people to hire, harder yet to manage them all well? (Though this is a heuristic from tech startup land, I'm less sure if it's true for research labs).
+"""
+===Title: Funding for Solar4Africa app development (about 1 year ago)
+
+Funding this as:
+Austin Chen's comment:
+"""
+
+I've previously had the opportunity of cohosting an EA hackathon with Sophia following EAG Bay Area; she was conscientious and organized, and I'd happily cohost something again
+
+I'm personally excited about supporting more concrete software development within the EA sphere, on the margin (compared to eg research papers)
+
+The ask is quite low ($500), and the project promises to be both fast (lasting a week) and soon (by Jul 27); I really like the ethos of moving quickly on a small budget.
+
+I don't have specific insights into Solar4Africa, but I'm curious to see the results!
+"""
+===Title: Forming a 501(c)(4) organization for AI safety policy advocacy/lobbying (about 1 year ago)
+
+Hi Haven, thanks for submitting your application! I like that you have an extensive track record in the advocacy and policy Austin Chen's comment:
+"""
+space and am excited about you bringing that towards making AI go well.
+
+I tentatively think that funding your salary to set up this org would be fairly similar to funding attempts to influence legislation (though I would be happy to hear if anyone thinks this isn't the case, based on what the IRS code states about 501c3s). That doesn't make it a non-starter for us to fund, but we would scrutinize this grant a lot more, especially as we'd have about a ~$250k cap across all legislative activities given our ~$2m budget (see https://ballotpedia.org/501(c)(3))
+
+Some questions:
+
+Where do you see this new org sitting in the space of existing AI Gov orgs? Why do you prefer starting a new org over joining an existing one, or working independently without establishing an org at all?
+
+Have you spoken with Holly Elmore? Given the overlap in your proposals, a conversation (or collaboration?) could be quite fruitful.
+"""
+===Title: Berlin EAGx Art Exhibit: SEE VIDEO Of completed piece! (about 1 year ago)
+
+Hi Jeffrey! I do think EA suffers from a lack of inspiring art and good artists, and appreciate that you are trying to fix Austin Chen's comment:
+"""
+this. Do you happen to have any photos or links to the pieces that you intend to put on display?
+"""
+===Title: The Slipstream (about 1 year ago)
+
+Hi Bruce! I'm a fan of software projects and modeling, and appreciate the modest funding ask. I'm not going to be funding Austin Chen's comment:
+"""
+this at this time, but hope you continue to make progress and would love to see what your demo/video looks like when it's ready!
+
+One note on your application, it does use a lot of jargon which makes it harder to understand what you're going to do, reminding me of this passage from Scott:
+
+Another person’s application sounded like a Dilbert gag about meaningless corporate babble. “We will leverage synergies to revolutionize the paradigm of communication for justice” - paragraphs and paragraphs of this without the slightest explanation of what they would actually do. Everyone involved had PhDs, and they’d gotten millions of dollars from a government agency, so maybe I’m the one who’s wrong here, but I read it to some friends deadpan, it made them laugh hysterically, and sometimes they still quote it back at me - “are you sure we shouldn’t be leveraging synergies to revolutionize our paradigm first?” - and I laugh hysterically.
+
+I think concrete examples (or the demo/video you mentioned) would help!
+"""
+===Title: Congressional staffers' biosecurity briefings in DC (about 1 year ago)
+
+Hey Allison, thanks for submitting this! Upvoting because this looks like a thoughtful proposal and I'm interested in Austin Chen's comment:
+"""
+hearing about how the August workshop goes.
+
+I would guess that a $75k minimum funding goal is higher than our regrantors would go for, given that most of our large-dollar regrantors are primarily focused on AI Safety, but I'm curious to hear what our bio or policy regrantors have to say about this kind of project!
+"""
+===Title: Recreate the cavity-preventing GMO bacteria BCS3-L1 from precursor (about 1 year ago)
+
+Putting down $20k of my regrantor budget for now (though as mentioned, we'll likely structure this as a SAFE investment Austin Chen's comment:
+"""
+instead of a grant, once we've finished getting commitments from regrantors)
+"""
+===Title: Recreate the cavity-preventing GMO bacteria BCS3-L1 from precursor (about 1 year ago)
+
+Thanks for submitting this, Aaron! We really like this kind of concrete object-level proposal, which is ambitious yet starts Austin Chen's comment:
+"""
+off affordable, and you have quite the track record on a variety of projects. A few questions:
+
+As this is a project for Lantern Bioworks, would you be open to receiving this as an investment (eg a SAFE) instead of grant funding?
+
+If funded, what do you think your chances of success are, and where are you most likely to fail? (I've set up a Manifold Market asking this question)
+
+Could you link to your Lightspeed application as well?
+
+Conflict of interest note, Aaron was an angel investor in Manifold Market's seed round.
+"""
+===Title: Holly Elmore organizing people for a frontier AI moratorium (about 1 year ago)
+
+Wanted to call out that Holly has launched a GoFundMe to fund her work independently; it's this kind of entrepreneurial Austin Chen's comment:
+"""
+spirit that gives me confidence she'll do well as a movement organizer!
+
+Check it out here: https://www.gofundme.com/f/pause-artificial-general-intelligence
+"""
+===Title: Holly Elmore organizing people for a frontier AI moratorium (about 1 year ago)
+
+I'm excited by this application! I've spoken once with Holly before (I reached out when she signed up for Manifold, about a Austin Chen's comment:
+"""
+year ago) and thoroughly enjoy her writing. You can see that her track record within EA is stellar.
+
+My hesitations in immediately funding this out of my own regrantor budget:
+
+Is moratorium good or bad? I don't have a strong inside view and am mostly excited by Holly's own track record. I notice not many other funders/core EAs excited for moratorium so far (but this argument might prove too much)
+
+Should Holly should pursue this independently, or as part of some other org? I assume she's already considered/discussed this with orgs who might employ her for this work such as FLI or CAIS?
+
+I would be even more excited if Holly found a strong cofounder; though this is my bias from tech startups (where founding teams are strongly preferred over individual founders), and I don't know if this heuristic works as well for starting movements.
+"""
+===Title: Ranked, Contributable Compendium of Alignment Plans - AI-plans.com (about 1 year ago)
+
+Hi Kabir! Unfortunately, I'm pretty skeptical that https://ai-plans.com/ is going to be much used and would not fund this Austin Chen's comment:
+"""
+out of my regrantor budget.
+
+This kind of meta/coordination site is very hard to pull off, as it suffers from network effect problems (cf the cold start problem). Without established connections or a track record of successful projects, even if the idea is good (which I'm not judging), the project itself won't hit critical mass. I might change my mind if you demonstrated substantial interest (hundreds of users, or a few very passionate users)
+
+I appreciate that you've coded up your own website (I think?) Kabir, at this stage I would focus not on any specific EA project but rather just becoming a better software developer; apply for internships/jobs.
+
+If you really want to do something "EA/AI Safety-ish" (though I don't think this would be a good rationale), consider just writing criticisms for individual plans and posting them on the EA Forum.
+"""
+===Title: Introductory resources for Singular Learning Theory (about 1 year ago)
+
+(and approved!)
+Austin Chen's comment:
+"""
+"""
+===Title: Introductory resources for Singular Learning Theory (about 1 year ago)
+
+Thanks for the writeup, Adam! I like that the grant rationale is understandable even for myself (with little background in Austin Chen's comment:
+"""
+the field of alignment), and that you've pulled out comparison points for this salary ask.
+
+I generally would advocate for independently conducted research to receive lower compensation than at alignment organizations, as I usually expect people to be significantly more productive in an organization where they can receive mentorship (and many of these organizations are at least partially funding constrained).
+
+I share the instinct that "working as an independent researcher is worse than in an org/team", but hadn't connected that to "and thus funders should set higher salaries for at orgs", so thanks for mentioning.
+
+Tangent: I hope one side effect of our public grant process is that "how much salary should I ask for in my application" becomes easier for grantees. (I would love to establish something like Levels.fyi for alignment work.)
+"""
+===Title: Reflective altruism (about 1 year ago)
+
+Haha yeah, I was working on my writeup:
+Austin Chen's comment:
+"""
+
+I generally think it's good that David's work exists to keep EA/longtermist causes honest, even though I have many disagreements with it
+
+For example, I agree a lot with his discussion on peer review in EA publications, while disagreeing with his criticism of Wytham Abbey.
+
+I would especially be interested in hearing what David thinks about our regranting program!
+
+I especially like that David is generally thoughtful and responsive to feedback eg on EA Forum and article comments.
+
+In the grand scheme of things, $2k seemed like a very small cost to cover 2 years' worth of future blogging.
+
+On reflection, I might have been too hasty to grant the largest amount, perhaps due to mentally benchmarking against larger grants I've been looking at. At this point in time I might downsize it to $1k if there were a convenient way to do that (and we decided changing the grant). But probably not worth it here given the small sums, except as a potential data point for the future.
+"""
+===Title: Medical Expenses for CHAI PhD Student (about 1 year ago)
+
+Thanks for the writeup, Rachel W -- I think paying researchers in academia so they are compensated more closely to industry Austin Chen's comment:
+"""
+averages is good. (It would have been helpful to have a topline comparison, eg "Berkeley PHDs make $50k/year, whereas comparable tech interns make $120k/year and fulltime make $200k/year")
+
+I really appreciate Rachel Freedman's willingness to share her income and expenses. Talking about salary and medical costs is always a bit taboo; it's brave of her to publish these so that other AI safety researchers can learn what the field pays.
+
+Other comments:
+
+We'd love to have other regrantors (or other donors!) help fill the remainder of Rachel Freedman's request; there's currently still a $21k shortfall from her total ask.
+
+Rachel W originally found this opportunity through the Nonlinear Network; kudos to the Nonlinear folks!
+"""
+===Title: [Funded] Gabriel Mukobi Summer Research (about 1 year ago)
+
+Main points in favor of this grant
+Austin Chen's comment:
+"""
+This grant is primarily a bet on Gabriel, based on his previous track record and his communication demonstrated in a 20min call (notes)
+
+Started Stanford AI Alignment; previous recipient of OpenPhil fieldbuilding grant
+
+His proposal received multiple upvotes from screeners on the Nonlinear Network
+
+I also appreciated the display of projects on his personal website; I vibe with students who hack on lots of personal side projects, and the specific projects seem reasonably impressive at a glance
+
+EA aligned
+
+Main reservations
+I don't feel particularly well qualified to judge the specifics of the proposed experiment myself, and am trusting that he and his colleagues will do a good job reporting the results
+
+Process for deciding grant amount
+Gabe requested $5000 for this project, but as he's planning to apply to several other sources of funding (and other Nonlinear Network grantmakers have not yet reached out), filling half of that with my regrantor budget seemed reasonable.
+
+Conflicts of interest
+None
+
+"""
+===how less
+Title: Base Rate Times (about 1 year ago)
+
+Austin Chen's comment:
+"""
+I saw from your EA Forum post (https://forum.effectivealtruism.org/posts/hChXEPPkDpiufCE4E/i-made-a-news-site-based-on-prediction-markets) that you were looking for grants to work on this. As it happens, we're working on a regranting program through Manifund, and I might be interested in providing some funding for your work!
+
+A few questions I had:
+- How much time do you plan on investing on Base Rate Times over the next few months?
+
+- What has traffic looked like (eg daily pageviews over the last month or so?)
+- How do you get qualitative feedback from people who view your site?
+
+Also happy to find time to chat: https://calendly.com/austinchen/manifold
+"""
+===Title: Blog about Forecasting Global Catastrophic Risks (about 1 year ago)
+
+@DamienLaird: Thanks for the update! I'm sorry to hear that you won't be continuing to write, as I've enjoyed your blogging Austin Chen's comment:
+"""
+these last few months. As I've conveyed via email, I appreciate the refund offer but think you should keep the investment, as you've already dedicated significant time towards what I consider to be good work.
+
+Best wishes with your next projects!
+"""
+===Title: Deploy an already built prediction website (over 1 year ago)
+
+Hey! I think it's cool that you've already built and shipped this once already -- I'd love to see more prediction sites Austin Chen's comment:
+"""
+flourishing! I appreciate that you provided an image of the site too; it looks pretty polished, and the image really helps us understand how the site would function.
+
+Given that the site is already mostly built, it seems like your hardest challenge will be finding users who are excited to participate -- especially if you're targeting the Bulgarian audience, as forecasting is already something of a niche, so Bulgarian forecasting would seem to be a niche within a niche. To that end, I'd definitely recommend conducting user interviews with people who you think might be a good fit (I found the books "The Mom Test" and "Talking to Humans" to really help me get comfortable with user interviews).
+
+A couple questions:
+
+What kind of feedback did your first set of users have on the site.
+
+What do you plan on doing differently this time around to try and get more usage?
+"""
+===Title: Impact Assessment of Social Programs (over 1 year ago)
+
+Hi Devansh, I very much think the problem of retroactive impact evaluation is quite difficult and am excited to see people Austin Chen's comment:
+"""
+try and tackle the area! It's nice to see that you've already lined up three nonprofits (from your local area?) to assess.
+
+My questions:
+
+Have you already spoken with these nonprofits about assessing their impact? If so, what have their responses been like?
+
+Have you identified the evaluators who will be doing the work of impact assessment? If so, what are their backgrounds like?
+"""
+===Title: Manifold Markets Add-on for Google Sheets (over 1 year ago)
+
+Hi Jesus! A Google Sheets add-on for Manifold is definitely not something we'd ever considered before; thanks for suggesting Austin Chen's comment:
+"""
+it! I think a lot of professionals spend their time in Google Sheets, and making it easier to access forecasts or use forecasting results in their formulas seems potentially very useful.
+
+Some questions I had:
+
+(As Ernest asked) how specifically would it work? Do you have a mockup or something that would demonstrate it's functionality?
+
+Is there a simpler version of this you could make that would be useful (eg a template Google Sheet with formulas that read from Manifold's API, instead of an add on?)
+
+Who do you think would be using this add on, besides yourself? Have you spoken with them about their use cases?
+"""
+===Title: Standardized Tools for Impact Market Reporting (over 1 year ago)
+
+Hi Ryan, I really love the innovative way you've chosen to use Manifund (as a bidding mechanism between three different Austin Chen's comment:
+"""
+projects to allocate ad spend!) And naturally, we're super interested in guidelines to help inform future impact market rounds.
+
+A couple of questions for you:
+
+How did you settle on these three areas (college students, earthquakes, and hurricane forecasts?)
+
+For a project with $500 to spend on ads, how many people would you expect to reach?
+"""
+===Title: Make forecasting fun again (over 1 year ago)
+
+Hi Samuel, it's cool to see your commitment to making forecasting fun -- a big part of what I think has made Manifold Austin Chen's comment:
+"""
+succeed is an emphasis on ease of use and levity~
+
+A couple questions:
+
+What does your ideal participant look like? Can you point to a few examples of people who are already excited to participate in this?
+
+What kind of impact are you hoping to have, as a result of running these fun events?
+"""
+===Title: Can communication between contributors improve aggregate forecasting accuracy? (over 1 year ago)
+
+Hey Joshua! I've always believed that the comments on Manifold were super helpful in helping forecasters improve their Austin Chen's comment:
+"""
+accuracy -- it seemed so obvious so as to not even need testing in an RCT, haha. It's cool to see the amount of rigor you're committing to this idea, though!
+
+Some questions for you:
+
+Based on the different possible outcomes of your experiment, what different recommendations would your project generate for prediction platforms? Eg if you find that comments actually reduced forecasting accuracy somehow, would the conclusion be that Manifold should turn off comments?
+
+What specific forecasting platform would you use (is it one that you'd build/have already built?)
+
+How many participants do you expect to attract with the $10k prize pool? How would you recruit these participants?
+"""
+===Title: Telegram bot for Manifold Markets (over 1 year ago)
+
+Hey Valentin! Always happy to see new proposals for ways to incorporate Manifold where different users spend their time. I'm Austin Chen's comment:
+"""
+not a user of Telegram myself, but I know a lot of folks worldwide are!
+
+
+I'm curious:
+
+How many users (either total or monthly) have your popular Telegram bots received? How many usages?
+
+What kind of Telegram channels or group chats do you expect to make use of the bot? What kind of questions would they ask?
+"""
+===Title: Superforecaster predictions of long-term impacts (over 1 year ago)
+
+Hey David, thanks for this proposal -- I loved the in-depth explainer, and the fact experiment setup allows us to learn Austin Chen's comment:
+"""
+about the results of long-term predictions but on a very short timeframe.
+
+Some questions:
+
+Am I correct in understanding that you're already running this exact experiment, just with non-superforecasters instead of superforecasters? If so, what was the reasoning for starting with them over superforecasters in the first place?
+
+How easily do you expect to be able to recruit 30 superforecasters to participate? If you end up running this experiment with less (either due to funding or recruiting constraints), how valid would the results be?
+"""
+===Title: A tool for making well sized (~Kelly optimal) bets on manifold (over 1 year ago)
+
+Hey William, I'm always excited to see cool uses of the Manifold API -- and Kelly bet sizing is an idea we've kicked around Austin Chen's comment:
+"""
+before. Awesome to see that it's a project you already have in progress! As you might know, Manifold is open source (we just added a limit order depth chart courtesy of Roman) and we're open to new contributions; though probably to start, a standalone app is a better way of testing out the user interface. And feel free to hop in our #dev-and-api channel on Discord with questions~
+
+Some questions for you:
+
+What tech stack are you building this in?
+
+One concern I've always had with Kelly is that it doesn't seem to incorporate degree of certainty, making it seem hard to use in real contexts -- e.g. if two equally liquid markets are both at 20% and I think they should both be 50%, Kelly recommends the same course of action even if one is "Will this coin come up heads" and the other is "Will the president be republican in 2025". Does this seem true/like an issue to you?
+"""
+===Title: Blog about Forecasting Global Catastrophic Risks (over 1 year ago)
+
+Hi Damien, it's cool that you've already been putting significant time into writing up and publishing these posts already; Austin Chen's comment:
+"""
+I've just subscribed to your substack! You should consider cross-posting your articles to the EA Forum for increased visibility ;)
+
+A couple questions that might help investors thinking about investing:
+
+What kind of feedback have you gotten on your blog posts so far?
+
+Where do you see your blog adding value, compared to other sources of info on GCRs?
+"""
+===Title: Forecasting Knowledge to Brazil [and other Portuguese-speaking countries] (over 1 year ago)
+
+Hi Hugo, I really appreciate that you're trying to bring forecasting to a wider audience via translations (I used to Austin Chen's comment:
+"""
+scanlate manga from Japanese to English, haha). A couple questions for you:
+
+Can you give a few examples of forecasting content that you'd intend on translating into Portuguese, and an estimate of how many such pieces you would translate using your funding?
+
+How would you plan on driving traffic or interest to your new website?
+"""
+===Title: Interpretable Forecasting with Transformers (over 1 year ago)
+
+Hi Sheikh! This seems like a neat project - it's awesome to hear that Nuno is involved here too. A couple questions that Austin Chen's comment:
+"""
+might help investors evaluating this:
+
+What are the deliverables if experimentation goes well -- eg published paper? Blog post? Interactive website?
+
+Roughly how much time do you and Nuno expect to put into this before deciding whether to scale up?
+"""
+===Title: Subsidize Real Money Prediction Markets on High Impact Topics (over 1 year ago)
+
+For the record, capturing a discussion on Discord: This proposal was submitted late to the ACX Minigrants round, and Austin Chen's comment:
+"""
+normally would not be included in the round.
+
+That said, in light of 1) the topicality of the proposal, 2) Ezra's past track record, and 3) desire to be impartial in supporting competitors to Manifold, I'm leaning towards allowing this proposal to receive angel and retro funding.
+
+Let me know if there are any objections!

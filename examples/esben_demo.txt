@@ -1,0 +1,49 @@
+Run five international hackathons on AI safety research
+-------------------------------------------------------
+
+Donate
+------
+
+### Project summary
+
+We're seeking six months of support for a project manager to coordinate and execute international technical hackathons in AI safety with Apart Research.
+
+Despite the growing importance of alignment research, there remains a shortage of researchers in this field. As alignment research agendas become increasingly relevant and applicable to real-world scenarios, there is a pressing need for skilled researchers and consultants to ensure AI safety across various institutions, organizations, and companies.
+
+Both the hackathons, our tech stack, the research, and the team's responsibilities have grown alongside the field. Expanding the team will ensure the hackathons are able to grow sustainably.
+
+Our Alignment Jam hackathons, initiated in November 2022, have drawn over 900 participants across 13 hackathons, resulting in 168 research projects submitted at over 69 events in more than 30 locations. These events are organized both virtually and locally and enable the exposition of talent from across the world. At Apart Research, we work closely with the most talented teams, incubating them into researchers through an academic publication track. Our hackathons have led to research being published in reputable academic venues.
+
+Read more about the hackathons at [alignmentjam.com](http://alignmentjam.com/).
+
+### What are this project's goals and how will you achieve them?
+
+Host five research hackathons in technical fields of alignment. The current plan is 1) evals, 2) AI safety research entrepreneurship, 3) safety benchmarking, 4) interpretability, and 5) AI safety standards. The order is not set in stone but these are both important, relevant for the future research needs, and approachable.
+
+### How will this funding be used?
+
+-   $10,000 for prizes for the hackathons
+
+-   $35,000 for the project manager
+
+-   $5,000 for marketing, software, compute, travel, fiscal sponsorship, and other misc. costs
+
+### Who is on your team and what's your track record on similar projects?
+
+Esben Kran (CEO) and Fazl Barez (CTO) have published research from the hackathons ([apartresearch.com](http://apartresearch.com/)) that were hosted with the core team and previous employees. From surveys, we have seen an 8.7/10 net promoter score, a self-reported 9.15% increase in AIS career probability after participation, and in our testimonials, participants mention many unique ways it changes their perspective on AI safety.
+
+Esben founded Apart, developed AI Safety Ideas ([aisi.ai](http://aisi.ai/)), has been a speaker at EAGx conferences on entering AI safety, researched brain-computer interfacing, was a data science consultant for researchers, and was lead data scientist in a previous startup. He is on the board of EA Denmark.
+
+Fazl is finishing his PhD at Edinburgh / Oxford. He is an FLI and Turing fellow and has previously worked at Amazon and Huawei Research, CSER, and Data Lab. He also works with AI Safety Hub and is advisor to EA Edinburgh.
+
+### What are the most likely causes and outcomes if this project fails? (premortem)
+
+Cause: We hire a program manager that is not able to take over the project. Outcome: The hackathons will not live up to their potential and the team will spend too much time managing the new hire. Mitigation: We use the A method for hiring, go through multiple evaluation rounds, and we use test tasks for the final candidates. We also provide multiple full days with Esben to transfer ownership technically and conceptually.
+
+Cause: Info hazardous research emerges. Outcome: AI safety research is used to commit illicit activities or contributes to capabilities. Mitigation: All hackathons are hosted on our own platform (see e.g. [alignmentjam.com/jam/interpretability](http://alignmentjam.com/jam/interpretability)) and we mark and retract unsafe projects and communicate with the teams about the best way to move forward with the project (2 major cases until now).
+
+Otherwise, the main causes for failure arise from lack of team capacity. With our track record, the interest we have seen, and the research that has emerged from the hackathons, the expected failure modes for other new hackathons do not seem likely.
+
+### What other funding are you or your project getting?
+
+We are receiving a speculation grant from SFF that supports Apart's operations, partly including the hackathons. We are in conversation about general funding for Apart.

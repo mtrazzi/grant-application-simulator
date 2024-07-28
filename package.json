@@ -1,0 +1,81 @@
+{
+  "name": "call-claude",
+  "displayName": "Call Claude",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [],
+  "main": "./out/extension.js",
+  "contributes": {
+    "configuration": {
+    "title": "AI Alignment Feedback",
+    "properties": {
+      "alignmentFeedback.anthropicApiKey": {
+        "type": "string",
+        "default": "",
+        "description": "Anthropic API Key for the AI Alignment Feedback extension"
+      }
+    }
+  },
+"commands": [
+      {
+        "command": "alignment-feedback.projectSelectionFeedback",
+        "title": "Project Selection Feedback"
+      },
+      {
+        "command": "alignment-feedback.alignmentAgendaFeedback",
+        "title": "Alignment Agenda Feedback"
+      },
+      {
+        "command": "alignment-feedback.showFeedbackView",
+        "title": "Show Alignment Feedback View"
+      }
+    ],
+  "viewsContainers": {
+      "activitybar": [
+        {
+          "id": "alignment-feedback",
+          "title": "Grant Application Simulator",
+          "icon": "media/icon.svg"
+        }
+      ]
+    },
+    "views": {
+      "alignment-feedback": [
+        {
+          "type": "webview",
+          "id": "alignment-feedback-view",
+          "name": "Main Panel"
+        }
+      ]
+    }
+  },
+  "scripts": {
+    "vscode:prepublish": "npm run compile",
+    "compile": "tsc -p ./",
+    "watch": "tsc -watch -p ./",
+    "pretest": "npm run compile && npm run lint",
+    "lint": "eslint src --ext ts",
+    "test": "vscode-test"
+  },
+  "devDependencies": {
+    "@types/mocha": "^10.0.7",
+    "@types/node": "20.x",
+    "@types/vscode": "^1.91.0",
+    "@typescript-eslint/eslint-plugin": "^7.14.1",
+    "@typescript-eslint/parser": "^7.11.0",
+    "@vscode/test-cli": "^0.0.9",
+    "@vscode/test-electron": "^2.4.0",
+    "eslint": "^8.57.0",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.24.3",
+    "marked": "^4.0.0"
+  }
+}

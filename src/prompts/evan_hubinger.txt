@@ -1,0 +1,288 @@
+# Grants evaluated by Evan Hubinger (May 2021)
+
+Anonymous – $33,000
+Working on AI safety research, emphasizing AI’s learning from human preferences.
+
+This grant, to an AI alignment researcher who wished to remain anonymous, will support their work on safe exploration, learning from human preferences, and robustness to distributional shift.
+
+I’m only moderately excited about this specific project. It partly focuses on out-of-distribution detection, which I think is likely to be useful for helping with a lot of proxy pseudo-alignment issues. However, since I think the project overall is not that exciting, this grant is somewhat speculative.
+
+That being said, the applicant will be doing this work in close collaboration with others from a large, established AI safety research organization that we are quite positive on and that the applicant previously did some work at, which significantly increases my opinion of the project. I think that the applicant’s continuing to do AI safety research with others at this organization is likely to substantially improve their chances of becoming a high-quality AI safety researcher in the future.
+
+Finally, we did not take the decision to make this grant anonymous lightly. We are obviously _willing _to make anonymous grants, but only if we believe that the reasoning presented for anonymity by the applicant is sufficiently compelling. We believe this is true for this grant.
+
+For additional accountability, we asked Daniel Ziegler of OpenAI, who is not part of the LTFF, to look at this grant. He said he thought it looked “pretty solid.”
+
+Finally, though the grantee is anonymous, we can say that there were no conflicts of interest in evaluating this grant.
+
+Center for Human-Compatible AI – $48,000
+Hiring research engineers to support CHAI’s technical research projects.
+
+Recusal note: Adam Gleave did not participate in the voting or final discussion around this grant.
+
+This grant is to support Cody Wild and Steven Wang in their work assisting CHAI as research engineers, funded through BERI.
+
+Overall, I have a very high opinion of CHAI’s ability to produce good alignment researchers—Rohin Shah, Adam Gleave, Daniel Filan, Michael Dennis, etc.—and I think it would be very unfortunate if those researchers had to spend a lot of their time doing non-alignment-relevant engineering work. Thus, I think there is a very strong case for making high-quality research engineers available to help CHAI students run ML experiments.
+
+However, I have found that in many software engineering projects, there is a real risk that a bad engineer can often be worse than no engineer. That being said, I think this is significantly less true when research engineers work mostly independently, as they would here, since in those cases there’s less risk of bad engineers creating code debt on a central codebase. Furthermore, both Cody and Steven have already been working with CHAI doing exactly this sort of work; when we spoke to Adam Gleave early in the evaluation process, he seems to have found their work to be positive and quite helpful. Thus, the risk of this grant hurting rather than helping CHAI researchers seems very minimal, and the case for it seems quite strong overall, given our general excitement about CHAI.
+
+David Reber – $3,273
+Researching empirical and theoretical extensions of Cohen & Hutter’s pessimistic/conservative RL agent.
+
+David applied for funding for technical AI safety research. He would like to work with Michael Cohen to build an empirical demonstration of the conservative agent detailed in Cohen et al.’s “Pessimism About Unknown Unknowns Inspires Conservatism.” David is planning on working on this project at the AI Safety Camp.
+
+On my inside view, I have mixed feelings about creating an empirical demonstration of Cohen et al.’s paper. I suspect that the guarantees surrounding the agent described in that paper are likely to break in a fundamental way when applied to deep learning, due to our inability to really constrain what sorts of agents will be produced by a deep learning setup just by modifying the training setup, environment/dataset, and loss function—see “Risks from Learned Optimization in Advanced Machine Learning Systems.” That being said, I think Cohen et al.’s work does have real value to the extent that it gives us a better theoretical understanding of the space of possible agent designs, which can hopefully eventually help us figure out how to construct training processes to be able to train such agents.
+
+On the whole, I see this as a pretty speculative grant. That being said, there are a number of reasons that I think it is still worth funding.
+
+First, Michael Cohen has a clear and demonstrated track record of producing useful AI safety research, and I think it’s important to give researchers with a strong prior track record a sort of tenure where we are willing to support their work even if we don’t find it inside-view compelling, so that researchers feel comfortable working on whatever new ideas are most exciting to them. Of course, this grant is to support David rather than Michael, but given that David is going to be working directly with Michael—and, having talked with Michael, he seemed quite excited about this—I think the same reasoning still applies.
+
+Second, having talked with Michael about David’s work, he seemed to indicate that David was more excited about the theoretical aspects of Michael’s work, and would be likely to do more theoretical work in the future. Thus, I expect that this project will have significant educational value for David and hopefully will enable him to do more AI safety work in the future—such as theoretical work with Michael—that I think is more exciting.
+
+Third, though David initially applied for more funding from us, he lowered his requested amount after he received funding from another source, which meant that the overall quantity of money being requested was quite small, and as such our bar for funding this grant was overall lower than for other similar but larger grants. This was not a very large factor in my thinking, however, as I don’t believe that the AI safety space is very funding-constrained; if we can find good opportunities for funding, it’s likely we’ll be able to raise the necessary money.
+
+John Wentworth – $35,000
+Developing tools to test the natural abstraction hypothesis.
+
+John Wentworth is an independent AI safety researcher who has published a large number of articles on the AI Alignment Forum, primarily focusing on agent foundations and specifically the problem of understanding abstractions.
+
+John’s current work, which he applied for the grant to work on, is in testing what John calls the “natural abstraction hypothesis.” This work builds directly on my all-time favorite post of John’s, his “Alignment By Default,” which makes the case that there is a non-negligible chance that the abstractions/proxies that humans use are natural enough properties of the world that any trained model would likely use similar abstractions/proxies as well, making such a model aligned effectively “by default”.
+
+According to my inside-view model of AI safety, I think this work is very exciting. I think that understanding abstractions in general is likely to be quite helpful for being able to better understand how models work internally. In particular, I think that the natural abstraction hypothesis is a very exciting thing to try and understand, in that I expect doing so to give us a good deal of information about how models are likely to use abstractions. Additionally, the truth or falsity of the general alignment by default scenario is highly relevant to general AI safety strategy. Though I don’t expect John’s analysis to actually update me that much on this specific question, I do think the relevance suggests that his work is pointed in the right direction.
+
+Regardless, I would have supported funding John even if I didn’t believe his current work was very inside-view exciting, simply because I think John has done a lot of good work in the past—e.g. his original “Alignment By Default” post, or any number of other posts of his that I’ve read and thought were quite good—and I think it’s important to give researchers who’ve demonstrated the ability to do good work in the past a sort of tenure, so they feel comfortable working on things that they think are exciting even if others do not. Additionally, I think the outside-view case for John is quite strong, as all of me, Scott Garrabrant, and Abram Demski are all very positive on John’s work and excited about it continuing, with MIRI researchers seeming like a good reference class for determining the goodness of agent foundations work.
+
+Marc-Everin Carauleanu – $2,491
+Writing a paper/blogpost on cognitive and evolutionary insights for AI alignment.
+
+Marc’s project is to attempt to understand the evolutionary development of psychological altruism in humans—i.e. the extent to which people intrinsically value others—and understand what sorts of evolutionary pressures led to such a development.
+
+Marc was pretty unknown to all of us when he applied and didn’t seem to have much of a prior track record of AI safety research. Thus, this grant is somewhat speculative. That being said, we decided to fund Marc for a number of reasons.
+
+First, I think Marc’s proposed project is very inside-view exciting, and demonstrates a good sense of research taste that I think is likely to be indicative of Marc potentially being a good researcher. Specifically, evolution is the only real example we have of a non-human-level optimization process producing a human-level optimizer, which I think makes it very important to learn about. Furthermore, understanding the forces that led to the development of altruism in particular is something that is likely to be very relevant if we want to figure out how to make alignment work in a multi-agent safety setting.
+
+Second, after talking with Marc, and having had some experience with Bogdan-Ionut Cirstea, with whom Marc will be working, it seemed to me like both of them were very longtermism-focused, smart, and at least worth giving the chance to try doing independent AI safety research.
+
+Third, the small amount of money requested for this grant meant that our bar for funding was lower than for other similar but larger grants. This was not a very large factor in my thinking, however, as I don’t believe that the AI safety space is overall very funding-constrained—such that if we can find good opportunities for funding, it’s likely we’ll be able to raise the necessary money.
+
+# Grants evaluated by Evan Hubinger (December 2021)
+
+-   EA Switzerland/PIBBSS Fellowship ($305,000): A 10-12 week summer research fellowship program to facilitate interdisciplinary AI alignment research
+
+    -   This is funding for [the PIBBSS Fellowship](https://www.lesswrong.com/posts/4Tjz4EJ8DozE9z5nQ/introducing-the-principles-of-intelligent-behaviour-in), a new AI safety fellowship program aimed at promoting alignment-relevant interdisciplinary work. The central goal of PIBBSS is to connect candidates with strong interdisciplinary (e.g. not traditional AI) backgrounds to mentors in AI safety to work on interdisciplinary projects selected by those mentors (e.g. exploring connections between evolution and AI safety).
+
+    -   We decided to fund this program primarily based on the strong selection of mentors excited about participating. However, we did have some reservations---primarily that, by targeting candidates with strong interdisciplinary backgrounds but not necessarily much background in EA or AI safety, we were somewhat concerned that such candidates might not stick around and continue doing good AI safety work after the program. However, we decided that it was worth pursuing this avenue regardless, given that such interdisciplinary talent is very much needed, and at least to get information on how effectively we can retain such talent.
+
+-   Berkeley Existential Risk Initiative ($250,000): 12-month salary for a software developer to create a library for Seldonian (safe and fair) machine learning algorithms
+
+    -   This is funding for Prof. Philip Thomas to hire a research engineer to create a library for easily using [Seldonian machine learning algorithms](https://www.science.org/doi/10.1126/science.aag3311). I think that the Seldonian framework, compared to many other ways of thinking about machine learning algorithms, centers real safety concerns in a useful way. Though I am less excited about the particular Seldonian algorithms that currently exist, I am excited about Prof. Thomas continuing to push the general Seldonian framework and this seems like a reasonably good way to do so.
+
+        The biggest caveat with this grant was primarily that Prof. Thomas had very little experience hiring and managing research engineers, suggesting that it might be quite difficult for him to actually turn this grant into productive engineering work. However, both BERI and I have provided Prof. Thomas with some assistance in this domain, and I am hopeful that this grant will end up producing good work.
+
+-   John Wentworth ($50,000): 6-month salary for general research
+
+    -   I have been consistently impressed with John Wentworth's AI safety work, just as [I have been when we funded him in the past](https://funds.effectivealtruism.org/posts/diZWNmLRgcbuwmYn4/long-term-future-fund-may-2021-grant-recommendations#John_Wentworth____35_000). Though this grant is more open-ended than previous grants we've made to John, I think John is an experienced enough AI safety researcher that general, open-ended research is something I am absolutely excited about him doing.
+    -   *Note: We recommended this grant to a private funder, rather than funding it through LTFF donations. At the time, we believed that the general nature of the grant might include work outside of the scope of what we are able to fund as a charitable organization, but we intend to make similar grants through EA Funds going forward.*
+-   Anonymous ($44,552): Supplement to 3-month Open Phil grant, working on skilling up in AI alignment infrastructure.
+
+    -   This grant is to support a couple of promising candidates working on AI safety infrastructure/operations/community projects, supplementing funding that one of them previously received from Open Phil. This grant was referred to us by the EA Infrastructure Fund and funded by us largely on their recommendation.
+-   Anonymous ($30,000): Additional funding to free up time for technical AI safety research.
+
+    -   This funding is general support for helping a technical AI safety researcher whose work I've been excited about improve their productivity. I think that many people doing good work in this space are currently underinvesting in improving their own productivity. If we can alleviate that in this case by providing extra funding, I think that's a pretty good thing for us to be doing.
+-   David Reber ($20,000): 9.5 months of strategic outsourcing to read up on AI Safety and find mentors
+
+    -   This funding is to help David improve his productivity and free up time to read up on AI safety while pursuing his AI PhD at Columbia. I think that these are valuable things for David to be doing and I think it will increase his odds of being able to contribute meaningfully to AI safety in the future. That being said, we decided to only fund David's productivity improvements and not fund a teaching buyout for David during his PhD, as we decided that teaching was likely to be somewhat valuable to David at this point in his career and we were unsure enough about his own work at this point in his career for us to decide that a full teaching buyout didn't make sense.
+-   Adam Shimi ($17,355): Slack money for increased productivity in AI Alignment research
+
+    -   Adam Shimi has been doing independent AI safety research under a previous grant from us, but has found that he is tight on funding and could improve his productivity by receiving an additional top-up grant. Given that we continue to be excited by Adam's research, and he thinks that the extra funding would be helpful for his productivity, I think this is a very robustly good grant.
+
+# Grant reports by Evan Hubinger (July, 2021)
+
+Nick Hay ($150,000)
+Design and implement simulations of human cultural acquisition as both an analog of and testbed for AI alignment.
+
+We’re funding Nick Hay to do AI alignment research as a visiting scholar at CHAI, advised by Andrew Critch and Stuart Russell. He will focus on creating environments to test AI’s ability to culturally acquire desirable properties. The idea is to design ML environments where the goal is to “fit in” with a group of existing agents in the environment—e.g. learn what the different roles are that the other agents are playing and be able to join the group to fulfill one of those roles.
+
+This is probably the grant I’m most excited about in this payout report. Nick has a solid ML background, having previously completed an ML PhD at Berkeley under Stuart Russell. He also has great advisors in Critch and Russell, and is working on an excitingly novel project.
+
+In evaluating new benchmarks, one of the main things I look for is whether they are likely to be hard for an interesting reason, such that I expect solving them to yield useful alignment insights. I think that is very much true for what Nick is trying to build here—fitting in with a group is an ill-defined task that’s likely to require learning from feedback in a complex way that I expect will shine light on real, difficult problems in AI alignment.
+
+Aryeh Englander ($100,000)
+Replacing reduction in income due to moving from full- to part-time work in order to pursue an AI safety-related PhD.
+
+We’re funding Aryeh to drop to half-time on his AI-related work at Johns Hopkins’s Applied Physics Laboratory in order to pursue an AI PhD at the University of Maryland, Baltimore County.
+
+I think that this grant is quite marginal, and there are many reasons that it might end up being a bad idea—it means Aryeh will be doing less work at APL, work that might have otherwise been directly useful, and has him putting a lot of time and effort into getting a PhD from a school with little name recognition outside of APL, though Aryeh assured us that UMBC was positively looked on within APL. Aryeh also assured us that he plans on staying at APL for quite some time, which helps to mitigate the downside of this credential being not very useful elsewhere.
+
+Overall, I like the idea of there being AI-safety-knowledgeable people like Aryeh at APL—if APL ends up being a major player in AI, which seems very possible given that it’s one of the largest scientific research labs affiliated with the US federal government, I’d like to have people there who are knowledgeable and interested in AI safety. And according to Aryeh, APL values PhDs very highly, as one might expect for a government-affiliated lab—in particular, if Aryeh wants to lead an AI safety project, he has to have a PhD. Thus, we ended up deciding that it was worth sponsoring Aryeh to get a PhD as an investment in his ability to support AI safety at APL.
+
+James Bernardi ($28,320)
+8-month salary to work on technical AI safety research, working closely with a DPhil candidate at Oxford/FHI.
+
+In our last payout report, I wrote about our grant to David Reber to work with Michael Cohen on empirical demonstrations of Michael’s work. David has now stopped working with Michael, and Michael is looking to work with James instead (on the same project).
+
+My thoughts on this grant are mostly the same as my thoughts on our previous grant to David to work with Michael, so I’ll just refer the reader to that report rather than repeat the same points here. The only additional nuance is how excited we are about James compared to David. I generally want to let Michael make his own decisions about who he wants to work with rather than second-guess him, so I won’t comment too much on that question. But I will note that James has a solid ML engineering background, and it seems like there is a reasonable chance that the project will end up working out.
+
+Andrei Alexandru ($27,645)
+Grant to cover fees for a master's program in machine learning.
+
+We’re funding Andrei Alexandru to pursue an ML master’s from Cambridge. Andrei has previously done mostly general software engineering and is looking to pivot into AI, and ML specifically, in order to eventually work on AI safety. I’m generally in favor of funding most applications of this form—someone aligned wants funding to skill up/get a credential in ML—and my evaluation of this application didn’t end up very far from that prior.
+
+Andrei is clearly interested and engaged in AI safety—he previously received a grant from Open Philanthropy to self-study AI—but isn’t yet very knowledgeable or experienced. In my opinion, I think it’s worth giving him the opportunity to gain that knowledge and experience; I think AI safety absolutely needs more researchers right now, there’s a reasonable chance Andrei ends up in a position to do good work, and I didn’t think there were any strongly negative signs that might suggest that Andrei would end up negatively affecting the field.
+
+AISS Inc ($25,000)
+6-month salary for JJ Hepburn to continue providing 1-on-1 support to early AI safety researchers and transition AI Safety Support.
+
+We’re funding JJ Hepburn to continue providing 1-on-1 support to aspiring AI safety researchers, as well as giving him a runway to consider what he should do next. AI Safety Support as an organization currently has an unclear future and this grant is to make sure that JJ is supported regardless of what happens with AI Safety Support.
+
+I think that JJ is currently doing good work supporting people trying to get into AI safety, and I would be disappointed to see him have to get a day job instead, which is what JJ thinks he would likely have to do without funding. I don’t have a strong belief about exactly what JJ should be doing— I think he’d also be a great fit for other ops roles—but he’s clearly motivated, competent, and aligned, and I want to give him time to figure that out for himself.
+
+
+
+# Manifund comments on projects by Evan Hubinger (2022 to 2024)
+
+Exploring novel research directions in prosaic AI alignment
+evhub avatar
+Evan Hubinger
+
+8 months ago
+
+Main points in favor of this grant
+
+Normally I'm somewhat skeptical of totally independent alignment work, but Lawrence has a solid track record and I think his project ideas sound quite exciting. I was also recommended this grant specifically by someone I trust, and encouraged Lawrence to put it up here.
+
+Donor's main reservations
+
+Independent alignment work without any mentorship doesn't have a fantastic track record in my opinion, so it's definitely possible that not much of value will come from this other than helping keep Lawrence learning and doing work (though that is still meaningful upside).
+
+Process for deciding amount
+
+I would fund the full amount here, but I'm starting to run out of money in my Manifund pot. I'd appreciate other funders stepping in to top this off.
+
+Conflicts of interest
+None.
+
+Show less
+Scaling Training Process Transparency
+evhub avatar
+Evan Hubinger
+
+9 months ago
+
+Main points in favor of this grant
+
+I am excited about more work in the realm of training transparency, and I know that Rob is capable of executing here from having mentored him previously.
+
+Donor's main reservations
+
+The main way I could imagine this being a bad idea is if it's not a good use of Rob's time, but I'll defer to his judgement there.
+
+Process for deciding amount
+
+I'd likely be willing to fund more than 5k, but I'll cover the full expenses being requested for now.
+
+Conflicts of interest
+Rob was a mentee of mine in the SERI MATS program.
+
+Medical Expenses for CHAI PhD Student
+evhub avatar
+Evan Hubinger
+
+9 months ago
+
+Main points in favor of this grant
+I don't have a strong take on how good Rachel's current research is, but she's clearly doing relevant work and it seems high-impact to cover medical expenses to let her keep doing that if doing so is cheap.
+
+Donor's main reservations
+I am more confident that covering medical expenses is good than I am that other timesaving services such as a PA will be good.
+
+Process for deciding amount
+
+I have committed $10k for now, but would be willing to commit more if @rachelfreedman identifies to me that the current amount is insufficient to cover her medical expenses. Based on current committed funding, it looks to me like she may or may not have enough to do that depending on how much buffer is necessary. If the current amount is insufficient, I would likely be willing to put in more.
+
+Conflicts of interest
+None.
+
+Show less
+Long-Term Future Fund
+evhub avatar
+Evan Hubinger
+
+11 months ago
+
+Main points in favor of this grant
+I have been consistently impressed by the LTFF's grantmaking and this seems to be a time when they are uniquely in need of funding (https://www.lesswrong.com/posts/gRfy2Q2Pg25a2cHyY/ltff-and-eaif-are-unusually-funding-constrained-right-now).
+
+Donor's main reservations
+I think my main reservation here is that it sort of defeats the purpose of regranting, since now the funding is just flowing to the existing grantmaking institution of the LTFF rather than the regrantor mechanism. But, while I do like the regrantor mechanism, I think that in this case the LTFF's funding constraints justify this grant.
+
+Process for deciding amount
+
+I want to have enough left in my pot to fund any really good opportunities that might come up, but otherwise I'm committing the rest of my pot to this.
+
+Conflicts of interest
+I used to be a fund manager for the LTFF.
+
+Show less
+Avoiding Incentives for Performative Prediction in AI
+evhub avatar
+Evan Hubinger
+
+11 months ago
+
+Main points in favor of this grant
+I am excited about more work along the lines of the existing "Incentivizing honest performative predictions with proper scoring rules" paper. I think that there are serious safety problems surrounding predictors that select their predictions to influence the world in such a way as to make those predictions true ("self-fulfilling prophecies") and I am excited about this work as a way to discover mechanisms for dealing with those sorts of problems. "Conditioning Predictive Models" discusses these sorts of issues in more detail. Rubi is a great person to work on this as he was an author on both of those papers.
+
+Donor's main reservations
+
+I think my main reservations here are just around Rubi's opportunity costs, though I think this is reasonably exciting work and I trust Rubi to make a good judgement about what he should be spending his time working on. The most likely failure mode here would probably be that the additional work here doesn't turn up anything else new or interesting that wasn't already surfaced in the "Incentivizing honest performative predictions with proper scoring rules" paper.
+
+Process for deciding amount
+
+I think that $33k is a reasonable amount given the timeframe and work.
+
+Conflicts of interest
+Rubi was a previous mentee of mine in SERI MATS and a coauthor of mine on "Conditioning Predictive Models."
+
+Show less
+Apollo Research: Scale up interpretability & behavioral model evals research
+evhub avatar
+Evan Hubinger
+
+12 months ago
+
+Main points in favor of this grant
+
+I am quite excited about deception evaluations (https://www.lesswrong.com/posts/Km9sHjHTsBdbgwKyi/monitoring-for-deceptive-alignment), transparency and interpretability (https://www.lesswrong.com/posts/nbq2bWLcYmSGup9aF/a-transparency-and-interpretability-tech-tree), and especially the combination of the two (https://www.lesswrong.com/posts/uqAdqrvxqGqeBHjTP/towards-understanding-based-safety-evaluations). If I were crafting my ideal agenda for a new alignment org, it would be pretty close to what Apollo has settled on. Additionally, I mentored Marius, who's one of the co-founders, and I have confidence that he understands what needs to be done for the agenda they're tackling and has the competence to give it a real attempt. I've also met Lee and feel similarly about him.
+
+Donor's main reservations
+
+My main reservations are:
+
+It's plausible that Apollo is scaling too quickly. I don't know exactly how many people they've hired so far or plan to hire, but I do think that they should be careful not to overextend themselves and expand too rapidly. I do want Apollo to be well-funded, but I am somewhat wary of that resulting in them expanding their headcount too quickly.
+
+As Apollo is a small lab, it might be quite difficult for them to get access to state-of-the-art models, which I think would be likely to slow down their agenda substantially. I'd be worried especially if Apollo was trading off against people going to work directly on safety at large labs (OAI, Anthropic, GDM) where large model access is more available. Though this would also be mitigated substantially if Apollo was able to find a way to work with labs to get approval to use their models for research purposes externally, and I do not know if that will happen or not.
+
+Process for deciding amount
+
+I decided on my $100k amount in conjunction with Tristan Hume, so that we would be together granting $300k. Both of us were excited about Apollo, but Tristan was more relatively excited about Apollo compared to other grants, so he decided to go in for the larger amount. I think $300k is a reasonable amount for Apollo to be able to spin up initial operations, ideally in conjunction with support from other funders as well.
+
+Conflicts of interest
+Marius was a mentee of mine in the SERI MATS program.
+
+about 1 year ago
+
+Main points in favor of this grant
+
+Generally, my policy for funding independent research is that I look for the presence of a mentor with a solid research track record that will be overseeing the research. I think completely independent research is rarely a good idea for junior researchers, but if a more senior researcher is involved to guide the project and provide feedback, then I think it tends to go quite well. In this case, there will be a number of senior researchers such as Tom Everitt and Victoria Krakovna overseeing the project, which makes me feel quite good about it.
+
+Donor's main reservations
+
+I have some reservations about the utility of mathematical formalizations of agency, as I think it's somewhat unclear how useful such a formalization actually would be or what we would do with it. That being said, I don't see much downside risk, and I certainly think there are some cases where it could be quite useful, such as for constructing good evaluations for agency in models.
+
+Process for deciding amount
+
+I am recommending the amount that Damiano requested as I think it is a reasonable amount given his breakdown.
+
+Conflicts of interest
+None.

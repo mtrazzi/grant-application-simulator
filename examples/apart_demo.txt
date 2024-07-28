@@ -1,0 +1,202 @@
+Help Apart Expand Global AI Safety Research
+-------------------------------------------
+
+[Science & technology](https://manifund.org/causes/science)[Technical AI safety](https://manifund.org/causes/tais)[AI governance](https://manifund.org/causes/ai-gov)[EA community](https://manifund.org/causes/ea)[Global catastrophic risks](https://manifund.org/causes/gcr)
+
+![Apart avatar](https://manifund.org/_next/image?url=https%3A%2F%2Ffkousziwzbnkdkldjper.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Favatars%2Fecd65514-f97e-4542-a8ce-e1aa8492ab93%2F6c05dbdd-a154-c739-62cb-fb398517449b&w=96&q=75)[
+
+Apart Research
+
+](https://manifund.org/Apart)
+
+ActiveGrant
+
+$17,632raised
+
+$248,000funding goal
+
+Donate
+------
+
+[Sign in to donate](https://manifund.org/login?redirect=/projects/help-apart-expand-global-ai-safety-research)
+
+Project summary
+---------------
+
+[Apart](https://apartresearch.com/) is an AI safety research organization that incubates talented researchers and facilitates innovative research in AI safety for hundreds of people around the globe through short [research sprints](https://alignmentjam.com/) and our Apart Lab [research fellowship](https://apartresearch.com/lab/fellowship).
+
+-   [Research Sprints (Alignment Jams)](https://apartresearch.com/sprints/overview): The Apart sprints offer weekend-long opportunities for talented individuals worldwide to engage in AI safety research and create original work.
+
+-   [Apart Lab Fellowship](https://apartresearch.com/lab/fellowship): The Apart Lab is a 3-6 month long online fellowship guiding promising teams of aspiring researchers to produce significant academic contributions showcased at world-leading AI safety conferences. Apart provides research mentorship and project management to participating teams.
+
+In 2023 alone, Apart has hosted 17 research sprints with more than 1000 participants and over 170 resulting projects; 10 of our 24 Apart Lab fellows have already completed their research, resulting in three publications accepted at top-tier academic ML workshops and conferences ([NeurIPS](https://arxiv.org/abs/2310.01870), [ACL](https://aclanthology.org/2023.findings-acl.733/), [ICLR](https://arxiv.org/abs/2305.19911)), and five currently under review ([1](https://arxiv.org/abs/2311.04131), [2](https://arxiv.org/abs/2310.08164), [3](https://arxiv.org/abs/2310.13121), two with restricted access); two of our fellows are on track to secure research positions with experienced AI safety researchers at Oxford University.
+
+Apart Research Sprints are
+
+-   Career-changing: Sprints are focused on increasing participants' ability and confidence to contribute to AI safety research with a self-reported update towards working on AI safety of 9.15 percentage points (see [testimonials](https://apartresearch.com/sprints/overview#testimonials) for their why).
+
+-   Research incubators: Sprints in 2022 and 2023 resulted in [more than 200 research projects](https://apartresearch.com/sprints/overview). See, for example, our sprint on [new failure cases in multi-agent AI systems](https://alignmentjam.com/jam/multiagent), resulting in 21 submitted projects, 2 workshop papers at NeurIPS ([1](https://openreview.net/forum?id=5HuBX8LvuT), [2](https://openreview.net/forum?id=HPmhaOTseN)), and 2 contributions to a major upcoming review on multi-agent security by CAIF.
+
+-   Global: We offer our sprints both fully remotely and at more than [50 in-person locations](https://alignmentjam.com/map) across the globe -- including top universities like Stanford, UC Berkeley, Cambridge, Oxford as well as comparatively underserved locations (India, Vietnam, Brazil, Kenya) -- to invite a global and diverse research community to engage with AI safety.
+
+-   Community-driven: With our decentralized approach, we make it easy for local organizers to run complex events (see [testimonials](https://alignmentjam.com/why)) and get together teams of researchers to think about the most important questions in AI safety (more than 200 research teams participated to date).
+
+Apart Lab Fellowships are
+
+-   Incubators for AI safety researchers: Apart Lab fellows take charge of their own research projects and become first authors on their paper while being supported with research guidance and project management by experienced mentors (see [testimonials from fellows](https://apartresearch.com/lab#testimonials)).
+
+-   Providers of counterfactual career benefit: We help fellows develop their research skills, connect with senior AI safety researchers (see [co-authors](https://apartresearch.com/research)), develop their research portfolio (in 2023, 3 conference papers + 5 papers under review) and secured impactful research roles (in 2023, two Apart Lab fellows on track to secure research positions with experienced AI safety researchers at Oxford University).
+
+-   Output-focused: Apart Lab fellows conceive impactful AI safety research, and Apart Lab helps them make it real! We provide the structure of a lab environment, including internal peer review, deadlines for accountability, as well as a default for sharing information (subject to our [info-hazard policy](https://alignmentjam.com/publishing-policy)) with the research community (see [all research outputs](https://apartresearch.com/research)) --- while prioritizing projects with impact.
+
+-   Remote-first: Apart Lab fellowships are open to aspiring researchers globally without requiring relocation to London or Berkeley.
+
+At Apart, our work is
+
+-   Impact-focused: Apart is dedicated to reducing existential risks from AI via AI safety technical research and governance, with a focus on empirical projects. Apart directly confronts AI safety challenges by facilitating research in mechanistic interpretability, safety evaluations, and conceptual alignment ([read more](https://apartresearch.com/research)) and by training the next generation of AI safety researchers.
+
+-   Filling important gaps: We aim to scale up AI safety mentorship and make it accessible to everyone across the globe. We maintain a positive, solution-focused, open-minded culture to invite a diverse community to contribute to AI safety research.
+
+-   Embedded in the wider AI safety ecosystem: We work with a wide array of research organizations such as [Apollo Research](https://www.apolloresearch.ai/), the [Cooperative AI Foundation](https://www.cooperativeai.com/foundation), the [Turing Institute](https://www.turing.ac.uk/), and [Oxford University](https://www.ox.ac.uk/) and have collaborated with researchers at [DeepMind](https://deepmind.google/) and [OpenAI](https://openai.com/). We also actively engage with the effective altruism community, e.g. by speaking at [EAGx](https://www.effectivealtruism.org/ea-global) conferences.
+
+What are this project's goals and how will you achieve them?
+------------------------------------------------------------
+
+Apart aims to reduce existential risk from AI by facilitating new AI safety research projects and incubating the next generation of global AI safety researchers. We achieve this by running global research sprints and an online research fellowship, which are neglected and impactful ways of incubating AI safety research projects and researchers from the global talent pool. This funding will allow us to improve the quality and scale of our incubation efforts over the next 6 months.
+
+Expand the reach of our research sprints
+
+-   In the first half of 2024, we aim to double the number of participants in our AI safety research sprints by engaging 1,000 new sprint participants, achieving this milestone in half the time it took to reach our first 1,000 while maintaining our priority on participant quality.
+
+-   Building on the success of our previous research sprints --- with our Interpretability, Evaluations, Governance and Benchmarks events drawing from 60 to over 150 participants each --- we will use the grant to improve their reach and quality by bringing in more partners (like [CAIF](http://cooperativeai.org/) and [Apollo Research](https://www.apolloresearch.ai/)), schedule our Sprints months in advance, advertising our sprints to more target groups, partnering with new local sites for the events, improving the infrastructure for the events and improving event mentorship and talks.
+
+-   Given the current abundance of work to be done in AI safety, we want to actively explore new agendas in technical AI safety and AI Governance, where possible in cooperation with other organizations (as we have done before with[ Entrepreneur First](https://www.joinef.com/) and the[ Cooperative AI Foundation](https://www.cooperativeai.com/foundation)).
+
+Bring more talented researchers into AI safety
+
+-   Having established [the Apart Lab](https://apartresearch.com/lab), we will increase capacity for the quantity and quality of mentorship to support fellows in becoming active contributors to impactful AI safety projects. Our focus extends to research agendas in technical governance and evaluations, in collaboration with partners specializing in applied alignment and AI security. Our goal is to produce outputs that are directly beneficial for governance and alignment, in addition to our academic publications.
+
+-   We have clear signs -- a good publication track record and early signs of being able to place Apart Lab graduates in impactful roles -- that the Apart Lab fellowship can accelerate aspiring researchers' impact in AI safety research and help them pick up the skills they need to succeed. We will invite 30 fellows during the Spring 2024 cohorts and significantly improve the quality of mentorship by adding capacity and improving processes.
+
+-   Our goal is to help aspiring AI safety researchers to get to a position where they can meaningfully contribute. We help transition skilled Apart Lab fellows into full-time roles when possible. This grant will also allow us to support the fellows' continued journey.
+
+How will this funding be used?
+------------------------------
+
+We seek funding to sustain and grow Apart as a whole. This includes the costs to run our research sprints and research fellowships, support for Apart Lab research fellows, as well as costs for compute, contractors, conference attendance, and payroll.
+
+To sustain these current efforts for the coming 6 months, we calculate the following funding needs:
+
+-   Salary costs: $105k
+
+-   Operational & Admin costs, incl. software, outreach, fiscal sponsorship, workspace and other miscellaneous costs: $33k
+
+-   Research costs, compute, APIs, conference travel: $26k
+
+To grow Apart further over the coming 6 months, we calculate the following funding needs:
+
+a) Expand the Apart core team (additional 2 FTE for six months; onboarding in process): $44k
+
+-   1FTE Ops and Fundraising support: $22k
+
+-   1FTE Research assistant for Apart Lab: $22k
+
+b) Offer stipends to Apart Lab fellows based on pre-determined milestones during the fellowship to allow our global community to dedicate more time to solving important issues within AI safety: $30k for 30 fellows during the coming six months at $1k / fellow.
+
+c) Attract and remunerate external senior mentors to provide support for our Apart Lab researchers, further improving the quality of our academic output: $10k for 200 mentor hours at ~$50/hour
+
+Based on the amount of funding received, we will prioritize allocating resources initially to maintain our operations, followed by investing in the growth of our organization, in accordance with the outlined priorities.
+
+Who is on your team and what's your track record on similar projects?
+---------------------------------------------------------------------
+
+Apart Research is led by [Esben Kran](https://www.notion.so/464e5bd35eea48e1b95adf9dc3ccd2ec?pvs=21) (Director) and [Jason Hoelscher-Obermaier](https://www.linkedin.com/in/jas-ho/?originalSubdomain=at) (Co-director). Our team members have previously worked for [ARC Evals](https://evals.alignment.org/) (now METR), [Aarhus University](https://chc.au.dk/), the [University of Vienna](https://www.univie.ac.at/en/), and 3 AI startups. Find an overview of the [Apart leadership on our website](https://apartresearch.com/about).
+
+Our success with both our Research Sprints and the Apart Lab fellowship is best showcased by the following milestones and achievements:
+
+Research Sprint Achievements:
+
+-   Since November 2022, Apart hosted 19 research sprints with 1,248 participants and 209 submitted projects, with research from the sprints accepted at top-tier conferences and workshops
+
+-   We have co-hosted and collaborated with many global research organizations, including [Apollo](https://www.apolloresearch.ai/), [CAIF](https://www.cooperativeai.com/foundation), and [Entrepreneur First](https://www.joinef.com/). Additionally, our Research Sprints hosted speakers from [DeepMind](https://deepmind.google/), [OpenAI](https://deepmind.google/), [Cambridge](https://www.cam.ac.uk/) and [NYU](https://www.nyu.edu/), among others
+
+-   We provided real value in our collaboration and contracting for [CAIF](https://www.cooperativeai.com/foundation) on a Multi-Agent Risks research report, resulting from our research sprint with over 150 signups and 21 submissions. Their Research Director Lewis Hammond had the following feedback:
+
+    > *We (the Cooperative AI Foundation) partnered with Apart Research to run a hackathon on multi-agent safety, to feed into an important report. We needed to work to tight deadlines but overall the process of organising the event was smooth, and there were many more participants than I was expecting. Of those I spoke to afterwards, everyone remarked on how much they enjoyed taking part.*
+
+-   Our Research Sprints have a meaningful impact on participants with an average net promoter score of 8.6/10 (indicating the likelihood of recommending the event to others) and 80% of participants reporting a 2x-10x or greater value in terms of counterfactual time spent. Below are some testimonials from participants following our Interpretability Research Sprint:
+
+    > *A great experience! A fun and welcoming event with some really useful resources for initiating interpretability research. And a lot of interesting projects to explore at the end!*
+
+    Alex Foote, MSc, Data Scientist - this project was incubated by Apart and eventually turned into a publication at ICLR 2023, with Alex as the Lead author
+
+    > *The Interpretability Hackathon exceeded my expectations, it was incredibly well organized with an intelligently curated list of very helpful resources. I had a lot of fun participating and genuinely feel I was able to learn significantly more than I would have, had I spent my time elsewhere. I highly recommend these events to anyone who is interested in this sort of work!*
+
+    *Chris Mathwin, MATS scholar*
+
+Apart Lab Achievements:
+
+-   In 2023, Apart Lab fellows published 6 papers in total; among them 3 at [ACL](https://aclanthology.org/2023.findings-acl.733/) and workshop tracks of [NeurIPS](https://arxiv.org/abs/2310.01870) and [ICLR](https://arxiv.org/abs/2305.19911). Our publications have tackled model evaluations (e.g. the[ robustness of model editing techniques](https://aclanthology.org/2023.findings-acl.733/)) and mechanistic interpretability (e.g. of [interpreting intrinsic reward models learned by RLHF](https://arxiv.org/abs/2310.08164)), as well as providing accessible and scalable tools for probing model internals (e.g. [neuron2graph](https://arxiv.org/abs/2310.08164) and [DeepDecipher](https://arxiv.org/abs/2310.01870)). With more funding, we would invest more time into mentoring and establishing external collaborations to further improve the impact potential of our research outputs. 
+
+-   Two Apart Lab graduates are on track to secure research positions with experienced AI safety researchers at Oxford University. This demonstrates that Apart Lab can identify and mentor top talent. In the coming six months, we want to significantly increase the number of placements by improving our processes for follow-up support to our graduates and investing more time in follow-up mentoring.
+
+-   Apart Lab also provided significant mentoring value to our fellows as evidenced in the following testimonials:
+
+    > *As an undergraduate with little experience in academia, Apart was very helpful in guiding me through the process of improving my work through the publication process. They helped me to bridge the gap between a rough hackathon submission and a well-refined conference paper. I'd recommend the Apart Lab Fellowship for anyone looking to break into the research community and work on the pressing problems in AI Safety today."*
+    >
+    > *"Like lots (most?) people at Apart Lab, I'm trying to transition from one career to another in AI Safety. There is no well-trodden "best" path so an organisation like Apart Lab which is willing to help individuals for free is a god send. My initial entry was the Hackathon - which was a tough weekend, as I came in with little AI knowledge, but I made some (little) progress, and received positive feedback from the moderators. [...] If (when!) I land a job in AI Safety it will be because of Apart Lab's help. It's a great organisation.*
+
+We aim to build on and improve upon our existing track record to incubate more high-impact AI safety researchers around the globe.
+
+What are the most likely causes and outcomes if this project fails? (premortem)
+-------------------------------------------------------------------------------
+
+We list the most likely possible causes of failures specific to our projects, together with the likely default outcomes and the mitigation strategies we will implement.
+
+-   Info-hazards
+
+    -   Outcome: Publishing work that disproportionately helps dangerous capabilities compared to safety
+
+    -   Mitigation strategies: Define and refine our [publication policy](https://alignmentjam.com/publishing-policy) to have internal and external review for info hazards
+
+-   Lack of research taste for Apart
+
+    -   Outcome: The events and projects from Apart focus on less impactful or even harmful research topics
+
+    -   Mitigation strategies: Obtain external feedback on Apart's research portfolio; continue to collaborate with external advisors and researchers with complementary backgrounds; and continue exposing our research to scientific peer review
+
+-   Lack of research taste for participants and fellows
+
+    -   Outcome: Aspiring researchers spend too much time on fruitless research
+
+    -   Mitigation strategies: Our mentors and collaborators continually discuss and evaluate research projects on informative review criteria for research taste and impact; mentor meetings focus on empowering and guiding the fellows' own research
+
+-   Lab graduates do not realize their potential after the fellowship
+
+    -   Outcome: Lab fellows either get a non-AI-safety industry job or do not realize their potential within AI safety
+
+    -   Mitigation strategies: Besides the output-focused fellowship structure which helps fellows build legible AI safety credentials, we also stay in contact with and follow up with fellows to provide feedback and opportunities
+
+-   Unintentional support of capability-focused organizations
+
+    -   Outcome: Our research or partnerships indirectly assists capability-oriented organizations
+
+    -   Mitigation strategies: We discuss our partnerships with external advisors and consider the implications of our projects on capabilities advancement (in addition to following our project publication policy)
+
+-   De-motivating AI safety talent
+
+    -   Outcome: Talented and initially motivated individuals end up not contributing to AI safety research
+
+    -   Mitigation strategies: Gather anonymous feedback on the frequency and quality of mentorship, focusing on mentor availability and skill relevance; monitor and adjust project deadlines to ensure they are not jeopardizing mental health and work-life balance; clear communication around the academic review process to put potential rejections into context; and ensuring that research outputs' impact are communicated.
+
+-   Poor selection of Apart Lab fellows
+
+    -   Outcome: We select fellows who do not have the right skills to contribute to AI safety research or cannot do so for logistical reasons
+
+    -   Mitigation strategies: Improve reach and targeting of sprints; improve our evaluation processes for Apart Lab candidates, focusing on the research and collaboration skills demonstrated during the sprint and during an initial trial phase.
+
+We believe that, given its past track record, Apart has a high chance of continued success if we devote sufficient attention to these potential risks and implement appropriate mitigation strategies.
+
+### What other funding are you or your project getting?
+
+Apart receives several project-specific sponsorships or contractor assignments ranging from $1,000 to $20,000 that are outside of the scope of this grant. Previous sponsors include Apollo Research, EntrepreneurFirst, and CAIF. To support Apart's continued development in impactful research, we are seeking funding from currently open AI safety foundations, including CLR and EA Funds. We anticipate a high counterfactual value of the funding during the next 6 months.

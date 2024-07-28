@@ -1,0 +1,55 @@
+Making 52 AI Alignment Video Explainers and Podcasts
+--------------------------------------------
+
+I will publish 52 video explainers and podcasts about AI Alignment in a year.
+
+What are this project's goals and how will you achieve them?
+Goal is to publish one video explainer or podcast about AI Alignment a week for a year (52 videos total). I will achieve this goal by:
+
+preparing interviews, recording & editing them and publishing the transcripts
+
+reading AI Alignment papers, writing scripts, recording, editing and then uploading explainers
+
+How will this funding be used?
+Funding will be used to pay for my salary (including taxes).
+
+For full funding amount ($40,000):
+
+Produce 52 videos
+
+Travel budget for in-person interviews
+
+Budget for outsourcing assistance
+
+For amounts higher than minimum funding ($500):
+
+Will produce videos proportionally to how much funding I get
+
+eg. if I get 50% of the full funding I'll produce 52 / 2 = 26 videos
+
+Primarily remote interviews
+
+Who is on your team and what's your track record on similar projects?
+I am the only person on the team (cf. my website).
+
+I am on track to publishing approximately 43 video explainers and podcasts in 2024 (published 5 in the past 6 weeks), building on 49 video explainers and podcasts in 2023.
+
+Track record on podcasts:
+
+Guests have included prominent alignment researchers such as Evan Hubinger, Collin Burns, Neel Nanda, Victoria Krakovna, David Krueger.
+
+Most episodes generate 500-1k plays (meaning a download or someone listening to >1m).
+
+Three popular episodes: Joscha Bach (3k plays, 35k views), Robert Miles (1.3k plays, 35k views), and Connor Leahy (1.2k plays, 16k views)
+
+Track record on video explainers :
+
+Published 5 video explainers to date (1-5k views each)
+
+What are the most likely causes and outcomes if this project fails? (premortem)
+I underestimate the time needed per video for quality/impact, forcing me to reduce volume goals
+
+My time is overcommitted to other personal and life priorities that limit video creation
+
+What other funding are you or your project getting?
+I get ~$100 / month from Patreon (16 supporters).
