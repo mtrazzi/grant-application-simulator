@@ -59,9 +59,17 @@ In the new VS Code window, do Cmd+P then look for "> Grant Application Simulator
 
 Select some text that you see on screen. You can select all text from Jacques proposal for the demo, or paste any text you want and select this instead.
 
+To navigate to different files without quitting the "Grant Application Simulator" what I do is I click on "examples" inside the path of the current file and then navigate to other files from examples by clicking on them, as you can see in the screenshot below.
 
+![screenshot](media/navigate.png)
 
-8. **Troubleshooting:**
+(This is not ideal but I haven't figured out how to do both at the same time in a more clean way yet.)
+
+9. **Use the key features:**
+
+The three buttons are pretty self explanatory. You can also click on stop process to stop the process. Note that this takes a couple of seconds.
+
+10. **Troubleshooting:**
 
 If you encounter "command not found" errors, verify that the command names in your code match those in package.json.
 For issues with the Anthropic API key, use the "Reset API Key" command to set a new key.
@@ -71,6 +79,48 @@ For issues with the Anthropic API key, use the "Reset API Key" command to set a 
 Answers are sometimes truncated.
 
 Response time are long (more than 10 seconds), and the request timeouts are not perfectly handled.
+
+## Trying out with different people
+
+If you want to change the researchers or grantmakers, you should change one of these three lines in `SidebarProvider.ts` with a different name, but please make sure you also include the corresponding data (with the filename being "lowerfirstname_lowerlastname.txt") to [src/prompts](src/prompts):
+
+```
+researchers: ['Evan Hubinger', 'Adam Gleave', 'Oliver Habryka', 'Austin Chen']
+
+researchers: ['Ethan Perez', 'Rohin Shah', 'Paul Christiano']
+
+const debaters = ['Evan Hubinger', 'Austin Chen', 'Oliver Habryka', 'Adam Gleave']
+```
+
+Ideally the data would be about grantmaking or similar for the first and last line, and about research methodology for the middle line.
+
+## Main files
+
+``` bash
+#Typescript
+  |src/SidebarProvider.ts                  #All of the UX of the extension and features are here. Calls extension.ts
+  |src/extension.ts                        #Provides core functions and the package's commands
+
+#Javascript
+  |media/main.js                           #Has some of the logic behind the buttons
+
+#src/prompts
+  |adam_gleave.txt                         #Adam Gleave Manifund comments + LTFF writeups
+  |austin_chen.txt                         #Austin's Manifund comments (formatted)
+  |ethan_perez.txt                         #Ethan's post on advice for alignment research + a claude summary of another post
+  |evan_hubinger.txt                       #Evan's Manifund commetns + LTFF writeups
+  |oliver_habryka.txt                      #Oliver's LTFF writeups
+  |paul_christiano.txt                     #One post by Paul on research methodology
+  |rohin_shah.txt                          #One post by Rohin about AI Alignment Research advice
+
+#src/examples
+  |apart_demo.txt                          #Text to make a demo of using the extension on Apart's Manifund proposal.
+  |...
+
+#Config files
+  |package.json                            #Register the commands etc, dependencies etc.
+  |launch.json                             #What to launch or open at startup (feel free to customize)
+```
 
 ## Release Notes
 
