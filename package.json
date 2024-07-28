@@ -1,6 +1,6 @@
 {
-  "name": "call-claude",
-  "displayName": "Call Claude",
+  "name": "grant-application-simulator",
+  "displayName": "Grant Application Simulator",
   "description": "",
   "version": "0.0.1",
   "engines": {
@@ -13,12 +13,12 @@
   "main": "./out/extension.js",
   "contributes": {
     "configuration": {
-    "title": "AI Alignment Feedback",
+    "title": "Grant Application Simulator",
     "properties": {
       "alignmentFeedback.anthropicApiKey": {
         "type": "string",
         "default": "",
-        "description": "Anthropic API Key for the AI Alignment Feedback extension"
+        "description": "Anthropic API Key for the Grant Application Simulator extension"
       }
     }
   },
