@@ -1,34 +1,22 @@
-# call-claude README
-
-This is the README for your extension "call-claude". After writing up a brief description, we recommend including the following sections.
+# grant-application-simulator
 
 ## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+Three main features:
+- Grantmaking Advice: simulates feedback from grantmakers (summarized, then full feedback).
+- Research Methodology Advice: Alignment Researchers criticize methodology.
+- Grantmaker Debate Simulation: debate between two grantmakers.
 
 ## Requirements
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
-
-## Extension Settings
-
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
-
-For example:
-
-This extension contributes the following settings:
-
-* `myExtension.enable`: Enable/disable this extension.
-* `myExtension.thing`: Set to `blah` to do something.
+Requires an Anthropic API key (get one [here]([url](https://docs.anthropic.com/en/api/getting-started))).
 
 ## Known Issues
 
-Calling out known issues can help limit users opening duplicate issues against your extension.
+Answers are sometimes truncated.
+
+Response time are long (more than 10 seconds), and the request timeouts are not perfectly handled.
 
 ## Release Notes
 
-## Following extension guidelines
-
-Ensure that you've read through the extensions guidelines and follow the best practices for creating your extension.
-
-* [Extension Guidelines](https://code.visualstudio.com/api/references/extension-guidelines)# grant-application-simulator
+Jul 29: releasing v0.1 for the [Research Augmentation Hackathon: Supercharging AI Alignment](https://www.apartresearch.com/event/research-augmentation-hackathon-supercharging-ai-alignment) 
