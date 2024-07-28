@@ -257,29 +257,47 @@ export async function simulateGrantmakerDebate(
     return finalDebate;
 }
 
+function getApiKey(context: vscode.ExtensionContext): Promise<string | undefined> {
+    return new Promise((resolve) => {
+        let apiKey = vscode.workspace.getConfiguration().get('grantApplicationSimulator.anthropicApiKey') as string;
 
+        if (!apiKey || apiKey.trim() === '') {
+            vscode.window.showInputBox({
+                prompt: 'Please enter your Anthropic API Key',
+                password: true
+            }).then(inputApiKey => {
+                if (inputApiKey && inputApiKey.trim() !== '') {
+                    vscode.workspace.getConfiguration().update('grantApplicationSimulator.anthropicApiKey', inputApiKey, true);
+                    resolve(inputApiKey);
+                } else {
+                    vscode.window.showErrorMessage('Anthropic API Key is required to use this extension.');
+                    resolve(undefined);
+                }
+            });
+        } else {
+            resolve(apiKey);
+        }
+    });
+}
 
 export function activate(context: vscode.ExtensionContext) {
-    console.log('Congratulations, your extension "alignment-feedback" is now active!');
+    console.log('Congratulations, your extension "grant-application-simulator" is now active!');
 
-    let apiKey = vscode.workspace.getConfiguration().get('alignmentFeedback.anthropicApiKey') as string;
+    let apiKey = vscode.workspace.getConfiguration().get('grantApplicationSimulator.anthropicApiKey') as string;
 
-    if (!apiKey) {
-        vscode.window.showInputBox({
-            prompt: 'Please enter your Anthropic API Key',
-            password: true
-        }).then(inputApiKey => {
-            if (inputApiKey) {
-                vscode.workspace.getConfiguration().update('alignmentFeedback.anthropicApiKey', inputApiKey, true);
-                apiKey = inputApiKey;
-                initializeExtension(context, apiKey);
-            } else {
-                vscode.window.showErrorMessage('Anthropic API Key is required to use this extension.');
-            }
+    let resetApiKeyCommand = vscode.commands.registerCommand('grant-application-simulator.resetApiKey', () => {
+        vscode.workspace.getConfiguration().update('grantApplicationSimulator.anthropicApiKey', undefined, true).then(() => {
+            vscode.window.showInformationMessage('API Key has been reset. The extension will prompt for a new key on next use.');
         });
-    } else {
-        initializeExtension(context, apiKey);
-    }
+    });
+
+    context.subscriptions.push(resetApiKeyCommand);
+
+    getApiKey(context).then(apiKey => {
+        if (apiKey) {
+            initializeExtension(context, apiKey);
+        }
+    });
 }
 
 function initializeExtension(context: vscode.ExtensionContext, apiKey: string) {
@@ -287,18 +305,18 @@ function initializeExtension(context: vscode.ExtensionContext, apiKey: string) {
 
     context.subscriptions.push(
         vscode.window.registerWebviewViewProvider(
-            "alignment-feedback-view",
+            "grant-application-simulator-view",
             sidebarProvider
         )
     );
 
-    let disposable = vscode.commands.registerCommand('alignment-feedback.showFeedbackView', () => {
-        vscode.commands.executeCommand('workbench.view.extension.alignment-feedback');
+    let disposable = vscode.commands.registerCommand('grant-application-simulator.showFeedbackView', () => {
+        vscode.commands.executeCommand('workbench.view.extension.grant-application-simulator');
     });
 
     context.subscriptions.push(disposable);
 
-    vscode.commands.executeCommand('workbench.view.extension.alignment-feedback');
+    vscode.commands.executeCommand('workbench.view.extension.grant-application-simulator');
 }
 
 export function deactivate() {}

@@ -9,47 +9,46 @@
   "categories": [
     "Other"
   ],
-  "activationEvents": [],
+  "activationEvents": [
+    "onView:grant-application-simulator-view",
+    "onCommand:grant-application-simulator.resetApiKey"
+  ],
   "main": "./out/extension.js",
   "contributes": {
     "configuration": {
-    "title": "Grant Application Simulator",
-    "properties": {
-      "alignmentFeedback.anthropicApiKey": {
-        "type": "string",
-        "default": "",
-        "description": "Anthropic API Key for the Grant Application Simulator extension"
+      "title": "Grant Application Simulator",
+      "properties": {
+        "grantApplicationSimulator.anthropicApiKey": {
+          "type": "string",
+          "default": "",
+          "description": "Anthropic API Key for the Grant Application Simulator extension"
+        }
       }
-    }
-  },
-"commands": [
+    },
+    "commands": [
       {
-        "command": "alignment-feedback.projectSelectionFeedback",
-        "title": "Project Selection Feedback"
+        "command": "grant-application-simulator.showFeedbackView",
+        "title": "Grant Application Simulator"
       },
       {
-        "command": "alignment-feedback.alignmentAgendaFeedback",
-        "title": "Alignment Agenda Feedback"
-      },
-      {
-        "command": "alignment-feedback.showFeedbackView",
-        "title": "Show Alignment Feedback View"
+        "command": "grant-application-simulator.resetApiKey",
+        "title": "Grant Application Simulator: Reset API Key"
       }
     ],
-  "viewsContainers": {
+    "viewsContainers": {
       "activitybar": [
         {
-          "id": "alignment-feedback",
+          "id": "grant-application-simulator",
           "title": "Grant Application Simulator",
           "icon": "media/icon.svg"
         }
       ]
     },
     "views": {
-      "alignment-feedback": [
+      "grant-application-simulator": [
         {
           "type": "webview",
-          "id": "alignment-feedback-view",
+          "id": "grant-application-simulator-view",
           "name": "Main Panel"
         }
       ]
