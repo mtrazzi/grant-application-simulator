@@ -490,15 +490,7 @@ and is low-budget, so it's a cheap bet to see what this team can accomplish. I'm
 
 
 """
-===
-Title: Making 52 AI Alignment Video Explainers and Podcasts (6 months ago)
 
-Austin Chen's comment:
-"""
-I'm donating a token amount for now to signal interest, and get this project across its minimum funding bar. I have not listened much to The Inside View, but the guests Michael have attracted are quite good (eg recently Manifund regrantor @evhub and grantee @Holly_Elmore). The production quality seems pretty good at a glance (with editing & transcripts available). I also really like that Michael has also been consistently doing these for a year; I could imagine wanting to fund this project a lot more, upon further research or testimonials.
-
-My primary misgivings are the low-ish view counts on Youtube, and uncertainty on whether Michael's videos have been helpful for others - this is where more testimonials like Cameron's are helpful!
-"""
 ===Title: Developing materials on forecasting for governments (6 months ago)
 
 Reposting my notes on this while evaluating for ACX:
@@ -581,20 +573,7 @@ thing would be useful and good.
 
 I think e/acc is intellectually interesting (and am intrigued by some ideas eg silicon descendents would be no morally worse than biological descendents), and would like to have a clearer understanding of what the key principles of its proponents are. Collaborating with core e/accs and EAs to get a balanced perspective sounds like a good idea (otherwise I'd worry that the FAQ would come across as a bit of a caricature).
 """
-===Title: Help Apart Expand Global AI Safety Research (7 months ago)
 
-@NunoSempere I also think that Apart is interesting; at the very least, I think they have an amount of "gets things done" Austin Chen's comment:
-"""
-and marketing power that otherwise can be missing from the EA ecosystem. And they have a really pretty website!
-
-I am similarly confused why they haven't received funding from the usual suspects (OpenPhil, LTFF). On one hand, this makes me concerned about adverse selection; on the other, "grants that OP/LTFF wouldn't make but are Actually Good" would be an area of interest for Manifund. I would be in favor of someone evaluating this in-depth; if you plan on doing this yourself, I'd offer to contribute $2k to your regrantor budget (or other charitable project of your choice eg ALERT) for a ~10h writeup.
-
-See also two previous Manifund projects from Apart's leadership:
-
-Esben: Run five international hackathons on AI safety research
-
-Fazl: Build an AI Safety Lab at Oxford University
-"""
 ===Title: Curated Markets (7 months ago)
 
 Hi Mick, this seems like an interesting proposal; did you mean to submit to the Manifold Community Fund for consideration Austin Chen's comment:
